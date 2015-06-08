@@ -1,0 +1,485 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6752AC1C-43D4-4F29-900A-756530DA4D0C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.Reports.Payroll</RootNamespace>
+    <AssemblyName>HROne.Reports.Payroll</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="NPOI, Version=1.2.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet\Payroll_KTPFundStatement.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_KTPFundStatement.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_ORSOStatement.cs">
+      <DependentUpon>Payroll_ORSOStatement.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KTPFundStatementProcess.cs" />
+    <Compile Include="DataSet\Payroll_NewJoinPaymentSummary.cs">
+      <DependentUpon>Payroll_NewJoinPaymentSummary.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\Payroll_NewJoinPaymentSummary.Designer.cs">
+      <DependentUpon>Payroll_NewJoinPaymentSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewJoinPaymentSummaryProcess.cs" />
+    <Compile Include="PaymentAllocationReport_Detail_Process.cs" />
+    <Compile Include="DataSet\Payroll_EEDAWList.cs">
+      <DependentUpon>Payroll_EEDAWList.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\Payroll_FinalPaymentStatement.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_FinalPaymentStatement.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_LongServicePaymentSeverancePayment_List.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_LongServicePaymentSeverancePayment_List.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_NetPaymentList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_NetPaymentList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LongServicePaymentSeverancePaymentProcess.cs" />
+    <Compile Include="FinalPaymentStatementProcess.cs" />
+    <Compile Include="NetPaymentListByPaymentMethodProcess.cs" />
+    <Compile Include="DataSet\Payroll_EEDAWList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_EEDAWList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_EEOverallPayrollSummary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_EEOverallPayrollSummary.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_MPFDetailList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_MPFDetailList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_MPFRemittanceStatement.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_ORSOStatement.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_ORSOStatement.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_PaySlip.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_PaySlip.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Payroll_TrialRunSummary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_TrialRunSummary.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DiscrepancyListReportProcess.cs" />
+    <Compile Include="EEDAWListReportProcess.cs" />
+    <Compile Include="DataSet\Payroll_DiscrepancyList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_DiscrepancyList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="EEOverallPaymentSummaryProcess.cs" />
+    <Compile Include="PaymentAllocationListProcess.cs" />
+    <Compile Include="PaymentSummaryList.cs" />
+    <Compile Include="PayrollDetailProcess.cs" />
+    <Compile Include="PayrollSummaryProcess.cs" />
+    <Compile Include="PFundStatementProcess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MPFDetailListProcess.cs" />
+    <Compile Include="ReportTemplate\Report_Payroll_KTPFundStatement.cs">
+      <DependentUpon>Report_Payroll_KTPFundStatement.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_LongServicePaymentSeverancePayment_List.cs">
+      <DependentUpon>Report_Payroll_LongServicePaymentSeverancePayment_List.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_FinalPaymentStatement.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_FinalPaymentStatement.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_HistorySummary.cs">
+      <DependentUpon>Report_Payroll_HistorySummary.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_NetPaymentListByPaymentMethod.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_NetPaymentListByPaymentMethod.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_DiscrepancyList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_DiscrepancyList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_EEDAWList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_EEDAWList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_EEOverallPaymentSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_EEOverallPaymentSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_HistoryDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_HistoryDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFDetailList.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_MPFDetailList.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_NewJoinPaymentSummary.cs">
+      <SubType>Component</SubType>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_NewJoinPaymentSummary.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_PaySlip.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_PaySlip.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_PaySlipDotMatrix.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_PaySlipDotMatrix.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_PFundStatement.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_PFundStatement.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_TrialRunDetail.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_TrialRunDetail.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_TrialRunSummary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_TrialRunSummary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Leave\HROne.Lib.Leave.csproj">
+      <Project>{6BEC347D-AA72-437E-9E41-A5E7BB03056F}</Project>
+      <Name>HROne.Lib.Leave</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Payroll\HROne.Lib.Payroll.csproj">
+      <Project>{FA33A1C3-697E-4F93-96DA-82061FA4EEE8}</Project>
+      <Name>HROne.Lib.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_KTPFundStatement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_KTPFundStatement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_LongServicePaymentSeverancePayment_List.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_LongServicePaymentSeverancePayment_List.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_FinalPaymentStatement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_FinalPaymentStatement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_HistorySummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_HistorySummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_NetPaymentListByPaymentMethod.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_NetPaymentListByPaymentMethod.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_DiscrepancyList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_DiscrepancyList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_EEDAWList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_EEDAWList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_EEOverallPaymentSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_EEOverallPaymentSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_HistoryDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_HistoryDetail.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFDetailList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFDetailList.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_NewJoinPaymentSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_NewJoinPaymentSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_PaySlip.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_PaySlip.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_PaySlipDotMatrix.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_PaySlipDotMatrix.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_PFundStatement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_PFundStatement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_TrialRunDetail.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_TrialRunDetail.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_TrialRunSummary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_TrialRunSummary.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet\Payroll_FinalPaymentStatement.xsc">
+      <DependentUpon>Payroll_FinalPaymentStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_FinalPaymentStatement.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_FinalPaymentStatement.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_FinalPaymentStatement.xss">
+      <DependentUpon>Payroll_FinalPaymentStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_KTPFundStatement.xsc">
+      <DependentUpon>Payroll_KTPFundStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_KTPFundStatement.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_KTPFundStatement.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\Payroll_KTPFundStatement.xss">
+      <DependentUpon>Payroll_KTPFundStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_LongServicePaymentSeverancePayment_List.xsc">
+      <DependentUpon>Payroll_LongServicePaymentSeverancePayment_List.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_LongServicePaymentSeverancePayment_List.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_LongServicePaymentSeverancePayment_List.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\Payroll_LongServicePaymentSeverancePayment_List.xss">
+      <DependentUpon>Payroll_LongServicePaymentSeverancePayment_List.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_NetPaymentList.xsc">
+      <DependentUpon>Payroll_NetPaymentList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_NetPaymentList.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_NetPaymentList.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\Payroll_NetPaymentList.xss">
+      <DependentUpon>Payroll_NetPaymentList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_EEDAWList.xsc">
+      <DependentUpon>Payroll_EEDAWList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_EEDAWList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_EEDAWList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_EEDAWList.xss">
+      <DependentUpon>Payroll_EEDAWList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_DiscrepancyList.xsc">
+      <DependentUpon>Payroll_DiscrepancyList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_DiscrepancyList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_DiscrepancyList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_DiscrepancyList.xss">
+      <DependentUpon>Payroll_DiscrepancyList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_EEOverallPayrollSummary.xsc">
+      <DependentUpon>Payroll_EEOverallPayrollSummary.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_EEOverallPayrollSummary.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_EEOverallPayrollSummary.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_EEOverallPayrollSummary.xss">
+      <DependentUpon>Payroll_EEOverallPayrollSummary.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFDetailList.xsc">
+      <DependentUpon>Payroll_MPFDetailList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFDetailList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_MPFDetailList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_MPFDetailList.xss">
+      <DependentUpon>Payroll_MPFDetailList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xsc">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_MPFRemittanceStatement.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xss">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_NewJoinPaymentSummary.xsc">
+      <DependentUpon>Payroll_NewJoinPaymentSummary.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_NewJoinPaymentSummary.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_NewJoinPaymentSummary.xss">
+      <DependentUpon>Payroll_NewJoinPaymentSummary.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_ORSOStatement.xsc">
+      <DependentUpon>Payroll_ORSOStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_ORSOStatement.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_ORSOStatement.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_ORSOStatement.xss">
+      <DependentUpon>Payroll_ORSOStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_PaySlip.xsc">
+      <DependentUpon>Payroll_PaySlip.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_PaySlip.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_PaySlip.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_PaySlip.xss">
+      <DependentUpon>Payroll_PaySlip.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_TrialRunSummary.xsc">
+      <DependentUpon>Payroll_TrialRunSummary.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_TrialRunSummary.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_TrialRunSummary.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_TrialRunSummary.xss">
+      <DependentUpon>Payroll_TrialRunSummary.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

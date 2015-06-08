@@ -1,0 +1,1255 @@
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HRPlus.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131008\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Debug\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Debug\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Payroll.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Leave.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Import.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\bin\Release\HROne.Lib.Attendance.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Lib.Payroll\obj\Release\HROne.Lib.Payroll.pdb

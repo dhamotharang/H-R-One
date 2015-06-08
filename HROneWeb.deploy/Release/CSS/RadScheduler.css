@@ -1,0 +1,36 @@
+﻿
+div.RadScheduler
+{
+	position:relative;
+    z-index: 0;
+}
+
+.rsApt,
+.rsAptIn, 
+.rsAptContent,
+.RadScheduler .rsMonthView .rsAptOut, 
+.RadScheduler .rsMonthView .rsAptMid,
+.RadScheduler .rsWeekView .rsAllDayRow .rsAptOut, 
+.RadScheduler .rsWeekView .rsAllDayRow .rsAptMid
+{
+   min-height: 30px !important;
+   height: auto !important;
+}
+ 
+.RadScheduler .rsMonthView .rsWrap,
+.RadScheduler .rsWeekView .rsAllDayRow .rsWrap
+{
+   min-height: 34px !important;
+   height: auto !important;
+}
+ 
+    
+.RadSchedulerHoliday
+{
+	background: peachpuff !important;
+}  
+
+.RadSchedulerToday
+{
+	background: #ffff66 !important;
+}  

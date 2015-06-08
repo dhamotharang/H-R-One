@@ -1,0 +1,1330 @@
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HRPlus.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131008\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.HSBC.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.HSBC.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Debug\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\ICBCBankFile.xls
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.BankFile.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.HSBC.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.MPFFile.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.MPFFile.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover_Cht.RPT
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.HSBCBankFileEncryptedCover.RPT
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\HROne.BankFile.ReportTemplate.Report_Payroll_AutopayList.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\HROne.BankFile.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.BankFile\obj\Release\HROne.BankFile.pdb

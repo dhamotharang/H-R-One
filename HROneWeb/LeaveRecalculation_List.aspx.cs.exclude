@@ -1,0 +1,137 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using HROne.DataAccess;
+
+using HRPlus.Lib.Entities;
+
+public partial class LeaveRecalculation_List : System.Web.UI.Page
+{
+    protected DBManager db = EEmpPersonalInfo.db;
+    protected SearchBinding binding;
+    protected ListInfo info;
+    protected DataView view;
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!WebUtils.CheckAccess(Response, Session, "SYS001", WebUtils.AccessLevel.Read))
+            return;
+
+        binding = new SearchBinding(dbConn, db);
+        //binding.add(new LikeSearchBinder(LoginID, "LoginID"));
+        //binding.add(new LikeSearchBinder(EmpName, "EmpName"));
+
+        binding.init(DecryptedRequest, null);
+
+        HRPlus.Common.WebUtility.WebControlsLocalization(this, this.Controls);
+
+        if (!Page.IsPostBack)
+        {
+            loadState();
+            view = loadData(info, db, Repeater);
+        }
+        
+    }
+    public void loadState()
+    {
+        info = new ListInfo();
+        int page = 0;
+        if (!CurPage.Value.Equals(""))
+            page = Int32.Parse(CurPage.Value);
+        info.loadState(Request, page);
+    }
+    public DataView loadData(ListInfo info, DBManager db, Repeater repeater)
+    {
+        DBFilter filter = binding.createFilter();
+
+        if (info != null && info.orderby != null && !info.orderby.Equals(""))
+            filter.add(info.orderby, info.order);
+
+        string select = "c.*";
+        string from = "from [" + db.dbclass.tableName + "] c ";
+
+        DataTable table = WebUtils.GetDataTableFromSelectQueryWithFilter(dbConn, select, from, filter, info);
+        
+        view = new DataView(table);
+        if (info != null)
+        {
+            info.loadPageList(null, PrevPage, NextPage, FirstPage, LastPage);
+            WebUtils.loadPageList(PrevPage, PrevPageImg, NextPage, NextPageImg, FirstPage, FirstPageImg, LastPage, LastPageImg);
+            
+            CurPage.Value = info.page.ToString();
+            NumPage.Value = info.numPage.ToString();
+        }
+        if (repeater != null)
+        {
+            repeater.DataSource = view;
+            repeater.DataBind();
+        }
+
+        return view;
+    }
+    protected void Search_Click(object sender, EventArgs e)
+    {
+        info = new ListInfo();
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void Reset_Click(object sender, EventArgs e)
+    {
+        binding.clear();
+        info = new ListInfo();
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void FirstPage_Click(object sender, EventArgs e)
+    {
+        loadState();
+        info.page=0;
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void PrevPage_Click(object sender, EventArgs e)
+    {
+        loadState();
+        info.page--;
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void NextPage_Click(object sender, EventArgs e)
+    {
+        loadState();
+        info.page++;
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void LastPage_Click(object sender, EventArgs e)
+    {
+        loadState();
+        
+        info.page = Int32.Parse(NumPage.Value);
+        view = loadData(info, db, Repeater);
+
+    }
+    protected void ChangeOrder_Click(object sender, EventArgs e)
+    {
+        LinkButton l = (LinkButton)sender;
+        String id = l.ID.Substring(1);
+        loadState();
+        if (info.orderby == null)
+            info.order = true;
+        else if (info.orderby.Equals(id))
+            info.order = !info.order;
+        else
+            info.order = true;
+        info.orderby = id;
+
+        view = loadData(info, db, Repeater);
+
+    }
+}

@@ -1,0 +1,190 @@
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.14\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.14\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.14\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.14\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.14\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.15\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.16\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.17\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.17\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.17\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.17\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.17\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.18\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.19\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.20\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.21\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.22\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.22\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.22\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.22\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.22\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.23\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.23\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.23\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.23\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.23\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.24\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.25\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.25\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.25\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.25\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.25\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.26\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.27\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.27\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.27\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.27\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.27\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000166\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000166\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000166\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000163\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000168\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000168\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 000168\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 0000109\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 0000109\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core - 0000109\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.28\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.29\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.30\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\bin\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Debug\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.31\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.32\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.32\Core\AttendanceFileConverter\Integrated\bin\Release\FixLen2Delimited.pdb
+D:\Projects\HROne\source 1.0.32\Core\AttendanceFileConverter\Integrated\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.32\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.exe
+D:\Projects\HROne\source 1.0.32\Core\AttendanceFileConverter\Integrated\obj\Release\FixLen2Delimited.pdb

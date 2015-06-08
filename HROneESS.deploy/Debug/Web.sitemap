@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title=""  description="">
+    <siteMapNode url="~/ESS_EmpView.aspx" title="Employee Profile" description="Employee Profile" ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpOTClaims.aspx" title="CL Requisition" description="CL Requisition"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpOTClaimsHistory.aspx" title="CL Requisition History" description="CL Requisition History"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpLeaveApplication.aspx" title="Leave Application" description="Leave Application"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpLeaveHistoryEnquiry.aspx" title="Leave History Enquiry" description="Leave History Enquiry"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpLeaveBalanceEnquiry.aspx" title="Leave Balance Enquiry" description="Leave Balance Enquiry"  ImageUrl="images/dot.jpg"/>
+    <!-- Start 0000112, Miranda, 2014-12-10 -->
+    <siteMapNode url="~/ESS_EmpLateWaive.aspx" title="Late Waive" description="Late Waive"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpLateWaiveHistory.aspx" title="Late Waive History" description="Late Waive History"  ImageUrl="images/dot.jpg"/>
+    <!-- End 0000112, Miranda, 2014-12-10 -->
+    <siteMapNode url="~/ESS_EmpRequestStatus.aspx" title="Request Status" description="Request Status"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpSupervisorApproval.aspx" title="Application Approval" description="Application Approval"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpSupervisorApprovalHistory.aspx" title="Approval History" description="Approval History"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_RosterTable_View.aspx" title="Roster Table" description="Roster Table"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_TimeCardRecord.aspx" title="Time Card Record" description="Time Card Record"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_Attendance_TimeEntry_List.aspx" title="Input In/Out Time" description="Roster Table"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_AttendanceTimeEntryReport.aspx" title="Attendance Time Entry Report" description="Attendance Time Entry Report"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_MonthlyAttendanceReport.aspx" title="Monthly Attendance Report" description="Monthly Attendance Report"  ImageUrl="images/dot.jpg"/>    
+    <siteMapNode url="~/ESS_EmpLeaveBalanceReport.aspx" title="Leave Balance Report" description="Leave Balance Report"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpLeaveApplicationList.aspx" title="Leave Application List" description="Leave Application List"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpPayslipPrint.aspx" title="Payslip Printing" description="Payslip Printing"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpOverallPaymentSummary.aspx" title="Overall Payment Summary" description="Overall Payment Summary"  ImageUrl="images/dot.jpg"/>
+    <siteMapNode url="~/ESS_EmpTaxReport.aspx" title="Tax Report Printing" description="Tax Report Printing" ImageUrl="images/dot.jpg"/>
+    <!-- Start 000170, Ricky So, 2015-02-05 -->
+    <siteMapNode url="~/ESS_EmpChangePassword.aspx" title="User Setting" description="User Setting"  ImageUrl="images/dot.jpg"/>
+    <!--siteMapNode url="~/ESS_EmpChangePassword.aspx" title="Change Password" description="Change Password"  ImageUrl="images/dot.jpg"/-->
+    <!-- Start 000170, Ricky So, 2015-02-05 -->
+    <siteMapNode url="~/Logout.aspx" title="Logout" description="Logout"  ImageUrl="images/dot.jpg"/>
+
+  </siteMapNode>
+</siteMap>

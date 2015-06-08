@@ -1,0 +1,38 @@
+﻿div.ModalPopupBackgroundDiv 
+{
+	visibility: hidden;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:verdana;
+	font-weight:bold;
+    z-index:20000;
+	BACKGROUND-COLOR: #ffffff
+}
+span.ModalPopupBackgroundDiv 
+{
+	visibility: hidden;
+	position:absolute;
+	left:0px;
+	top:0px;
+	font-family:verdana;
+	font-weight:bold;
+    z-index:20000;
+	BACKGROUND-COLOR: #ffffff
+}
+div.ModalPopupDiv
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+	font-style: normal;
+	background-color: #CCCCCC;
+    position:absolute;
+	/* set z-index higher than possible */
+    z-index:30000;
+	visibility: hidden;
+	color: Black;
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+	height :auto;
+}

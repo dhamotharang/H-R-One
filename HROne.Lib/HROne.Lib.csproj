@@ -1,0 +1,295 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.Lib</RootNamespace>
+    <AssemblyName>HROne.Lib</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Interop.PDFCreator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\Interop.PDFCreator.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI, Version=1.2.3.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppUtils.cs" />
+    <Compile Include="AuditTrail.cs" />
+    <Compile Include="AuditTrailReportProcess.cs" />
+    <Compile Include="Entities\AttendancePreparationImportBatch.cs" />
+    <Compile Include="Entities\AttendancePreparationProcess.cs" />
+    <Compile Include="Entities\AttendanceWorkFlow.cs" />
+    <Compile Include="Entities\AuthorizerDelegate.cs" />
+    <Compile Include="Entities\BackpayBatchDetail.cs" />
+    <Compile Include="Entities\BankFileDailySeq.cs" />
+    <Compile Include="Entities\BenefitPlan.cs" />
+    <Compile Include="Entities\CommissionAchievement.cs" />
+    <Compile Include="Entities\CompanyBankAccount.cs" />
+    <Compile Include="Entities\CompanyBankAccountMap.cs" />
+    <Compile Include="Entities\AttendancePlanAdditionalPayment.cs" />
+    <Compile Include="Entities\CommissionAchievementImportBatch.cs" />
+    <Compile Include="Entities\BonusProcess.cs" />
+    <Compile Include="Entities\BankSwift.cs" />
+    <Compile Include="Entities\EmpAttendancePreparationProcess.cs" />
+    <Compile Include="Entities\EmpRPWinson.cs" />
+    <Compile Include="Entities\ESSAnnouncement.cs" />
+    <Compile Include="Entities\HitRateProcess.cs" />
+    <Compile Include="Entities\HitRateProcessImportBatch.cs" />
+    <Compile Include="Entities\DoublePayAdjustment.cs" />
+    <Compile Include="Entities\DoublePayAdjustmentImportBatch.cs" />
+    <Compile Include="Entities\EAA_HR020.cs" />
+    <Compile Include="Entities\EAA_HR021.cs" />
+    <Compile Include="Entities\EmpBonusProcess.cs" />
+    <Compile Include="Entities\EmpBeneficiaries.cs" />
+    <Compile Include="Entities\EmpBenefit.cs" />
+    <Compile Include="Entities\ESSLoginAudit.cs" />
+    <Compile Include="Entities\IncentivePayment.cs" />
+    <Compile Include="Entities\IncentivePaymentImportBatch.cs" />
+    <!-- Start 0000112, Miranda, 2014-12-10 -->
+    <Compile Include="Entities\LateWaive.cs" />
+    <Compile Include="Entities\LateWaiveCancel.cs" />
+    <!-- End 0000112, Miranda, 2014-12-10 -->
+    <Compile Include="Entities\LoginAudit.cs" />
+    <Compile Include="Entities\OTClaim.cs" />
+    <Compile Include="Entities\OTClaimCancel.cs" />
+    <Compile Include="Entities\PaymentCalculationFormula.cs" />
+    <Compile Include="Entities\PayrollGroupUsers.cs" />
+    <Compile Include="Entities\PayScale.cs" />
+    <Compile Include="Entities\PayScaleMap.cs" />
+    <!-- Start 0000112, Miranda, 2014-12-10 -->
+    <Compile Include="Entities\ReportBuilder.cs" />
+    <Compile Include="Entities\RequestLateWaive.cs" />
+    <Compile Include="Entities\RequestLateWaiveCancel.cs" />
+    <!-- End 0000112, Miranda, 2014-12-10 -->
+    <Compile Include="Entities\RequestOTClaim.cs" />
+    <Compile Include="Entities\RequestOTClaimCancel.cs" />
+    <Compile Include="Entities\SalaryIncrementBatch.cs" />
+    <Compile Include="Entities\SalaryIncrementBatchDetail.cs" />
+    <Compile Include="Entities\ShiftDutyCode.cs" />
+    <Compile Include="Entities\TextTransformation.cs" />
+    <Compile Include="Entities\EmpRequestApprovalHistory.cs" />
+    <Compile Include="Entities\LeaveApplicationCancel.cs" />
+    <Compile Include="Entities\RequestLeaveApplicationCancel.cs" />
+    <Compile Include="Entities\LeaveBalanceEntitle.cs" />
+    <Compile Include="Entities\EmpRosterTableGroup.cs" />
+    <Compile Include="Entities\eChannelAuthorizedSignature.cs" />
+    <Compile Include="Entities\RosterCodeAdditionalPayment.cs" />
+    <Compile Include="Entities\PayrollGroupLeaveCodeSetupOverride.cs" />
+    <Compile Include="GenericExcelReportProcess.cs" />
+    <Compile Include="EmailQueueService.cs" />
+    <Compile Include="EmailService.cs" />
+    <Compile Include="EnhancedDataAccess\BaseObject.cs" />
+    <Compile Include="EnhancedDataAccess\DatabaseConnectionWithAudit.cs" />
+    <Compile Include="EnhancedDataAccess\DBManagerWithRecordInfo.cs" />
+    <Compile Include="Entities\ALProrataRoundingFormula.cs" />
+    <Compile Include="Entities\ALProrataRoundingFormulaDetail.cs" />
+    <Compile Include="Entities\AttendanceFormula.cs" />
+    <Compile Include="Entities\AttendancePlan.cs" />
+    <Compile Include="Entities\AttendanceRecord.cs" />
+    <Compile Include="Entities\AuditTrail.cs" />
+    <Compile Include="Entities\AuthorizationGroup.cs" />
+    <Compile Include="Entities\Authorizer.cs" />
+    <Compile Include="Entities\AVCPlan.cs" />
+    <Compile Include="Entities\AVCPlanDetail.cs" />
+    <Compile Include="Entities\BaseObject.cs" />
+    <Compile Include="Entities\ClaimsAndDeductions.cs" />
+    <Compile Include="Entities\ClaimsAndDeductionsImportBatch.cs" />
+    <Compile Include="Entities\CompensationLeaveEntitle.cs" />
+    <Compile Include="Entities\TimeCardLocationMap.cs" />
+    <Compile Include="Entities\CostAllocation.cs" />
+    <Compile Include="Entities\EmpPayroll.cs" />
+    <Compile Include="Entities\EmpWorkingSummary.cs" />
+    <Compile Include="Entities\EmailLog.cs" />
+    <Compile Include="Entities\EmpWorkInjuryRecord.cs" />
+    <Compile Include="Entities\EORSORecord.cs" />
+    <Compile Include="Entities\MinimumWage.cs" />
+    <Compile Include="Entities\MPFRecord.cs" />
+    <Compile Include="Entities\PaymentRecord.cs" />
+    <Compile Include="Entities\PayrollBatch.cs" />
+    <Compile Include="Entities\PayrollPeriod.cs" />
+    <Compile Include="Entities\PayrollProrataFormula.cs" />
+    <Compile Include="Entities\RosterClient.cs" />
+    <Compile Include="Entities\RosterTable.cs" />
+    <Compile Include="Entities\RosterTableGroup.cs" />
+    <Compile Include="Entities\SystemFunctionEmailAlert.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Entities\TaxCompany.cs" />
+    <Compile Include="Entities\TaxCompanyMap.cs" />
+    <Compile Include="Entities\TaxEmp.cs" />
+    <Compile Include="Entities\TaxEmpPayment.cs" />
+    <Compile Include="Entities\TaxEmpPlaceOfResidence.cs" />
+    <Compile Include="Entities\TaxForm.cs" />
+    <Compile Include="Entities\TaxPayment.cs" />
+    <Compile Include="Entities\TaxPaymentMap.cs" />
+    <Compile Include="Entities\TimeCardRecord.cs" />
+    <Compile Include="Entities\UserCompany.cs" />
+    <Compile Include="Entities\EmpRequest.cs" />
+    <Compile Include="Entities\EmpTrainingEnroll.cs" />
+    <Compile Include="Entities\RequestEmployeeProfile.cs" />
+    <Compile Include="Entities\RequestLeaveApplication.cs" />
+    <Compile Include="Entities\RosterCode.cs" />
+    <Compile Include="Entities\RosterCodeDetail.cs" />
+    <Compile Include="Entities\TrainingCourse.cs" />
+    <Compile Include="Entities\EmpEmergencyContact.cs" />
+    <Compile Include="Entities\LeavePlanBoughtForward.cs" />
+    <Compile Include="Entities\MPFSchemeCessationReason.cs" />
+    <Compile Include="Entities\MPFSchemeCessationReasonMapping.cs" />
+    <Compile Include="Entities\ReminderType.cs" />
+    <Compile Include="Entities\Company.cs" />
+    <Compile Include="Entities\EmpDocument.cs" />
+    <Compile Include="Entities\EmpExtraField.cs" />
+    <Compile Include="Entities\EmpExtraFieldValue.cs" />
+    <Compile Include="Entities\EmpPermit.cs" />
+    <Compile Include="Entities\EmpUniform.cs" />
+    <Compile Include="Entities\EmpWorkExp.cs" />
+    <Compile Include="Entities\Inbox.cs" />
+    <Compile Include="Entities\EmpCostCenterDetail.cs" />
+    <Compile Include="Entities\EmpCostCenter.cs" />
+    <Compile Include="Entities\CostCenter.cs" />
+    <Compile Include="Entities\UserReminderOption.cs" />
+    <Compile Include="Entities\WorkHourPattern.cs" />
+    <Compile Include="ExchangeCurrency.cs" />
+    <Compile Include="Export.cs" />
+    <Compile Include="Folder.cs" />
+    <Compile Include="ImportExport.cs" />
+    <Compile Include="LeaveCalculation2\AnnualLeaveBalanceProcess.cs" />
+    <Compile Include="LeaveCalculation2\CompensationLeaveBalanceProcess.cs" />
+    <Compile Include="LeaveCalculation2\SickLeaveBalanceProcess.cs" />
+    <Compile Include="LeaveCalculation2\LeaveBalanceProcess.cs" />
+    <Compile Include="MailMergeService.cs" />
+    <Compile Include="PDFCreater.cs" />
+    <Compile Include="Reflection.cs" />
+    <Compile Include="TaskQueueService.cs" />
+    <Compile Include="Schema.cs" />
+    <Compile Include="SystemMessage.cs" />
+    <Compile Include="Entities\YEBPlan.cs" />
+    <Compile Include="FieldEncrypt.cs" />
+    <Compile Include="Entities\EmpFinalPayment.cs" />
+    <Compile Include="Entities\EmpAVCPlan.cs" />
+    <Compile Include="Entities\EmpBankAccount.cs" />
+    <Compile Include="Entities\EmpContractTerms.cs" />
+    <Compile Include="Entities\EmpDependant.cs" />
+    <Compile Include="Entities\EmpHierarchy.cs" />
+    <Compile Include="Entities\EmpMPFPlan.cs" />
+    <Compile Include="Entities\EmpORSOPlan.cs" />
+    <Compile Include="Entities\EmpPersonalInfo.cs" />
+    <Compile Include="Entities\EmpPlaceOfResidence.cs" />
+    <Compile Include="Entities\EmpPositionInfo.cs" />
+    <Compile Include="Entities\EmpQualification.cs" />
+    <Compile Include="Entities\EmpRecurringPayment.cs" />
+    <Compile Include="Entities\EmpSkill.cs" />
+    <Compile Include="Entities\EmpSpouse.cs" />
+    <Compile Include="Entities\EmpTermination.cs" />
+    <Compile Include="Entities\LeaveType.cs" />
+    <Compile Include="Entities\LeaveApplication.cs" />
+    <Compile Include="Entities\LeaveBalance.cs" />
+    <Compile Include="Entities\LeaveBalanceAdjust.cs" />
+    <Compile Include="Entities\LeaveBalanceAdjustment.cs" />
+    <Compile Include="Entities\LeaveCode.cs" />
+    <Compile Include="Entities\LeavePlan.cs" />
+    <Compile Include="Entities\LeavePlanEntitle.cs" />
+    <Compile Include="Entities\MPFParameter.cs" />
+    <Compile Include="Entities\MPFPlan.cs" />
+    <Compile Include="Entities\MPFScheme.cs" />
+    <Compile Include="Entities\ORSOPlan.cs" />
+    <Compile Include="Entities\ORSOPlanDetail.cs" />
+    <Compile Include="Entities\PayrollGroup.cs" />
+    <Compile Include="Entities\SystemParameter.cs" />
+    <Compile Include="Entities\UserRank.cs" />
+    <Compile Include="Entities\UserGroupAccess.cs" />
+    <Compile Include="Entities\UserGroupFunction.cs" />
+    <Compile Include="Entities\UserGroup.cs" />
+    <Compile Include="Entities\HierarchyElement.cs" />
+    <Compile Include="Entities\HierarchyLevel.cs" />
+    <Compile Include="Entities\PaymentCode.cs" />
+    <Compile Include="Entities\DataDict.cs" />
+    <Compile Include="Entities\SystemFunction.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="Entities\Values.cs" />
+    <Compile Include="GenericReportProcess.cs" />
+    <Compile Include="Entities\TrainingSeminar.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="WebUtility.cs" />
+    <Compile Include="LeaveCalculation2\LeaveBalanceCalc.cs" />
+    <Compile Include="ProductKey.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zip.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

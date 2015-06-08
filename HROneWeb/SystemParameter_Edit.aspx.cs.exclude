@@ -1,0 +1,125 @@
+using System;
+using System.Data;
+using System.Configuration;
+using System.Collections;
+using System.Web;
+using System.Web.Security;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+using System.Web.UI.WebControls.WebParts;
+using System.Web.UI.HtmlControls;
+using perspectivemind.common;
+using perspectivemind.validation;
+using HRPlus.Lib.Entities;
+using HRPlus.Translation;
+
+public partial class SystemParameter_Edit : System.Web.UI.Page
+{
+    private const string FUNCTION_CODE = "SYS001";
+
+    public Binding binding;
+    public DBManager db = ESystemParameter.db;
+    public ESystemParameter obj;
+    public string CurID = null;
+    
+
+    protected void Page_Load(object sender, EventArgs e)
+    {
+        if (!WebUtils.CheckAccess(Response, Session, FUNCTION_CODE, WebUtils.AccessLevel.ReadWrite))
+            return;
+        toolBar.FunctionCode = FUNCTION_CODE;
+
+        
+
+        binding = new Binding(dbConn, db);
+        binding.add(ParameterCode);
+        binding.add(ParameterDesc);
+        binding.add(ParameterValue);
+        binding.init(Request, Session);
+
+        try
+        {
+            CurID = DecryptedRequest["ParameterCode"];
+        }
+        catch (Exception ex)
+        {
+        }
+
+        HRPlus.Common.WebUtility.WebControlsLocalization(this, Page.Controls);
+
+        if (!Page.IsPostBack)
+        {
+            if (!(CurID == null))
+            {
+                loadObject();
+            }
+            else
+                toolBar.DeleteButton_Visible = false;
+        }
+    }
+    protected bool loadObject()
+    {
+        obj = new ESystemParameter();
+        bool isNew = WebFormWorkers.loadKeys(db, obj, DecryptedRequest);
+        if (!db.select(obj))
+            return false;
+
+        Hashtable values = new Hashtable();
+        db.populate(obj, values);
+        binding.toControl(values);
+
+        return true;
+    }
+
+    protected void Save_Click(object sender, EventArgs e)
+    {
+        ESystemParameter c = new ESystemParameter();
+        ArrayList list;
+
+        Hashtable values = new Hashtable();
+        binding.toValues(values);
+
+        PageErrors errors = PageErrors.getErrors(db, Page.Master);
+        errors.clear();
+
+
+        db.validate(errors, values);
+
+
+        if (!errors.isEmpty())
+            return;
+
+
+        db.parse(values, c);
+        DBFilter filter = new DBFilter();
+        filter.add(new Match("ParameterCode", c.ParameterCode));
+        list = db.select(filter);
+        if (list.Count > 0)
+        {
+            db.update(c);            
+        }
+        else
+        {
+            CurID = c.ParameterCode;
+            db.insert(c);
+        }
+        HRPlus.Common.WebUtility.RedirectURLwithEncryptedQueryString(Response, Session, "SystemParameter_View.aspx?ParameterCode=" + CurID);
+    }
+
+    protected void Delete_Click(object sender, EventArgs e)
+    {
+        ESystemParameter c = new ESystemParameter();
+        c.ParameterCode = ParameterCode.ToString();
+        db.delete(c);
+        HRPlus.Common.WebUtility.RedirectURLwithEncryptedQueryString(Response, Session, "SystemParameter_List.aspx");
+    }
+    protected void Back_Click(object sender, EventArgs e)
+    {
+        if (!(CurID == null))
+            HRPlus.Common.WebUtility.RedirectURLwithEncryptedQueryString(Response, Session, "SystemParameter_View.aspx?ParameterCode=" + CurID);
+        else
+            HRPlus.Common.WebUtility.RedirectURLwithEncryptedQueryString(Response, Session, "SystemParameter_List.aspx");
+
+    }
+
+}

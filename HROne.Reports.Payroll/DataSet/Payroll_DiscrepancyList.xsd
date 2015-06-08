@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_DiscrepancyList" targetNamespace="http://tempuri.org/Payroll_DiscrepancyList.xsd" xmlns:mstns="http://tempuri.org/Payroll_DiscrepancyList.xsd" xmlns="http://tempuri.org/Payroll_DiscrepancyList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_DiscrepancyList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DiscrepancyList">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" />
+              <xs:element name="CompanyID" type="xs:int" minOccurs="0" />
+              <xs:element name="CompanyCode" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyName" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGroupID" type="xs:int" minOccurs="0" />
+              <xs:element name="PayGroupDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="Rank" type="xs:string" minOccurs="0" />
+              <xs:element name="Position" type="xs:string" minOccurs="0" />
+              <xs:element name="LastNetPay" type="xs:double" minOccurs="0" />
+              <xs:element name="CurrentNetPay" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:DiscrepancyList" />
+      <xs:field xpath="mstns:EmpID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,404 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMasterPage.master.cs" Inherits="MainMasterPage" %>
+<%@ Register TagPrefix="pmv" Namespace="HROne.DataAccess" Assembly="HROne.DataAccess" %>
+<%@ Register TagPrefix="cc1" Namespace="EeekSoft.Web"
+  Assembly="EeekSoft.Web.PopupWin" %>
+  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>HROne</title>
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/ModalPopup.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/SystemMessageModalPopup.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="javascript/date.js"></script>
+	<script type="text/javascript" src="javascript/common.js"></script>
+<%--    <script type="text/javascript" src="javascript/loadingmessage.js"></script>--%>
+    <script type="text/javascript" src="javascript/menubarClickHover.js"></script>
+	<script type="text/javascript" src="javascript/HKIDCheck.js"></script>
+    <style type="text/css">
+
+    </style>
+</head>
+<body class="mainbody">
+
+    <form id="form1" runat="server" >
+        <ajaxToolkit:ToolkitScriptManager ID="ScriptManager1" runat="server" AsyncPostBackTimeout="900" CombineScripts="false" >
+        <Scripts>
+            <asp:ScriptReference Path="~/javascript/FixFocus.js" />
+        </Scripts>
+        </ajaxToolkit:ToolkitScriptManager> 
+            <asp:Button runat="server" ID="hiddenTargetControlForModalPopup" UseSubmitBehavior="false" style="display:none" EnableViewState="false" />
+            <asp:Panel runat="server" CssClass="popup_Container" ID="programmaticPopup" style="display:none;height:70px;width:250px;">
+            <div id='messagediv' style="text-align:center">
+                <br/><b>.:: Now Loading ::. </b><br/><img src="./images/wait.gif" alt="wait" width="150" height="13" /><br/><a href="javascript: void(0);" onclick="showLoadingFadeOut();" >Cancel</a>
+            </div>
+            </asp:Panel>
+            
+        <script type="text/javascript">
+            function showDummyPopup() {
+                var modalPopupBehavior = $find('programmaticModalPopupBehavior');       
+                modalPopupBehavior.show();
+            }
+            preLoadWaitImage = new Image();
+            preLoadWaitImage.src = "./images/wait.gif";
+           $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","DropShadow":true,"PopupControlID": "<%=programmaticPopup.ClientID %>","dynamicServicePath":"<%= Request.Url.PathAndQuery %>","id":"programmaticModalPopupBehavior","repositionMode":2}, null, null, $get("<%=hiddenTargetControlForModalPopup.ClientID %>"));
+            showDummyPopup();
+        </script>
+            <!-- ModalPopupExtender will be created in javascript, the below code is used for design stage only -->
+<%--            <ajaxToolkit:ModalPopupExtender runat="server" ID="programmaticModalPopup"
+            BehaviorID="programmaticModalPopupBehavior"
+            TargetControlID="hiddenTargetControlForModalPopup"
+            PopupControlID="programmaticPopup"
+            BackgroundCssClass="modalBackground"
+            DropShadow="True"
+            RepositionMode="RepositionOnWindowScroll" Enabled="false"  >
+            </ajaxToolkit:ModalPopupExtender> --%>
+<%--    <script type="text/javascript" language="javascript" >
+//        initLoadMessage();
+    </script>--%>
+        <table width="898" border="0" cellpadding="0" cellspacing="0" align="center">
+            <colgroup>
+                <col width="100%" />
+            </colgroup>
+            <tr>
+                <td valign="top">
+                    <a href="Home.aspx" style="z-index:-1;" >
+                    <img src="./images/header/top.jpg" alt="top" style="border-width: 0px; display : block" />
+                    </a>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <div style="position: relative;">
+                    <asp:UpdatePanel ID="UpdatePanel2" runat="server" UpdateMode="Always"  >
+                    <ContentTemplate >
+                        <asp:Menu ID="mainMenu" runat="server" Orientation="Horizontal" StaticMenuItemStyle-ItemSpacing="0" DynamicMenuItemStyle-ItemSpacing="1" DataSourceID="SiteMapDataSource1" StaticEnableDefaultPopOutImage="false" DynamicItemFormatString="- {0} " Width="100%" SkipLinkText="" OnMenuItemDataBound="mainMenu_MenuItemDataBound" OnPreRender="mainMenu_PreRender" EnableViewState="false" >
+                          
+                          <LevelMenuItemStyles>
+                            <asp:MenuItemStyle CssClass="level1"/>
+                            <asp:MenuItemStyle CssClass="level2"/>
+                            <asp:MenuItemStyle CssClass="level2" />
+                          </LevelMenuItemStyles>
+                          
+                          <StaticHoverStyle CssClass="statichoverstyle"  />
+                          
+                          <DynamicHoverStyle CssClass="dynamichoverstyle"  />
+                          
+                          <LevelSubMenuStyles>
+                          
+                            <asp:SubMenuStyle CssClass="sublevel1"  />
+                            <asp:SubMenuStyle CssClass="sublevel2"  />
+                            <asp:SubMenuStyle CssClass="sublevel2"  />
+                          </LevelSubMenuStyles>
+                        </asp:Menu>
+                    </ContentTemplate> 
+                    </asp:UpdatePanel> 
+                    </div>
+                    <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" ShowStartingNode="false" EnableViewState="false" />
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" align="right" class="pm_search_header" >
+                    <asp:UpdatePanel ID="UpdatePanel3" runat="server" UpdateMode="Always"  >
+                    <ContentTemplate >
+                        <asp:HyperLink ID="hlLogout" runat="server" NavigateUrl="~/Logout.aspx" CssClass="pm_link_pagenav" >
+                        <asp:Label ID="Label1" runat="server" EnableViewState="false" Text="Logout" />&nbsp
+                        <asp:Label ID="UserName" runat="server" EnableViewState="false"/>
+                        </asp:HyperLink>
+                    </ContentTemplate> 
+                    </asp:UpdatePanel> 
+                </td>
+            </tr>
+            <tr>
+                <td valign="top" align="center">
+                    <div style=" margin-bottom:30; background-image: url('./images/header/back01.gif'); "  >
+                    <table width="95%" border="0" cellpadding="0"  >
+                        <tr><!--background="./images/header/back01.gif" -->
+                            <td valign="top" align="left" >
+                                <asp:ContentPlaceHolder ID="mainContentPlaceHolder" runat="server" >
+                                </asp:ContentPlaceHolder>
+                            </td>
+                        </tr>
+                    </table>
+                    <br />
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <div class="copyright" style="text-align:left;">
+                        <asp:Label ID="Copyright" runat="server" EnableViewState="false" Text="Copyright" /> &copy; 2013
+                        <asp:Label ID="lblCopyrightCompanyName" runat="server" EnableViewState="false" Text="People Technology (International) Limited" />
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <div class="copyright" style="text-align:left;">
+                        <asp:Label ID="Version" runat="server" EnableViewState="false" Text="Ver. " />
+                        <asp:Label ID="lblVersionNo" runat="server" EnableViewState="false"/>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+        <span class="error" visible="false"  >
+            <pmv:PageError ID="pageError" runat="server" EnableViewState="false" Text="Error" ShowFieldErrors="true" IsPopup="false"
+            ShowPrompt="false" Visible="false"  />
+        </span>
+        <asp:UpdatePanel ID="UpdatePanel1" runat="server" UpdateMode="Always" >
+            <Triggers >
+                <asp:AsyncPostBackTrigger ControlID="popupWinTimer" EventName="Tick"/>
+            </Triggers>
+            <ContentTemplate >
+                <cc1:popupwin id="popupWin" runat="server" AutoShow="false"
+                  colorstyle="Blue" width="230px" height="100px" dockmode="BottomRight"  
+                  windowscroll="False" windowsize="200, 50"></cc1:popupwin>
+
+            </ContentTemplate>
+        </asp:UpdatePanel> 
+        <asp:Timer ID="popupWinTimer" runat="server" OnTick="popupWinTimer_Tick" />
+
+        <asp:Panel CSSClass="popup_Container" ID="DivDeleteConfirmation" 
+            style="display: none; min-height:70px; min-width:250px; max-width:750px;" runat="server">
+            <div class="popup_Titlebar" id="PopupHeader" style="min-width:250px;">
+                <div class="TitlebarLeft" ><%=Page.Title %></div>
+                <div class="TitlebarRight" onclick="$get('<%=ButtonMessageCancel.ClientID %>').click();">
+                X
+                </div>
+            </div>
+            <div class="popup_Body" style="text-align:center">
+                <div style="min-width:250px; text-align:left;">
+                <asp:Label ID="lblMessage" runat="server" />
+                </div>
+            </div> 
+            <div class="popup_Buttons" >
+                <asp:Button ID="ButtonMessageOkay" runat="server" EnableViewState="false" Text="OK" CssClass="button" UseSubmitBehavior="false"  OnClientClick="return false;"/>
+                <asp:Button ID="ButtonMessageCancel" runat="server" EnableViewState="false" Text="Cancel" CssClass="button" UseSubmitBehavior="false" OnClientClick="return false;"/>
+            </div>
+        </asp:Panel>
+
+        <asp:Button runat="server" ID="hiddenTargetControlForMessagePopup" style="display:none"/>
+        <ajaxToolkit:ModalPopupExtender id="MessageModalPopupExtender" runat="server" 
+		    cancelcontrolid="ButtonMessageCancel" okcontrolid="ButtonMessageOkay" 
+		    targetcontrolid="hiddenTargetControlForMessagePopup" 
+		    popupcontrolid="DivDeleteConfirmation"
+		    DropShadow="true"  
+		    backgroundcssclass="modalBackground">
+        </ajaxToolkit:ModalPopupExtender>
+        <ajaxToolkit:ConfirmButtonExtender ID="ConfirmButtonExtenderForConfirmMessage" runat="server" 
+            TargetControlID="hiddenTargetControlForMessagePopup" 
+            DisplayModalPopupID="MessageModalPopupExtender"  />
+            
+        <!-- do NOT move the script out of the "form" tag for traditional (non-AJAX) page load handle -->
+        <script type="text/javascript" language="javascript" >
+            var current_alpha=75;
+            var showFadeIn=false;
+            var TRIGGER_BY_AJAX=false;
+            //  For Classic loading
+            if (document.attachEvent)
+            {
+            window.document.forms[0].attachEvent('onsubmit',_pl_submit);
+            }
+            else
+            {
+            window.addEventListener('submit',_pl_submit,false);
+            }
+            function _pl_submit()
+            {
+                try
+                {
+                    window.focus();
+                }
+                catch(ex)
+                {
+                    return false;
+                }  
+                 showLoadingFadeIn();
+                setTimeout("_pl_checkreadystatus()",1000);
+            }
+            function showLoadingFadeIn()
+            {
+                var modalPopupBehavior = $find('programmaticModalPopupBehavior');
+                var modalPopupBehaviorDiv = modalPopupBehavior._backgroundElement;
+                current_alpha=0;
+                showFadeIn=true;
+                setAlpha(modalPopupBehaviorDiv,current_alpha);
+                modalPopupBehavior._backgroundElement.style.zIndex = 20000;
+                modalPopupBehavior._foregroundElement.style.zIndex = 20000 + 1;
+                modalPopupBehavior.show();
+	            setTimeout("_update_alpha(" + modalPopupBehaviorDiv.id + ")",200);
+            }
+            function _update_alpha(modalPopupBehaviorDiv)
+            {
+    //            var modalPopupBehaviorDiv = $find('programmaticModalPopupBehavior')._backgroundElement;
+                if (showFadeIn && (modalPopupBehaviorDiv.style.display!="none"))// && ((modalPopupBehaviorDiv.currentStyle) && modalPopupBehaviorDiv.currentStyle.display!="none" )))
+                {
+                    current_alpha+=15;
+                    setAlpha(modalPopupBehaviorDiv, current_alpha);
+                    if (current_alpha<75 )
+                    
+        	            setTimeout("_update_alpha(" + modalPopupBehaviorDiv.id + ")",100);
+                }
+            }
+
+            function _remove_alpha(modalPopupBehaviorDiv)
+            {
+    //            var modalPopupBehaviorDiv = $find('programmaticModalPopupBehavior')._backgroundElement;
+                if(!showFadeIn)
+                {
+                    if (current_alpha>0 && (modalPopupBehaviorDiv.style.display!="none"))// && ((modalPopupBehaviorDiv.currentStyle) && modalPopupBehaviorDiv.currentStyle.display!="none" ))&& showFadeIn)
+                    {
+                        current_alpha-=25;
+                        setAlpha(modalPopupBehaviorDiv, current_alpha);
+                        if (current_alpha>0 )
+                        {
+        	                setTimeout("_remove_alpha(" + modalPopupBehaviorDiv.id + ")",100);
+        	                return true;
+                        }   
+                    }
+                            // force hide the popup if either none or current_alpha=0
+                     var result= $find('programmaticModalPopupBehavior').hide();
+                     
+                     
+//                     if (!result)
+//                        alert('fail to close loading screen');
+//                     else
+//                        alert('screen is closed');
+                }
+            }
+            
+            function setAlpha(obj,al) {
+    //	        if(typeof obj != 'object') obj = document.getElementById(obj);
+    //	        if(!obj) return;
+	            var alpha=al/100;
+	            obj.style.filter = "alpha(opacity:"+al+")";
+	            obj.style.KHTMLOpacity = alpha;
+	            obj.style.MozOpacity = alpha;
+	            obj.style.opacity = alpha;
+            }
+            
+            function _pl_checkreadystatus()
+            {
+                if (!TRIGGER_BY_AJAX)
+                {
+                  if (document.readyState=="complete" || document.readyState=="interactive") 
+                  {
+                      showLoadingFadeOut();
+                  }
+                  else if (document.readyState==undefined)
+                  {
+                    setTimeout("pageLoad()",10000);
+                  }
+                  else
+    	            setTimeout("_pl_checkreadystatus()",1000);
+                }
+            }
+            function showLoadingFadeOut()
+            {
+                TRIGGER_BY_AJAX=false;
+                var modalPopupBehavior = $find('programmaticModalPopupBehavior');
+                var modalPopupBehaviorDiv = modalPopupBehavior._backgroundElement;
+                //current_alpha=0;
+                showFadeIn=false;
+                //setAlpha(modalPopupBehaviorDiv,current_alpha);
+//                modalPopupBehavior.show();
+//	            setTimeout("_remove_alpha(" + modalPopupBehaviorDiv.id + ")",100);
+                _remove_alpha(modalPopupBehaviorDiv);
+            }
+            
+            function pageLoaded(sender, e)
+            {
+               showLoadingFadeOut();
+            }
+
+            function beginRequest(sender, e)
+            {
+               if (e.get_postBackElement().id.toLowerCase().indexOf('timer')<0)  // This line can make sure only the request from GridView1 will present popup panel, you can change it to other control client id.
+               {
+                    TRIGGER_BY_AJAX=true;
+                    showLoadingFadeIn();
+                    //setTimeout("_pl_checkreadystatus()",1000);
+               }
+            }        
+
+    //        //  For Classic loading
+    //        if (document.attachEvent)
+    //        {
+    //        window.document.forms[0].attachEvent('onsubmit',_pl_submit);
+    //        }
+    //        else
+    //        {
+    //        window.addEventListener('submit',_pl_submit,false);
+    //        }
+    //        
+    //        //  For AJAX use
+    //        Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest);
+    //        Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(pageLoaded);
+
+    //        function beginRequest(sender, args) {
+    //            if (args.get_postBackElement().id.toLowerCase().indexOf('timer')<0)
+    //            {
+    //                _pl_show();
+    //                TRIGGER_BY_AJAX=true;
+    //            }
+    //        }
+    //        function pageLoaded(sender, args) {
+    //            _pl_onload();
+    //        }
+            // set the value messagePopupDetail so that the popup modal can also be used before page loaded event
+            var messagePopupDetail="";
+            var messagePopupPostBackScript="";
+            function showModalPopupMessage()
+            {
+                if (messagePopupDetail!='')
+                {
+                    var lblMessage = $get("<%=lblMessage.ClientID %>");
+                    lblMessage.innerHTML=messagePopupDetail.replace(/\r\n/g,"<br/>");
+                    var messageModalPopupBehaviour = $find('<%=MessageModalPopupExtender.ClientID %>');
+                    var btnCancelButton = $get("<%=ButtonMessageCancel.ClientID %>");
+                    btnCancelButton.style.display="none";
+
+                    var confirmButtonBehaviour = $find('<%=ConfirmButtonExtenderForConfirmMessage.ClientID %>');
+                    confirmButtonBehaviour._displayConfirmDialog();
+                    confirmButtonBehaviour._postBackScript = messagePopupPostBackScript;
+
+                    //messageModalPopupBehaviour.show();
+                    var btnOKButton = $get("<%=ButtonMessageOkay.ClientID %>");
+                    btnOKButton.focus();
+                    messagePopupDetail="";
+                    messagePopupPostBackScript="";
+                }
+            }
+            function showModalConfirmMessage(confirmMessage, postbackButtonControlUniqueId)
+            {
+                if (confirmMessage!='')
+                {
+                    var lblMessage = $get("<%=lblMessage.ClientID %>");
+                    lblMessage.innerHTML=confirmMessage.replace(/\r\n/g,"<br/>");
+                    var messageModalPopupBehaviour = $find('<%=MessageModalPopupExtender.ClientID %>');
+                    var btnCancelButton = $get("<%=ButtonMessageCancel.ClientID %>");
+                    btnCancelButton.style.display="";
+
+                    
+                    var confirmButtonBehaviour = $find('<%=ConfirmButtonExtenderForConfirmMessage.ClientID %>');
+                    confirmButtonBehaviour._displayConfirmDialog();
+                    confirmButtonBehaviour._postBackScript = "__doPostBack('" + postbackButtonControlUniqueId + "','')";
+
+                    var btnOKButton = $get("<%=ButtonMessageOkay.ClientID %>");
+                    btnOKButton.focus();
+                    return false;
+                }
+            }
+        </script>
+    </form>
+        <script type="text/javascript" language="javascript" >
+            Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest);
+            Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(pageLoaded);
+//            hideDummyPopup();
+//            Sys.Application.add_load(function() {setTimeout("showModalPopupMessage()",200)});
+            
+        </script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HSBCCoverDataSet" targetNamespace="http://tempuri.org/HSBCCoverDataSet.xsd" xmlns:mstns="http://tempuri.org/HSBCCoverDataSet.xsd" xmlns="http://tempuri.org/HSBCCoverDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HSBCCoverDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="HSBCCoverDataSet" msprop:Generator_DataSetName="HSBCCoverDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="mpfcover" msprop:Generator_UserTableName="mpfcover" msprop:Generator_RowDeletedName="mpfcoverRowDeleted" msprop:Generator_TableClassName="mpfcoverDataTable" msprop:Generator_RowChangedName="mpfcoverRowChanged" msprop:Generator_RowClassName="mpfcoverRow" msprop:Generator_RowChangingName="mpfcoverRowChanging" msprop:Generator_RowEvArgName="mpfcoverRowChangeEvent" msprop:Generator_RowEvHandlerName="mpfcoverRowChangeEventHandler" msprop:Generator_TablePropName="mpfcover" msprop:Generator_TableVarName="tablempfcover" msprop:Generator_RowDeletingName="mpfcoverRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FILE_NAME" msprop:Generator_UserColumnName="FILE_NAME" msprop:Generator_ColumnPropNameInRow="FILE_NAME" msprop:Generator_ColumnVarNameInTable="columnFILE_NAME" msprop:Generator_ColumnPropNameInTable="FILE_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ER_ID" msprop:Generator_UserColumnName="ER_ID" msprop:Generator_ColumnPropNameInRow="ER_ID" msprop:Generator_ColumnVarNameInTable="columnER_ID" msprop:Generator_ColumnPropNameInTable="ER_IDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ER_NAME" msprop:Generator_UserColumnName="ER_NAME" msprop:Generator_ColumnPropNameInRow="ER_NAME" msprop:Generator_ColumnVarNameInTable="columnER_NAME" msprop:Generator_ColumnPropNameInTable="ER_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmployerAddress" msprop:Generator_UserColumnName="EmployerAddress" msprop:Generator_ColumnPropNameInRow="EmployerAddress" msprop:Generator_ColumnVarNameInTable="columnEmployerAddress" msprop:Generator_ColumnPropNameInTable="EmployerAddressColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ContactName" msprop:Generator_UserColumnName="ContactName" msprop:Generator_ColumnPropNameInRow="ContactName" msprop:Generator_ColumnVarNameInTable="columnContactName" msprop:Generator_ColumnPropNameInTable="ContactNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ContactPhoneNumber" msprop:Generator_UserColumnName="ContactPhoneNumber" msprop:Generator_ColumnPropNameInRow="ContactPhoneNumber" msprop:Generator_ColumnVarNameInTable="columnContactPhoneNumber" msprop:Generator_ColumnPropNameInTable="ContactPhoneNumberColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PayCenterCode" msprop:Generator_UserColumnName="PayCenterCode" msprop:Generator_ColumnPropNameInRow="PayCenterCode" msprop:Generator_ColumnVarNameInTable="columnPayCenterCode" msprop:Generator_ColumnPropNameInTable="PayCenterCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ContributionPeriod" msprop:Generator_UserColumnName="ContributionPeriod" msprop:Generator_ColumnPropNameInRow="ContributionPeriod" msprop:Generator_ColumnVarNameInTable="columnContributionPeriod" msprop:Generator_ColumnPropNameInTable="ContributionPeriodColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ProductVersion" msprop:Generator_UserColumnName="ProductVersion" msprop:Generator_ColumnPropNameInRow="ProductVersion" msprop:Generator_ColumnVarNameInTable="columnProductVersion" msprop:Generator_ColumnPropNameInTable="ProductVersionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="RemoteProfileID" msprop:Generator_UserColumnName="RemoteProfileID" msprop:Generator_ColumnPropNameInRow="RemoteProfileID" msprop:Generator_ColumnVarNameInTable="columnRemoteProfileID" msprop:Generator_ColumnPropNameInTable="RemoteProfileIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BankKeyID" msprop:Generator_UserColumnName="BankKeyID" msprop:Generator_ColumnPropNameInRow="BankKeyID" msprop:Generator_ColumnVarNameInTable="columnBankKeyID" msprop:Generator_ColumnPropNameInTable="BankKeyIDColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

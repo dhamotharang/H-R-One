@@ -1,0 +1,41 @@
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRExpress.ProductVersion.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRExpress.ProductVersion.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRExpress.DataAccess.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRPlus.Lib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRPlus.CommonLib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\NPOI.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\Ionic.Zip.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\Interop.VBA.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\Interop.PDFCreator.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\bin\Release\HRPlus.Lib.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\obj\Release\ResolveAssemblyReference.cache
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\obj\Release\HRExpress.ProductVersion.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ProductVersion\obj\Release\HRExpress.ProductVersion.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRExpress.ProductVersion.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRExpress.ProductVersion.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRPlus.CommonLib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRExpress.DataAccess.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Debug\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Debug\HRExpress.ProductVersion.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Debug\HRExpress.ProductVersion.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRExpress.ProductVersion.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRExpress.ProductVersion.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\bin\Release\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Release\HRExpress.ProductVersion.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ProductVersion\obj\Release\HRExpress.ProductVersion.pdb

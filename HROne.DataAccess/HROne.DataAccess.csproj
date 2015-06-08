@@ -1,0 +1,122 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.DataAccess</RootNamespace>
+    <AssemblyName>HROne.DataAccess</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attribute\DoubleAttribute.cs" />
+    <Compile Include="Attribute\IntAttribute.cs" />
+    <Compile Include="Attribute\IntRangeAttribute.cs" />
+    <Compile Include="Attribute\ValidationAttribute.cs" />
+    <Compile Include="Binding\Binder.cs" />
+    <Compile Include="Binding\Binding.cs" />
+    <Compile Include="Binding\CheckBoxBinder.cs" />
+    <Compile Include="Binding\DropDownVLBinder.cs" />
+    <Compile Include="Binding\HiddenBinder.cs" />
+    <Compile Include="Binding\LabelBinder.cs" />
+    <Compile Include="Binding\LabelVLBinder.cs" />
+    <Compile Include="Binding\RadioButtonListBinder.cs" />
+    <Compile Include="Binding\TextBoxBinder.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Attribute\DBAESEncryptStringFieldAttribute.cs" />
+    <Compile Include="Attribute\DBClassAttribute.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="DBField.cs" />
+    <Compile Include="Attribute\DBFieldAttribute.cs" />
+    <Compile Include="Attribute\DBFieldTranscoderAttribute.cs" />
+    <Compile Include="DBFilter\AND.cs" />
+    <Compile Include="DBFilter\MatchField.cs" />
+    <Compile Include="DBFilter\OR.cs" />
+    <Compile Include="DBFilter\Exists.cs" />
+    <Compile Include="DBFilter\NullTerm.cs" />
+    <Compile Include="DBFilter\IN.cs" />
+    <Compile Include="DBFilter\DBFilter.cs" />
+    <Compile Include="DBManager.cs" />
+    <Compile Include="DBObject.cs" />
+    <Compile Include="Attribute\ExportAttribute.cs" />
+    <Compile Include="DBFilter\DBTerm.cs" />
+    <Compile Include="DBUtils.cs" />
+    <Compile Include="HTMLUtils.cs" />
+    <Compile Include="ListInfo.cs" />
+    <Compile Include="DBFilter\Match.cs" />
+    <Compile Include="Attribute\MaxLengthAttribute.cs" />
+    <Compile Include="PageErrorControl.cs" />
+    <Compile Include="PageErrors.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueryValueConverter.cs" />
+    <Compile Include="Attribute\RequiredAttribute.cs" />
+    <Compile Include="SearchBinding\DropDownVLSearchBinder.cs" />
+    <Compile Include="SearchBinding\HiddenMatchBinder.cs" />
+    <Compile Include="SearchBinding\HiddenMatchSearchBinder.cs" />
+    <Compile Include="SearchBinding\LikeSearchBinder.cs" />
+    <Compile Include="SearchBinding\SearchBinder.cs" />
+    <Compile Include="SearchBinding\SearchBinding.cs" />
+    <Compile Include="Attribute\TextSearchAttribute.cs" />
+    <Compile Include="ValueList\WFDBCodeList.cs" />
+    <Compile Include="ValueList\WFDBList.cs" />
+    <Compile Include="ValueList\WFDBList2.cs" />
+    <Compile Include="ValueList\WFHourList.cs" />
+    <Compile Include="ValueList\WFMonthList.cs" />
+    <Compile Include="ValueList\WFTextList.cs" />
+    <Compile Include="ValueList\WFValueList.cs" />
+    <Compile Include="ValueList\WFYearList.cs" />
+    <Compile Include="WebFormUtils.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

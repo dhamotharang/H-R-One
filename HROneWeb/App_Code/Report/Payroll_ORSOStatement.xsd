@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_ORSOStatement" targetNamespace="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:mstns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="HROneConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="HROneConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.HROneConnectionString.ConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_ORSOStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ORSOPlan">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORSOPlanID" msdata:ReadOnly="true" msdata:AutoIncrement="true" type="xs:int" />
+              <xs:element name="ORSOPlanCode" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanDesc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanSchemeNo" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanCompanyName" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanPayCenter" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanMaxEmployerVC" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ORSOPlanMaxEmployeeVC" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ExistingMember">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" minOccurs="0" />
+              <xs:element name="ORSOPlanID" msdata:Caption="MPFPlanID" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="HKID" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFrom" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="ER" msdata:Caption="MCER" type="xs:double" minOccurs="0" />
+              <xs:element name="EE" msdata:Caption="MCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="LastEmploymentDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TermCode" type="xs:string" minOccurs="0" />
+              <xs:element name="IsLSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="LSPSPAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="LSPSPAmountPaidByER" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ORSOPlan" />
+      <xs:field xpath="mstns:ORSOPlanID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="ORSOPlan_ExistingMember" msdata:parent="ORSOPlan" msdata:child="ExistingMember" msdata:parentkey="ORSOPlanID" msdata:childkey="ORSOPlanID" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

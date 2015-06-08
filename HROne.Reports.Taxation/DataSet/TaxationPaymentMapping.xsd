@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TaxationPaymentMapping" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HROne_seminar_20090601ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="HROne_seminar_20090601ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HROne.Reports.Taxation.Properties.Settings.GlobalReference.Default.HROne_seminar_20090601ConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TaxationPaymentMapping" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="TaxationPaymentMapping" msprop:Generator_DataSetName="TaxationPaymentMapping">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TaxPaymentMap" msprop:Generator_UserTableName="TaxPaymentMap" msprop:Generator_RowDeletedName="TaxPaymentMapRowDeleted" msprop:Generator_RowChangedName="TaxPaymentMapRowChanged" msprop:Generator_RowClassName="TaxPaymentMapRow" msprop:Generator_RowChangingName="TaxPaymentMapRowChanging" msprop:Generator_RowEvArgName="TaxPaymentMapRowChangeEvent" msprop:Generator_RowEvHandlerName="TaxPaymentMapRowChangeEventHandler" msprop:Generator_TableClassName="TaxPaymentMapDataTable" msprop:Generator_TableVarName="tableTaxPaymentMap" msprop:Generator_RowDeletingName="TaxPaymentMapRowDeleting" msprop:Generator_TablePropName="TaxPaymentMap">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TaxPayMapID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="TaxPayMapID" msprop:Generator_ColumnPropNameInRow="TaxPayMapID" msprop:Generator_ColumnVarNameInTable="columnTaxPayMapID" msprop:Generator_ColumnPropNameInTable="TaxPayMapIDColumn" type="xs:int" />
+              <xs:element name="TaxPayID" msprop:Generator_UserColumnName="TaxPayID" msprop:Generator_ColumnPropNameInRow="TaxPayID" msprop:Generator_ColumnVarNameInTable="columnTaxPayID" msprop:Generator_ColumnPropNameInTable="TaxPayIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeID" msprop:Generator_UserColumnName="PaymentCodeID" msprop:Generator_ColumnPropNameInRow="PaymentCodeID" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeID" msprop:Generator_ColumnPropNameInTable="PaymentCodeIDColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PaymentCode" msprop:Generator_UserTableName="PaymentCode" msprop:Generator_RowDeletedName="PaymentCodeRowDeleted" msprop:Generator_RowChangedName="PaymentCodeRowChanged" msprop:Generator_RowClassName="PaymentCodeRow" msprop:Generator_RowChangingName="PaymentCodeRowChanging" msprop:Generator_RowEvArgName="PaymentCodeRowChangeEvent" msprop:Generator_RowEvHandlerName="PaymentCodeRowChangeEventHandler" msprop:Generator_TableClassName="PaymentCodeDataTable" msprop:Generator_TableVarName="tablePaymentCode" msprop:Generator_RowDeletingName="PaymentCodeRowDeleting" msprop:Generator_TablePropName="PaymentCode">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PaymentCodeID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="PaymentCodeID" msprop:Generator_ColumnPropNameInRow="PaymentCodeID" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeID" msprop:Generator_ColumnPropNameInTable="PaymentCodeIDColumn" type="xs:int" />
+              <xs:element name="PaymentCode" msprop:Generator_UserColumnName="PaymentCode" msprop:Generator_ColumnPropNameInRow="PaymentCode" msprop:Generator_ColumnVarNameInTable="columnPaymentCode" msprop:Generator_ColumnPropNameInTable="PaymentCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PaymentCodeDesc" msprop:Generator_UserColumnName="PaymentCodeDesc" msprop:Generator_ColumnPropNameInRow="PaymentCodeDesc" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeDesc" msprop:Generator_ColumnPropNameInTable="PaymentCodeDescColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PaymentTypeID" msprop:Generator_UserColumnName="PaymentTypeID" msprop:Generator_ColumnPropNameInRow="PaymentTypeID" msprop:Generator_ColumnVarNameInTable="columnPaymentTypeID" msprop:Generator_ColumnPropNameInTable="PaymentTypeIDColumn" type="xs:int" />
+              <xs:element name="PaymentCodeIsProrata" msprop:Generator_UserColumnName="PaymentCodeIsProrata" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsProrata" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsProrata" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsProrataColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeIsProrataLeave" msprop:Generator_UserColumnName="PaymentCodeIsProrataLeave" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsProrataLeave" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsProrataLeave" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsProrataLeaveColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeIsMPF" msprop:Generator_UserColumnName="PaymentCodeIsMPF" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsMPF" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsMPF" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsMPFColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeIsTopUp" msprop:Generator_UserColumnName="PaymentCodeIsTopUp" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsTopUp" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsTopUp" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsTopUpColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeIsWages" msprop:Generator_UserColumnName="PaymentCodeIsWages" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsWages" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsWages" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsWagesColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeIsORSO" msprop:Generator_UserColumnName="PaymentCodeIsORSO" msprop:Generator_ColumnPropNameInRow="PaymentCodeIsORSO" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeIsORSO" msprop:Generator_ColumnPropNameInTable="PaymentCodeIsORSOColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeDecimalPlace" msprop:Generator_UserColumnName="PaymentCodeDecimalPlace" msprop:Generator_ColumnPropNameInRow="PaymentCodeDecimalPlace" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeDecimalPlace" msprop:Generator_ColumnPropNameInTable="PaymentCodeDecimalPlaceColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeRoundingRule" msprop:Generator_UserColumnName="PaymentCodeRoundingRule" msprop:Generator_ColumnPropNameInRow="PaymentCodeRoundingRule" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeRoundingRule" msprop:Generator_ColumnPropNameInTable="PaymentCodeRoundingRuleColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PaymentCodeHideInPaySlip" msprop:Generator_UserColumnName="PaymentCodeHideInPaySlip" msprop:Generator_ColumnPropNameInRow="PaymentCodeHideInPaySlip" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeHideInPaySlip" msprop:Generator_ColumnPropNameInTable="PaymentCodeHideInPaySlipColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PaymentCodeDisplaySeqNo" msprop:Generator_UserColumnName="PaymentCodeDisplaySeqNo" msprop:Generator_ColumnPropNameInRow="PaymentCodeDisplaySeqNo" msprop:Generator_ColumnVarNameInTable="columnPaymentCodeDisplaySeqNo" msprop:Generator_ColumnPropNameInTable="PaymentCodeDisplaySeqNoColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TaxPayment" msprop:Generator_UserTableName="TaxPayment" msprop:Generator_RowDeletedName="TaxPaymentRowDeleted" msprop:Generator_RowChangedName="TaxPaymentRowChanged" msprop:Generator_RowClassName="TaxPaymentRow" msprop:Generator_RowChangingName="TaxPaymentRowChanging" msprop:Generator_RowEvArgName="TaxPaymentRowChangeEvent" msprop:Generator_RowEvHandlerName="TaxPaymentRowChangeEventHandler" msprop:Generator_TableClassName="TaxPaymentDataTable" msprop:Generator_TableVarName="tableTaxPayment" msprop:Generator_RowDeletingName="TaxPaymentRowDeleting" msprop:Generator_TablePropName="TaxPayment">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TaxPayID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="TaxPayID" msprop:Generator_ColumnPropNameInRow="TaxPayID" msprop:Generator_ColumnVarNameInTable="columnTaxPayID" msprop:Generator_ColumnPropNameInTable="TaxPayIDColumn" type="xs:int" />
+              <xs:element name="TaxFormType" msprop:Generator_UserColumnName="TaxFormType" msprop:Generator_ColumnPropNameInRow="TaxFormType" msprop:Generator_ColumnVarNameInTable="columnTaxFormType" msprop:Generator_ColumnPropNameInTable="TaxFormTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TaxPayCode" msprop:Generator_UserColumnName="TaxPayCode" msprop:Generator_ColumnPropNameInRow="TaxPayCode" msprop:Generator_ColumnVarNameInTable="columnTaxPayCode" msprop:Generator_ColumnPropNameInTable="TaxPayCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TaxPayDesc" msprop:Generator_UserColumnName="TaxPayDesc" msprop:Generator_ColumnPropNameInRow="TaxPayDesc" msprop:Generator_ColumnVarNameInTable="columnTaxPayDesc" msprop:Generator_ColumnPropNameInTable="TaxPayDescColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TaxPayNature" msprop:Generator_UserColumnName="TaxPayNature" msprop:Generator_ColumnPropNameInRow="TaxPayNature" msprop:Generator_ColumnVarNameInTable="columnTaxPayNature" msprop:Generator_ColumnPropNameInTable="TaxPayNatureColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TaxPayIsShowNature" msprop:Generator_UserColumnName="TaxPayIsShowNature" msprop:Generator_ColumnPropNameInRow="TaxPayIsShowNature" msprop:Generator_ColumnVarNameInTable="columnTaxPayIsShowNature" msprop:Generator_ColumnPropNameInTable="TaxPayIsShowNatureColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TaxPaymentMap" />
+      <xs:field xpath="mstns:TaxPayMapID" />
+    </xs:unique>
+    <xs:unique name="PaymentCode_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:PaymentCode" />
+      <xs:field xpath="mstns:PaymentCodeID" />
+    </xs:unique>
+    <xs:unique name="TaxPayment_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TaxPayment" />
+      <xs:field xpath="mstns:TaxPayID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="PaymentCode_TaxPaymentMap" msdata:parent="PaymentCode" msdata:child="TaxPaymentMap" msdata:parentkey="PaymentCodeID" msdata:childkey="PaymentCodeID" msprop:Generator_UserRelationName="PaymentCode_TaxPaymentMap" msprop:Generator_RelationVarName="relationPaymentCode_TaxPaymentMap" msprop:Generator_UserChildTable="TaxPaymentMap" msprop:Generator_UserParentTable="PaymentCode" msprop:Generator_ParentPropName="PaymentCodeRow" msprop:Generator_ChildPropName="GetTaxPaymentMapRows" />
+      <msdata:Relationship name="TaxPayment_TaxPaymentMap" msdata:parent="TaxPayment" msdata:child="TaxPaymentMap" msdata:parentkey="TaxPayID" msdata:childkey="TaxPayID" msprop:Generator_UserRelationName="TaxPayment_TaxPaymentMap" msprop:Generator_RelationVarName="relationTaxPayment_TaxPaymentMap" msprop:Generator_UserChildTable="TaxPaymentMap" msprop:Generator_UserParentTable="TaxPayment" msprop:Generator_ParentPropName="TaxPaymentRow" msprop:Generator_ChildPropName="GetTaxPaymentMapRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

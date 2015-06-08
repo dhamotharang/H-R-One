@@ -1,0 +1,129 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{82AE79F1-1380-4240-B9C8-AD14D0F93024}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.Import</RootNamespace>
+    <AssemblyName>HROne.Import</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="NPOI, Version=1.2.3.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Employee\UploadEmpCostCenterExport.cs" />
+    <Compile Include="ImportAttendancePreparationProcess.cs" />
+    <Compile Include="ImportHitRateBasedPayment.cs" />
+    <Compile Include="ImportDoublePayAdjustment.cs" />
+    <Compile Include="ImportBonusProcess.cs" />
+    <Compile Include="EmployeeInfoExportProcess.cs" />
+    <Compile Include="Employee\UploadCompensationLeaveEntitle.cs" />
+    <!-- Start 0000070, Miranda, 2014-09-08 -->
+    <Compile Include="Employee\UploadEmpBeneficiaries.cs" />
+    <Compile Include="Employee\UploadEmpBenefit.cs" />
+    <!-- End 0000070, Miranda, 2014-09-08 -->
+    <Compile Include="Employee\UploadEmpRosterTableGroup.cs" />
+    <Compile Include="Employee\UploadEmpWorkInjuryRecord.cs" />
+    <Compile Include="Employee\UploadEmpWorkExp.cs" />
+    <Compile Include="Employee\UploadEmpORSOPlan.cs" />
+    <Compile Include="Employee\UploadEmpEmergencyContact.cs" />
+    <Compile Include="Employee\UploadEmpWorkPermit.cs" />
+    <Compile Include="Employee\UploadEmpAVCPlan.cs" />
+    <Compile Include="Employee\UploadEmpBankAccount.cs" />
+    <Compile Include="Employee\UploadEmpContractTerms.cs" />
+    <Compile Include="Employee\UploadEmpCostCenter.cs" />
+    <Compile Include="Employee\UploadEmpDependant.cs" />
+    <Compile Include="Employee\UploadEmpFinalPayment.cs" />
+    <Compile Include="Employee\UploadEmpMPFPlan.cs" />
+    <Compile Include="Employee\UploadEmpPersonalInfo.cs" />
+    <Compile Include="Employee\UploadEmpPlaceOfResidence.cs" />
+    <Compile Include="Employee\UploadEmpPositionInfo.cs" />
+    <Compile Include="Employee\UploadEmpQualification.cs" />
+    <Compile Include="Employee\UploadEmpRecurringPayment.cs" />
+    <Compile Include="Employee\UploadEmpSkill.cs" />
+    <Compile Include="Employee\UploadEmpSpouse.cs" />
+    <Compile Include="Employee\UploadEmpTermination.cs" />
+    <Compile Include="Employee\UploadLeaveApplication.cs" />
+    <Compile Include="Employee\UploadLeaveBalanceAdjustment.cs" />
+    <Compile Include="Import.cs" />
+    <Compile Include="ImportAttendanceRecord.cs" />
+    <Compile Include="ImportCND.cs" />
+    <Compile Include="ImportCommissionAchievement.cs" />
+    <Compile Include="ImportEmpWorkingSummary.cs" />
+    <Compile Include="ImportFieldValidator.cs" />
+    <Compile Include="ImportFileValidator.cs" />
+    <Compile Include="ImportPayScaleBackpay.cs" />
+    <Compile Include="ImportPayScaleSalaryIncrement.cs" />
+    <Compile Include="ImportRosterTable.cs" />
+    <Compile Include="ImportTimeCardRecord.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ImportIncentivePayment.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Attendance\HROne.Lib.Attendance.csproj">
+      <Project>{A62F54B6-D570-48DF-816A-73AABE5AFFFF}</Project>
+      <Name>HROne.Lib.Attendance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Leave\HROne.Lib.Leave.csproj">
+      <Project>{6BEC347D-AA72-437E-9E41-A5E7BB03056F}</Project>
+      <Name>HROne.Lib.Leave</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

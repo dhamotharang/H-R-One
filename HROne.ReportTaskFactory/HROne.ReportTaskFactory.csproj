@@ -1,0 +1,100 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7D3EABE7-E029-4C66-9EC5-17C2DA2A0CCD}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.ReportTaskFactory</RootNamespace>
+    <AssemblyName>HROne.ReportTaskFactory</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AuditTrailReportTaskFactory.cs" />
+    <Compile Include="TaxationDiskTaskFactory.cs" />
+    <Compile Include="GenerateMPFContributionFileTaskFactory.cs" />
+    <Compile Include="GenerateBankFileTaskFactory.cs" />
+    <Compile Include="GenericExcelReportTaskFactory.cs" />
+    <Compile Include="GenericReportTaskFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.BankFile\HROne.BankFile.csproj">
+      <Project>{675BB2FF-F6E2-4622-961A-D4D6DB914A07}</Project>
+      <Name>HROne.BankFile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Payroll\HROne.Lib.Payroll.csproj">
+      <Project>{FA33A1C3-697E-4F93-96DA-82061FA4EEE8}</Project>
+      <Name>HROne.Lib.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.MPFFile\HROne.MPFFile.csproj">
+      <Project>{A8B9996A-3678-4CAD-99F4-9219F63BA732}</Project>
+      <Name>HROne.MPFFile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Reports.Payroll\HROne.Reports.Payroll.csproj">
+      <Project>{6752AC1C-43D4-4F29-900A-756530DA4D0C}</Project>
+      <Name>HROne.Reports.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Reports.Taxation\HROne.Reports.Taxation.csproj">
+      <Project>{59443C90-F107-4AE7-B81A-540C24961364}</Project>
+      <Name>HROne.Reports.Taxation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Taxation\HROne.Taxation.csproj">
+      <Project>{F6E8D78E-3549-4090-818D-253997A24A4F}</Project>
+      <Name>HROne.Taxation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

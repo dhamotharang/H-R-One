@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_MPFDetailList" targetNamespace="http://tempuri.org/Payroll_MPFDetailList.xsd" xmlns:mstns="http://tempuri.org/Payroll_MPFDetailList.xsd" xmlns="http://tempuri.org/Payroll_MPFDetailList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_MPFDetailList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Payroll_MPFDetailList" msprop:Generator_DataSetName="Payroll_MPFDetailList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EmpInfo" msprop:Generator_UserTableName="EmpInfo" msprop:Generator_RowDeletedName="EmpInfoRowDeleted" msprop:Generator_RowChangedName="EmpInfoRowChanged" msprop:Generator_RowClassName="EmpInfoRow" msprop:Generator_RowChangingName="EmpInfoRowChanging" msprop:Generator_RowEvArgName="EmpInfoRowChangeEvent" msprop:Generator_RowEvHandlerName="EmpInfoRowChangeEventHandler" msprop:Generator_TableClassName="EmpInfoDataTable" msprop:Generator_TableVarName="tableEmpInfo" msprop:Generator_RowDeletingName="EmpInfoRowDeleting" msprop:Generator_TablePropName="EmpInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" />
+              <xs:element name="EmpNo" msprop:Generator_UserColumnName="EmpNo" msprop:Generator_ColumnVarNameInTable="columnEmpNo" msprop:Generator_ColumnPropNameInRow="EmpNo" msprop:Generator_ColumnPropNameInTable="EmpNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" msprop:Generator_UserColumnName="EmpName" msprop:Generator_ColumnVarNameInTable="columnEmpName" msprop:Generator_ColumnPropNameInRow="EmpName" msprop:Generator_ColumnPropNameInTable="EmpNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PrintPeriod" msprop:Generator_UserColumnName="PrintPeriod" msprop:Generator_ColumnVarNameInTable="columnPrintPeriod" msprop:Generator_ColumnPropNameInRow="PrintPeriod" msprop:Generator_ColumnPropNameInTable="PrintPeriodColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyName" msprop:Generator_UserColumnName="CompanyName" msprop:Generator_ColumnVarNameInTable="columnCompanyName" msprop:Generator_ColumnPropNameInRow="CompanyName" msprop:Generator_ColumnPropNameInTable="CompanyNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Position" msprop:Generator_UserColumnName="Position" msprop:Generator_ColumnVarNameInTable="columnPosition" msprop:Generator_ColumnPropNameInRow="Position" msprop:Generator_ColumnPropNameInTable="PositionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="DateOfJoin" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MPFDetail" msprop:Generator_UserTableName="MPFDetail" msprop:Generator_RowDeletedName="MPFDetailRowDeleted" msprop:Generator_RowChangedName="MPFDetailRowChanged" msprop:Generator_RowClassName="MPFDetailRow" msprop:Generator_RowChangingName="MPFDetailRowChanging" msprop:Generator_RowEvArgName="MPFDetailRowChangeEvent" msprop:Generator_RowEvHandlerName="MPFDetailRowChangeEventHandler" msprop:Generator_TableClassName="MPFDetailDataTable" msprop:Generator_TableVarName="tableMPFDetail" msprop:Generator_RowDeletingName="MPFDetailRowDeleting" msprop:Generator_TablePropName="MPFDetail">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MPFRecordID" msprop:Generator_UserColumnName="MPFRecordID" msprop:Generator_ColumnVarNameInTable="columnMPFRecordID" msprop:Generator_ColumnPropNameInRow="MPFRecordID" msprop:Generator_ColumnPropNameInTable="MPFRecordIDColumn" type="xs:int" />
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Period" msprop:Generator_UserColumnName="Period" msprop:Generator_ColumnPropNameInRow="Period" msprop:Generator_ColumnVarNameInTable="columnPeriod" msprop:Generator_ColumnPropNameInTable="PeriodColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFr" msprop:Generator_UserColumnName="PeriodFr" msprop:Generator_ColumnVarNameInTable="columnPeriodFr" msprop:Generator_ColumnPropNameInRow="PeriodFr" msprop:Generator_ColumnPropNameInTable="PeriodFrColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" msprop:Generator_UserColumnName="PeriodTo" msprop:Generator_ColumnVarNameInTable="columnPeriodTo" msprop:Generator_ColumnPropNameInRow="PeriodTo" msprop:Generator_ColumnPropNameInTable="PeriodToColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" msprop:Generator_UserColumnName="RelevantIncome" msprop:Generator_ColumnVarNameInTable="columnRelevantIncome" msprop:Generator_ColumnPropNameInRow="RelevantIncome" msprop:Generator_ColumnPropNameInTable="RelevantIncomeColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MCER" msprop:Generator_UserColumnName="MCER" msprop:Generator_ColumnVarNameInTable="columnMCER" msprop:Generator_ColumnPropNameInRow="MCER" msprop:Generator_ColumnPropNameInTable="MCERColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MCEE" msprop:Generator_UserColumnName="MCEE" msprop:Generator_ColumnVarNameInTable="columnMCEE" msprop:Generator_ColumnPropNameInRow="MCEE" msprop:Generator_ColumnPropNameInTable="MCEEColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VCER" msprop:Generator_UserColumnName="VCER" msprop:Generator_ColumnVarNameInTable="columnVCER" msprop:Generator_ColumnPropNameInRow="VCER" msprop:Generator_ColumnPropNameInTable="VCERColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VCEE" msprop:Generator_UserColumnName="VCEE" msprop:Generator_ColumnVarNameInTable="columnVCEE" msprop:Generator_ColumnPropNameInRow="VCEE" msprop:Generator_ColumnPropNameInTable="VCEEColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:EmpInfo" />
+      <xs:field xpath="mstns:EmpID" />
+    </xs:unique>
+    <xs:unique name="MPFDetail_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MPFDetail" />
+      <xs:field xpath="mstns:MPFRecordID" />
+    </xs:unique>
+    <xs:keyref name="MPFDetail_EmpInfo" refer="Constraint1" msprop:rel_Generator_UserRelationName="MPFDetail_EmpInfo" msprop:rel_Generator_RelationVarName="relationMPFDetail_EmpInfo" msprop:rel_Generator_UserChildTable="MPFDetail" msprop:rel_Generator_UserParentTable="EmpInfo" msprop:rel_Generator_ParentPropName="EmpInfoRow" msprop:rel_Generator_ChildPropName="GetMPFDetailRows" msdata:AcceptRejectRule="Cascade">
+      <xs:selector xpath=".//mstns:MPFDetail" />
+      <xs:field xpath="mstns:EmpID" />
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

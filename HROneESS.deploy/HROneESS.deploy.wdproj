@@ -1,0 +1,70 @@
+﻿<!-- 
+  Microsoft Visual Studio 2005 Web Deployment Project 
+  http://go.microsoft.com/fwlink/?LinkId=55111
+-->
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.51103</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{85B62D2B-904F-4404-AE72-A0AB07C6AD6B}</ProjectGuid>
+    <SourceWebPhysicalPath>..\HROneESS</SourceWebPhysicalPath>
+    <SourceWebProject>{D0B7E7DF-4871-4C5D-A8F1-985AA2F1B6E3}|D:\Projects\HROne\source 1.0.25\Core\HROneESS</SourceWebProject>
+    <SourceWebVirtualPath>/HROneESS</SourceWebVirtualPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>.\Debug</OutputPath>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>HROneESS.deploy</SingleAssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>.\Release</OutputPath>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>HROneESS.deploy</SingleAssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\HROne.Lib.Leave\HROne.Lib.Leave.csproj">
+      <Project>{6BEC347D-AA72-437E-9E41-A5E7BB03056F}</Project>
+      <Name>HROne.Lib.Leave</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Employee\HROne.Reports.Employee.csproj">
+      <Project>{5509F6A6-C322-47BC-B8B9-2B511B51B476}</Project>
+      <Name>HROne.Reports.Employee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Payroll\HROne.Reports.Payroll.csproj">
+      <Project>{6752AC1C-43D4-4F29-900A-756530DA4D0C}</Project>
+      <Name>HROne.Reports.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Taxation\HROne.Reports.Taxation.csproj">
+      <Project>{59443C90-F107-4AE7-B81A-540C24961364}</Project>
+      <Name>HROne.Reports.Taxation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Taxation\HROne.Taxation.csproj">
+      <Project>{F6E8D78E-3549-4090-818D-253997A24A4F}</Project>
+      <Name>HROne.Taxation</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WebDeployment\v8.0\Microsoft.WebDeployment.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.WebDeployment.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="BeforeMerge">
+  </Target>
+  <Target Name="AfterMerge">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

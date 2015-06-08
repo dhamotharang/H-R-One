@@ -1,0 +1,349 @@
+1.0.32
+======
+0000173: Add quick search employee function
+0000193: Export KTP Fund report in Excel format (well-format)
+
+1.0.31
+======
+0000190: Add addtional information on Dependant
+0000201: [ESS] Add a List Box next to the date (AM / PM / - ) under ESS Leave
+0000197: Add new bank file "Standard chartered - iPayment"
+0000193: Export KTP Fund report in Excel format (well-format)
+0000205: Duplicate record under Generate Taxation Records
+
+1.0.30
+======
+0000204: Some machines cannot load chinese fonts on reports
+0000177: MPF statement for F&V 
+0000206: ORSO section on Payslip should show "Basic Salary" instead of "Relevant Income"
+0000173: Add quick search employee function
+0000198: ESS Announcement function - HROneWeb side
+0000196: Export employee information (Split into two boxes )
+0000193: Export KTP Fund report in Excel format (well-format)
+0000197: Add new bank file "Standard chartered - iPayment"
+
+
+1.0.29
+==================
+0000183: [ESS] Add new report on Time Card Record
+0000109: PFund report
+0000186: Pfund cal error on incomplete month termination
+0000187: Cannot generate Taxation file
+0000188: Sex field under Spouse
+0000185: Add Employee Filter on some filter 
+		-	Payroll_Confirm
+		-	Payroll_CostAllocation_Confirm
+		-	Payroll_CostAllocation_TrialRun
+		-	Payroll_CostAllocation_TrialRun_Adjustment_List
+		-	Payroll_ProcessEnd
+		-	Payroll_UndoTrialRun
+		-	Report_Payroll_NetPaymentListByPaymentMethod_List
+		-	Customize_Payroll_CostAllocation_ExportToExcel_Summary
+		-	Customize_Report_Payroll_Summary_List
+(1.0.29c)
+0000190: Add addtional information on Dependant
+0000168: Customized Attendance Preparation Process Function
+0000181: Add New report "Payment summary list (WaiJi)"
+0000185: Add Employee Filter on some filter 
+		- Average Cost Centre Export
+		- Rollback Payroll Process
+		- Employee Gender Report
+		- Employee Residency Report
+		- Payment Allocation Report
+		- Payroll Allocation Report - Details
+		- Taxation Report
+0000192: Enhance HROne to import °∞Cost Center Export Report°±
+		
+		
+1.0.28
+==================
+0000163: Average Basic Salary 2 problem on split payroll group
+0000174: Add Position on Employee Leave Application List & ESS Pending Request Report
+0000178: Hide Skip MPF calculation if recurring payment calculation does not exist
+0000169: UOB Autopay Bank file format
+0000164: Create a ShiftDutyCode master function
+0000165: Create a Payment Calculation Formula master maintenance function
+0000166: Modify Recurring Payment to support entry of "ShiftDutyCode" and "Customized Leave Code"
+0000176: New MPF File (Fidelity)
+0000180: [ESS] Add leave code information and filter on Approval History
+0000179: [ESS] Roster Table ®C Separated the selection of °∞Leave°± and °∞Roster°±
+0000182: [ESS] Add record of sub-ordinate on Leave Application Report
+
+
+1.0.27
+==================
+0000054: Request timeout under "Cost Allocation Detail Export"
+0000161: Payroll group setting problem on "Minimum period of employment for AL Compensation : "
+
+1.0.26
+==================
+0000170: Add Employee ESS Language
+0000172: [ESS] empty password under ESS
+0000112: [ESS] Late waive & Late waive history
+
+
+1.0.25
+==================
+0000155: Column align (Hierarchy Level Setup)
+0000154: Wrong Wording on User Group Setup (RPT255 Payroll Allocation Report ?C Details )
+0000153: [ESS] Change "Medical Certificate" to "Relevant Certificate" on Leave Application List
+0000112: [ESS] Late waive & Late waive history
+0000118: [ESS] Add Supervisor attendance record on Monthly Attendance Report
+0000158: Change to Re-cal Active ee's leave bal under leave plan
+0000110: Average Cost Centre Export
+0000159: Hit Rate Based Payment Process
+
+
+1.0.24  2014-12-09
+==================
+0000135: Can't display full word in Remark field under ESS's Monthly Attendance Report
+0000136: Change "Will be Exipred" to "Will Expire"
+0000140: Security problem on Pfund Report
+0000085: Add New MPF First Contribution Statement
+0000081: New Report : Cost Center export report
+0000120: Add "Monthly Leave Application Reference" when fill in the leave application
+0000125: Add "hyperlink" to Employee information (Position History)
+0000112: [ESS] Late waive & Late waive history
+0000148: Employee Position lost on deleting WorkHourPattern
+0000145: Mistake on HROneDBScheme.sql
+0000144: [Core] Translate into Chinese
+0000126: Double Pay
+0000142: Add addtional information on spouse
+0000139: Add default Home address to Beneficiaries
+0000138: Cost Allocation Trial Run Problem
+0000118: [ESS] Add Supervisor attendance record on Monthly Attendance Report
+0000143: [ESS] Translate Problem
+0000150: Add warning Notice for the Place of Birth/Country of Issue / Nationality
+0000151: [ESS] Wrong Display "Message for Relevant Certificate Alert"
+
+
+
+1.0.23  2014-11-21
+==================
+0000105: [ESS] Application Approval add "Leave code" ad have Time information on Modify Date
+0000092: Change the text free box(Place of birth; country of issue; nationality) to pull down menu
+0000116: Employee information ( Join Date)
+0000133: Leave Application Report with incorrect result
+0000088: apply for Leave application (display problem re. generate report)
+0000125: Add "hyperlink" to Employee information (Position History)
+0000134: Switch to enable data encryption/decryption
+0000008: ESS apply leave bypass checking of remain leave bal
+0000126: Double Pay
+0000124: [ESS] Display problem on Employee filter under Approval History
+
+
+1.0.22  2014-10-11
+==================
+0000127: Bonus
+0000129: Security problem on Cost Center Report
+0000100: Import employee problem on Place of Birth / Country of Issue / Nationality
+0000062: Monthly Commission Handling
+0000121: Change column name "Basic Salary" to "Target Salary"
+0000131: Show employee if target salary >100% under Comission & Incentive module
+0000128: Update HROne.MigrationTool Project
+
+1.0.21  2014-10-13
+==================
+0000101: Add Cheque number on AIA MPF Remittance Statement
+0000068: Add Company & Hierarchy on employee list
+0000106: AVC enhancement (Add ceiling on residual for er/ee)
+0000108: [ESS] Error found when generate Leave Balance Report
+0000119: [ESS] Leave Balance report should included the authorizer
+0000117: [ESS] Wrong put title logo of Monthly Attendance Report & Leave Balance Report
+0000118: [ESS] Add Supervisor attendance record on Monthly Attendance Report
+
+
+1.0.20  2014-09-15
+==================
+0000064: [ESS] Add Employee filter under Approval History
+0000080: [ESS] Email subject improvement
+0000087: Add new report °∞New Join Payment Summary°±
+0000090: 0000090: Add new report "PFund Contribution Summary"
+0000092: Change the text free box(Place of birth; country of issue; nationality) to pull down menu 
+0000094: [ESS] Application Approval & Request display problem on hours leave application
+0000095: No pop up message under System Parameter Ver. 1.0.19
+0000096: Add the payroll process end (reminder box)
+0000099: Add "box" for select all
+0000100: Import employee problem on Place of Birth / Country of Issue / Nationality
+Fixed security issue in Payment Allocation Report
+0000079: Add Alias & under Employee List
+
+
+1.0.19  2014-09-05
+==================
+0000069: Hide payroll group if the user is not authorize to
+0000043: SqlDateTime overflow under ESS
+0000081: New Report : Cost Center export report
+0000094: [ESS] Application Approval & Request display problem on hours leave application
+0000070: Benefit and Beneficiaries
+0000093: Add new constrain on leave type for in advance leave take
+0000091: Avoid Time overlap check while submitting an EOT claim
+
+
+1.0.18  2014-08-23
+==================
+0000020: IR56M form
+0000063: Add Authorize Reason under ESS
+0000065: Add more information under Application Approval display box
+0000067: Add new field "Original Hire Date°±
+0000070: Benefit and Beneficiaries
+0000076: [ESS] Add new report °∞Attendance Time Entry Report°±
+0000078: Add Alias under Employee Probation List
+0000079: Add Alias & under Employee List
+0000083: Add New Cost Allocation Summary Export for KPL only
+0000084: Pfund enhancement
+0000085: Add New MPF First Contribution Statement
+0000091: Avoid Time overlap check while submitting an EOT claim
+
+
+1.0.17  2014-08-21
+==================
+1. 0000060: EOT claims
+2. 0000062: Monthly Commission Handling
+3. 0000066: Message alert to HR users when entering same HKID
+4. 0000067: Add new field "Original Hire Date°±
+5. 0000068: Add Company & Hierarchy on employee list
+6. 0000071: Access control on edit employee number
+7. 0000072: System Default Language display Åy¥a in version 16
+8. 0000073: [ESS] Wrong display on logo and banner
+9. 0000075: [ESS] Web.sitemap update
+10. 0000020: IR56M form
+11. 0000011: Add Leave code filter under Leave Application
+12. Import/Export "NextSalaryIncrementDate" only if PointSystem is enabled
+13. 0000021: DAW calculation problem under half day not full paid leave
+
+
+1.0.16
+======
+1. 0000051: Comp Leave cal error under furture year expiry date
+2. 0000056: Monthly Attendance Report shows incorrect remark
+3. 0000057: Add Monthly Attendance Report control under System Parameters
+4. 0000058: Core: add column "OT" under Monthly Attendance Report
+5. 0000060: EOT claims
+6. Add a new validation on Compensation Leave Adjustment on Balance Reset
+7. 0000006: Add Copy Function under "Leave Plan Setup"
+8. 0000004: Auto display the "To" date after the user enter the "From" date
+9. 0000016: Default check box
+
+
+1.0.14
+======
+Kerry Hotfix:
+1) Roster Table - "Not Selected" change to "All"
+2) Roster Table - Approved "Cancellation of Leave" is not reflected on the roster table.
+3) Leave Application - Delete "Not Seleted"
+4) Leave Application - Delete "Hour"
+5) Leave Application - "Estimate Total Days" change to "Total Number of Days"
+6) Application Approval (Cancellation of Leave) - Change "Leave Application" to "Leave Cancellation"
+7) Notification of Application - Eliminate all the confirmation emails to Authorizers and Approvers, only applicant can receive an email to notify him/her that his/her application is accepted or rejected.
+9) Leave Balance Report - Add a field of "Department"
+10) Leave Application List - Add a field of "Department"
+
+
+1.0.13
+======
+- Payscale CR
+- 0000050: Calculation error On "Basic Salary / Calendar Days" Under DAW report
+- 0000048: Change the wording of "Medical Certificate" to "Relevant Certificate"
+- 0000047: ESS can't view record under Approval History
+- 0000044: Auto Generate Staff Number
+- 0000043: SqlDateTime overflow under ESS
+- 0000052: ESS "Medical Certificate" check box
+- 0000016: Default check box
+- 0000004: Auto display the "To" date after the user enter the "From" date
+- 0000006: Add Copy Function under "Leave Plan Setup"
+- 0000011: Add Leave code filter under Leave Application
+- 0000053: Add a filter under Import Time Card Record
+
+1.0.12
+======
+- 0000046: Change MPF Scheme name
+
+1.0.11
+======
+- 0000023: (follow-up) fix wrong output filename from LeaveApplication to OverallPaymentSummary
+- 0000019: (follow-up) Loading time under cost allocation module	
+- 0000021: Wrong Compensation Leave Calculation
+
+1.0.10
+======
+- 0000013: sick leave Calculation problem
+- 0000014: Leave Plan fields order is different from view mode and edit mode
+- 0000019: Loading time under cost allocation module
+- 0000023: Please add Employee Overall Payment Summary report on ESS
+- 0000024: Security Problem
+- 0000026: DAW report date join change to services date
+- 0000027: ESS Authorizer can approve their own leave application through the "Request Status" screen.
+- 0000028: Bugs under Authorization Workflow setup
+- 0000029: Core Translate problem
+- 0000033: Wrong CL Taken calculation
+- 0000034: Misleading display under Employee Leave Application List
+- 0000035: Please add Employee Leave application list on ESS
+- 0000040: Error Checking under AVC Plan
+- 0000042: MPF ER Update (2014-06)
+
+
+1.0.9
+=====
+- 0000030: ESS Missing "Application Approval" function
+- 0000022: Please change the title to HROne under Productkey.aspx
+- 0000003: Do Not export "final payment" worksheet
+- 0000005: Add "Leave Re-Calculate for all Employee" Under Leave function
+- 0000025: DAW report default show activie employee only
+
+
+1.0.8
+=====
+- CORE: Added MPF and ORSO Contributions to Final Payment Statement
+- CORE: Added Employee Alias(if any) to Employee Name in Employee List Report (#0000002)
+- CORE: Revised Daily Average Wages Report to add column of "Basic Salary / Calendar Days"
+
+1.0.7
+=====
+- CORE: Avoid Cost Allocation Trial-run timeout by setting timeout value to 240 seconds
+- CORE: Revised bilingual translation
+- CORE: fix Compensation Leave expired immediately if an Expiry Date is given to the leave entitled
+- CORE: Disable "last date of leave year" for Compensation-Leave LeaveType setup
+- CODE: Added option (Leave Type 5th checkbox) to limit users to apply leave balance from current entitlements. 
+       (i.e. leaves can be applied if balance are from b/f, adjustment only)
+- CORE: Fix Average Daily Wages for cross-month continous Statutory Holiday
+- ESS: Revised bilingual translation
+
+1.0.6
+=====
+- CORE: Fixed Will-be-expired and Expiry-Date in Leave Balance List when adjustment involved.
+- CORE: Default Termination Period to "1 Day" if this value is not set in the Employee Information.
+
+1.0.5
+=====
+- ESS : Added customizable parameter : m_isSimpleView and m_isViewChangeable in Emp_LeaveBalance_List.ascx to control all the leave balance view
+- ESS : Added customizable parameter : applicableDays in LeaveApplicationForm.ascx to limit the range of DaysTaken in LeaveApplication function
+- ESS : Adjusted chinese translations
+- Core: Fixed Emp_View.aspx broken-link problem
+
+1.0.4
+=====
+- Core: bug fix "Average Basic Salary2" on calculating employee's bonus if the employee join the company this year
+- Core: For employee's probation-end-date on the same day of year-end-bonus-plan-end-date (usually, i.e. 31/12), 
+        the employee will be entitled with the year-end-bonus
+
+1.0.3
+=====
+- Core: added "Average Basic Salary2" to YEB calculation formula
+
+1.0.2
+=====
+- Core: fixed Runtime error when regenerating employee leave balance in the scenario where 0 b/f and 0 month expiry
+- Core: removed "forfeit" checkbox from Leave Plan Setup, revised calculation of "Employee Leave Balance"
+- Core: enhanced Payment Allocation Report to support in employee level, original hierarchy level feature remains unchanged
+- Core: sitemap updated
+- Core: in adding new MPF entry, start date will be defaulted to the Employee Join Date
+- Core: in creating new employee, Service Start Date will be defaulted to Employee Join Date
+- Core: in creating new employee, user can use the "skip" button to skip bank account input
+- ESS: added Active Directory feature in login screen (to be tested)
+- ESS: fixed login menu show/hide mechanism in the scenario of customized sitemap
+- 
+
+1.0.1
+======
+First Release

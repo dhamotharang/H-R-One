@@ -1,0 +1,90 @@
+﻿<!-- 
+  Microsoft Visual Studio 2005 Web Deployment Project 
+  http://go.microsoft.com/fwlink/?LinkId=55111
+-->
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.51103</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{863AF8D0-3DF4-42CC-87BB-F25E3589440E}</ProjectGuid>
+    <SourceWebPhysicalPath>..\HROneWeb</SourceWebPhysicalPath>
+    <SourceWebProject>{939B34D0-0802-4C6E-96D8-FD332CCFE04F}|D:\Projects\HROne\source 1.0.29\Core\HROneWeb</SourceWebProject>
+    <SourceWebVirtualPath>/HROneWeb</SourceWebVirtualPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>.\Debug</OutputPath>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>HROneWeb.deploy</SingleAssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>.\Release</OutputPath>
+    <EnableUpdateable>true</EnableUpdateable>
+    <UseMerge>true</UseMerge>
+    <SingleAssemblyName>HROneWeb.deploy</SingleAssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\HROne.BankFile\HROne.BankFile.csproj">
+      <Project>{675BB2FF-F6E2-4622-961A-D4D6DB914A07}</Project>
+      <Name>HROne.BankFile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Import\HROne.Import.csproj">
+      <Project>{82AE79F1-1380-4240-B9C8-AD14D0F93024}</Project>
+      <Name>HROne.Import</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Lib.Payroll\HROne.Lib.Payroll.csproj">
+      <Project>{FA33A1C3-697E-4F93-96DA-82061FA4EEE8}</Project>
+      <Name>HROne.Lib.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.MPFFile\HROne.MPFFile.csproj">
+      <Project>{A8B9996A-3678-4CAD-99F4-9219F63BA732}</Project>
+      <Name>HROne.MPFFile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.ProductVersion\HROne.ProductVersion.csproj">
+      <Project>{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}</Project>
+      <Name>HROne.ProductVersion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Employee\HROne.Reports.Employee.csproj">
+      <Project>{5509F6A6-C322-47BC-B8B9-2B511B51B476}</Project>
+      <Name>HROne.Reports.Employee</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Payroll\HROne.Reports.Payroll.csproj">
+      <Project>{6752AC1C-43D4-4F29-900A-756530DA4D0C}</Project>
+      <Name>HROne.Reports.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.Reports.Taxation\HROne.Reports.Taxation.csproj">
+      <Project>{59443C90-F107-4AE7-B81A-540C24961364}</Project>
+      <Name>HROne.Reports.Taxation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.ReportTaskFactory\HROne.ReportTaskFactory.csproj">
+      <Project>{7D3EABE7-E029-4C66-9EC5-17C2DA2A0CCD}</Project>
+      <Name>HROne.ReportTaskFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HROne.SaaS\HROne.SaaS.csproj">
+      <Project>{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}</Project>
+      <Name>HROne.SaaS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WebDeployment\v8.0\Microsoft.WebDeployment.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.WebDeployment.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="BeforeMerge">
+  </Target>
+  <Target Name="AfterMerge">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

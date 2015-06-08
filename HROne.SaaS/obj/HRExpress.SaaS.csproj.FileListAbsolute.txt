@@ -1,0 +1,40 @@
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\HRExpress.SaaS.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\HRExpress.DataAccess.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\HRPlus.CommonLib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\HRPlus.Lib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\Interop.VBA.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\Interop.PDFCreator.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\NPOI.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\Ionic.Zip.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\bin\Release\HRPlus.Lib.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\obj\Release\ResolveAssemblyReference.cache
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\obj\Release\HRExpress.SaaS.ReportTemplate.GenericHSBCReport.rpt
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.SaaS\obj\Release\HRExpress.SaaS.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRExpress.SaaS.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRExpress.SaaS.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRPlus.CommonLib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRExpress.DataAccess.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Debug\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Debug\HRExpress.SaaS.ReportTemplate.GenericHSBCReport.rpt
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Debug\HRExpress.SaaS.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Debug\HRExpress.SaaS.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\HRExpress.SaaS.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\bin\Release\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Release\HRExpress.SaaS.ReportTemplate.GenericHSBCReport.rpt
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.SaaS\obj\Release\HRExpress.SaaS.dll

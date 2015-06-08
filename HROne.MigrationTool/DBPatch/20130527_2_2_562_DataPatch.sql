@@ -1,0 +1,8 @@
+UPDATE PaymentCode
+SET PaymentCodeIsProrataLeave=0
+WHERE PaymentCodeIsProrata=0
+AND PaymentCodeIsProrataLeave<>0
+
+UPDATE PaymentCode
+SET PaymentCodeIsProrataStatutoryHoliday=PaymentCodeIsProrataLeave
+WHERE PaymentCodeIsProrataLeave IS NULL

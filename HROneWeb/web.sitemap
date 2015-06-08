@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="" description ="" >
+    <!--<siteMapNode title="Introduction"  description="Introduction" >
+      <siteMapNode url="~/SetupRequirements.aspx" title="System Requirements" description="System Requirements" />
+    </siteMapNode>-->
+    <siteMapNode title="Code Setup"  description="Code Setup" >
+      <siteMapNode url="~/Company_List.aspx" title="Company Setup" description="Company Setup" />
+      <siteMapNode url="~/CompanyBankAccount_List.aspx" title="Company Bank Account Setup" description="Company Bank Account Setup" />
+      <siteMapNode url="~/HierarchyLevel.aspx" title="Hierarchy Level Setup" description="Hierarchy Level Setup" />
+      <siteMapNode url="~/HierarchyElement_List.aspx" title="Business Hierarchy Setup" description="Business Hierarchy Setup" />
+      <siteMapNode url="~/PaymentCode_List.aspx" title="Payment Code Setup" description="Payment Code Setup" />
+      <siteMapNode url="~/YEBPlan_List.aspx" title="Year End Bonus Plan Setup" description="Year End Bonus Plan Setup" />
+      <siteMapNode url="~/MiscCode.aspx" title="Miscellaneous Code Setup" description="Miscellaneous Code Setup" />
+      <siteMapNode url="~/StatutoryHoliday.aspx" title="Statutory Holiday Setup" description="Statutory Holiday Setup" />
+      <siteMapNode url="~/PublicHoliday.aspx" title="Public Holiday Setup" description="Public Holiday Setup" />
+      <siteMapNode url="~/WorkHourPattern_List.aspx" title="Work Hour Pattern Setup" description="Work Hour Pattern Setup" />
+      <!-- Start 0000070, Miranda, 2014-08-27 -->
+      <siteMapNode url="~/BenefitPlan_List.aspx" title="Benefit Plan Setup" description="Benefit Plan Setup" />
+      <!-- End 0000070, Miranda, 2014-08-27 -->
+      <!-- Start 0000164, KuangWei, 2015-01-28 -->
+      <siteMapNode url="~/ShiftDutyCode_List.aspx" title="Shift Duty Code" description="Shift Duty Code" />
+      <!-- End 0000164, KuangWei, 2015-01-28 -->
+      <!-- Start 0000165, KuangWei, 2015-01-31 -->
+      <siteMapNode url="~/PaymentCalculationFormula_List.aspx" title="Payment Calculation Formula" description="Payment Calculation Formula" />
+      <!-- End 0000165, KuangWei, 2015-01-31 -->
+      <!--
+      <siteMapNode url="~/PayScaleMaster.aspx" title="Pay Scale Setup" description="Pay Scale Setup" />
+      <siteMapNode url="~/PayScalePointsMaster.aspx" title="Pay Scale Points Setup" description="Pay Scale Points Setup" />
+-->
+    </siteMapNode>
+    <siteMapNode title="Employee"  description="Employee Setup" >
+      <siteMapNode url="~/Emp_List.aspx" title="Personal Information" description="Personal Information" />
+      <siteMapNode title="Training"  description="Training" >
+        <siteMapNode url="~/Training_Seminar_List.aspx" title="Training Seminar Setup" description="Training Seminar Setup" />
+        <siteMapNode url="~/Report_Training_Seminar_Enroll.aspx" title="Training Report" description="Training Report" />
+      </siteMapNode>
+      <siteMapNode url="~/Emp_Export_List.aspx" title="Export Employee Information" description="Export Employee Information" />
+      <siteMapNode url="~/Emp_Import.aspx" title="Import Employee Information" description="Import Employee Information" />
+    </siteMapNode>
+    <siteMapNode title="Leave"  description="Leave" >
+      <siteMapNode url="~/LeaveType_List.aspx" title="Leave Type Setup" description="Leave Type Setup" />
+      <siteMapNode url="~/LeaveCode_List.aspx" title="Leave Code Setup" description="Leave Code Setup" />
+      <siteMapNode url="~/Leave_ALProrataRoundingRule_List.aspx" title="Annual Leave Prorata Rounding Rule Setup" description="Annual Leave Prorata Rounding Rule Setup" />
+      <siteMapNode url="~/LeavePlan_List.aspx" title="Leave Plan Setup" description="Leave Plan Setup" />
+      <siteMapNode url="~/Leave_BalanceAdjustment_Import.aspx" title="Import Leave Balance Adjustment" description="Import Leave Balance Adjustment" />
+      <siteMapNode url="~/Leave_CompensationLeaveEntitle_Import.aspx" title="Import Compensation Leave Entitlement" description="Import Compensation Leave Entitlement" />
+    </siteMapNode>
+    <siteMapNode title="Payroll"  description="Payroll" >
+      <siteMapNode url="~/StatutoryMinimumWage.aspx" title="Statutory Minimum Wage Setup" description="Statutory Minimum Wage Setup" />
+      <siteMapNode url="~/Payroll_Formula_List.aspx" title="Payroll Formula Setup" description="Payroll Formula Setup" />
+      <siteMapNode url="~/Payroll_Group_List.aspx" title="Payroll Group Setup" description="Payroll Group Setup" />
+      <siteMapNode title="Employee Working Summary" description="Employee Working Summary" >
+        <siteMapNode url="~/Payroll_WorkingSummary_List.aspx" title="List" description="Employee Working Summary List" />
+        <siteMapNode url="~/Payroll_WorkingSummary_Export_List.aspx" title="Export" description="Employee Working Summary Export" />
+        <siteMapNode url="~/Payroll_WorkingSummary_ExportTemplate_List.aspx" title="Export Template" description="Employee Working Summary Export" />
+        <siteMapNode url="~/Payroll_WorkingSummary_Import.aspx" title="Import" description="Employee Working Summary Import" />
+      </siteMapNode>
+
+      <siteMapNode url="~/Payroll_CommissionAchievement_List.aspx" title="Commission Achievement Process" description="Commission Achievement Process" />
+      <siteMapNode url="~/Payroll_HitRateProcess_List.aspx" title="Hit Rate Based Process" description="Hit Rate Based Process" />
+      <siteMapNode url="~/Payroll_IncentivePayment_List.aspx" title="Incentive Payment Process" description="Incentive Payment Process" />
+      <siteMapNode url="~/Payroll_BonusProcess_List.aspx" title="Bonus Process" description="Bonus Process" />
+      <siteMapNode url="~/Payroll_DoublePayAdjustment_List.aspx" title="Double Pay Adjustment" description="Double Pay Adjustment" />
+
+
+      <siteMapNode url="~/Payroll_CND_List.aspx" title="Claims and Deductions" description="Claims and Deductions" />
+      <siteMapNode url="~/Payroll_TrialRun.aspx" title="Payroll Trial Run" description="Payroll Trial Run" />
+      <siteMapNode url="~/Payroll_TrialRunAdjust_List.aspx" title="Payroll Trial Run Adjustment" description="Payroll Trial Run Adjustment" />
+      <siteMapNode url="~/Payroll_UndoTrialRun.aspx" title="Rollback Payroll Trial Run " description="Rollback Payroll Trial Run" />
+      <siteMapNode url="~/Payroll_Confirm.aspx" title="Payroll Confirmation" description="Payroll Confirmation" />
+<!-- 
+      <siteMapNode title="PayScale Processes" description="PayScale Processes" >
+        <siteMapNode url="~/Payroll_SalaryIncrementBatch_List.aspx" title="Salary Increment Batch" description="Salary Increment Batch" />
+        <siteMapNode url="~/Payroll_BackpayTemplate_Export.aspx" title="Backpay Template Export" description="Export backpay template for Claims And Deduction Import" />
+      </siteMapNode>
+-->
+      <siteMapNode url="~/Payroll_StopPayment.aspx" title="Stop Payment" description="Stop Payment" />
+      <siteMapNode url="~/Payroll_SetPaidDate.aspx" title="Set Paid Date" description="Set Paid Date" />
+      <siteMapNode url="~/Payroll_GenerateBankFile_View.aspx" title="Generate Bank File" description="Generate Bank File" />
+      <siteMapNode url="~/Payroll_GenerateMPFFile_List.aspx" title="Generate MPF File" description="Generate MPF File" />
+      <siteMapNode url="~/Payroll_ESS_ReleasePaySlip_List.aspx" title="Release Pay Slip to ESS" description="Release Pay Slip to ESS" />
+      <siteMapNode url="~/Payroll_ProcessEnd.aspx" title="Payroll Process End" description="Payroll Process End" />
+      <siteMapNode url="~/Payroll_HistoryAdjust_List.aspx" title="Payroll History Enquiry/Adjustment" description="Payroll History Enquiry/Adjustment" />
+      <siteMapNode url="~/Payroll_ReactivatePayrollPeriod.aspx" title="Re-activate Payroll Cycle" description="Re-activate Payroll Cycle" />
+      <siteMapNode url="~/Payroll_RollbackPayrollPeriod.aspx" title="Rollback Payroll Process" description="Rollback Payroll Period" />
+    </siteMapNode>
+    <siteMapNode title="MPF Setup"  description="MPF Setup" >
+      <siteMapNode url="~/MPFPlan_List.aspx" title="MPF Plan Setup" description="MPF Plan Setup" />
+      <siteMapNode url="~/AVCPlan_List.aspx" title="AVC Plan Setup" description="AVC Plan Setup" />
+      <siteMapNode url="~/MPFSchemeCessationReason_List.aspx" title="MPF Termination Code Mapping" description="MPF Termination Code Mapping" />
+      <siteMapNode url="~/ORSOPlan_List.aspx" title="P-Fund Plan Setup" description="P-Fund Plan Setup" />
+    </siteMapNode>
+
+    <siteMapNode title="Cost Allocation"  description="Cost Allocation" >
+      <siteMapNode url="~/Payroll_CostAllocation_TrialRun.aspx" title="Cost Allocation Trial Run" description="Cost Allocation Trial Run" />
+      <siteMapNode url="~/Payroll_CostAllocation_TrialRun_Adjustment_List.aspx" title="Cost Allocation Trial Run Adjustment" description="Cost Allocation Trial Run Adjustment" />
+      <siteMapNode url="~/Payroll_CostAllocation_Confirm.aspx" title="Cost Allocation Confirmation" description="Cost Allocation Confirmation" />
+      <siteMapNode url="~/Payroll_CostAllocation_ExportToExcel_Detail.aspx" title="Cost Allocation Detail Export" description="Cost Allocation Detail Export" />
+      <siteMapNode url="~/Payroll_CostAllocation_ExportToExcel_Summary.aspx" title="Cost Allocation Summary Export" description="Cost Allocation Summary Export" />
+      
+     <!-- Start 0000081, Miranda, 2014-09-03 -->
+      <siteMapNode url="~/CostCenter_ExportToExcel.aspx" title="Cost Center Export Report" description="Cost Center Export Report" />
+      <siteMapNode url="~/Average_Cost_Centre_Export.aspx" title="Average Cost Centre Export" description="Average Cost Centre Export" />
+      <!-- End 0000081, Miranda, 2014-09-03 -->
+    </siteMapNode>
+    <siteMapNode title="Attendance"  description="Attendance" >
+      <siteMapNode url="~/Attendance_RosterClient_List.aspx" title="Roster Client Setup" description="Roster Client Setup" />
+      <siteMapNode url="~/RosterCode_List.aspx" title="Roster Code Setup" description="Roster Code Setup" />
+      <siteMapNode url="~/Attendance_Formula_List.aspx" title="Attendance Formula Setup" description="Attendance Formula Setup" />
+      <siteMapNode url="~/Attendance_Plan_List.aspx" title="Attendance Plan Setup" description="Attendance Plan Setup" />
+      <siteMapNode url="~/Attendance_RosterTableGroup_List.aspx" title="Roster Table Group Setup" description="Roster Table Group Setup" />
+      <siteMapNode url="~/Attendance_RosterTableExport_List.aspx" title="Export Roster Table" description="Export Roster Table" />
+      <siteMapNode url="~/Attendance_RosterTable_Import.aspx" title="Import Roster Table" description="Import Roster Table" />
+      <siteMapNode url="~/Attendance_RosterTable_View.aspx" title="Roster Table Overview" description="Roster Table Overview" />
+      <!--
+      <siteMapNode url="~/Customize_Attendance_RosterTable_Import.aspx" title="Import Roster Table (Customize)" description="Import Roster Table (Customize)" />
+      -->
+
+      <siteMapNode url="~/Attendance_TimeCardRecord_Import.aspx" title="Import Time Card Record" description="Import Time Card Record" />
+      <siteMapNode url="~/Attendance_GenerateRecord_List.aspx" title="Generate Attendance Record" description="Generate Attendance Record" />
+      <siteMapNode url="~/Attendance_AttendanceRecordAdjust_List.aspx" title="Attendance Record Adjustment" description="Attendance Record Adjustment" />
+      <siteMapNode url="~/Attendance_ExportRecord_List.aspx" title="Export Attendance Record" description="Export Attendance Records" />
+      <siteMapNode url="~/Attendance_Record_Import.aspx" title="Import Attendance Record" description="Import Attendance Records" />
+      <siteMapNode url="~/Attendance_GeneratePayment_List.aspx" title="Generate Attendance Payment" description="Generate Attendance Payment" />
+      <siteMapNode url="~/Attendance_GenerateCompensationLeaveEntitle_List.aspx" title="Generate Compensation Leave Entitlement" description="Generate Compensation Leave Entitlement" />
+      <siteMapNode url="~/Customize_AttendancePreparationProcess_List.aspx" title="Customized Attendance Preparation Process" description="Customized Attendance Preparation Process" />
+    </siteMapNode>
+    <siteMapNode title="Taxation"  description="Taxation" >
+      <siteMapNode url="~/Taxation_Company_List.aspx" title="Taxation Company Setup" description="Taxation Company Setup" />
+      <siteMapNode url="~/Taxation_PaymentMapping_View.aspx" title="Taxation Category Mapping" description="Taxation Category Mapping" />
+      <siteMapNode url="~/Taxation_Generation_List.aspx" title="Generate Taxation Records" description="Generate Taxation Records" />
+      <siteMapNode url="~/Taxation_Adjustment_List.aspx" title="Taxation Adjustment" description="Taxation Adjustment" />
+      <siteMapNode url="~/Taxation_GenerateDisk.aspx" title="Taxation Diskette Generation" description="Taxation Diskette Generate" />
+      <siteMapNode url="~/Taxation_ESS_Release_List.aspx" title="Release Tax Report to ESS" description="Release Pay Slip to ESS" />
+    </siteMapNode>
+    <siteMapNode title="e-Channel"  description="e-channel" >
+      <siteMapNode url="~/eChannel_SubmitAutopayFile.aspx" title="Submit Autopay File" description="Submit Autopay File" />
+      <siteMapNode url="~/eChannel_SubmitMPFContributionFile.aspx" title="Submit MPF Contribution File" description="Submit MPF File" />
+      <siteMapNode url="~/eChannel_CompanyInbox_List.aspx" title="Notification" description="Notification" />
+    </siteMapNode>
+    <siteMapNode title="Report"  description="Report" >
+      <siteMapNode url="~/Reports_Emp.aspx" title="Employee Reports" description="Employee Reports" />
+      <siteMapNode url="~/Reports_Payroll_MPF.aspx" title="Payroll &amp; MPF Reports" description="Payroll &amp; MPF Reports" />
+      <siteMapNode url="~/Report_Taxation_Report_List.aspx" title="Taxation Reports" description="Taxation Reports" />
+      <!-- Start 0000167, Miranda, 2014-08-27 -->
+      <siteMapNode url="~/Report_Builder.aspx" title="Report Builder" description="Report Builder" />
+      <!-- Start 0000167, Miranda, 2014-08-27 -->
+    </siteMapNode>
+    <siteMapNode title="Security"  description="Security Setup" >
+      <siteMapNode url="~/AuditTrail.aspx" title="Audit Trail" description="Audit Trail" />
+      <siteMapNode url="~/UserGroup_List.aspx" title="User Group Setup" description="User Group Setup" />
+      <siteMapNode url="~/User_List.aspx" title="User Maintenance" description="User Maintenance" />
+      <siteMapNode url="~/ESS_AuthorizationGroup_List.aspx" title="ESS Authorization Group Setup"  description="ESS Authorization Group Setup" />
+      <siteMapNode url="~/ESS_AuthorizationWorkFlow_List.aspx" title="ESS Authorization Workflow Setup"  description="ESS Authorization Workflow Setup" />
+      <siteMapNode url="~/SystemParameter.aspx" title="System Parameters Setup" description="System Parameter" />
+      <siteMapNode url="~/System_EmailAuditTrail.aspx" title="Auto E-mail Audit Trail" description="Auto E-mail Audit Trail" />
+    </siteMapNode>
+    <siteMapNode title="Tools"  description="Tools" >
+      <siteMapNode url="~/Inbox_List.aspx" title="Inbox" description="Inbox" />
+      <siteMapNode url="~/UserPreference.aspx" title="User Preference" description="User Preference" />
+      <siteMapNode url="~/ChangePassword.aspx" title="Change Password" description="Change Password" />
+      <siteMapNode url="~/UserGuide.aspx" title="User Guide" description="User Guide" />
+      <siteMapNode url="~/Logout.aspx" title="Logout"  description="Logout" />
+      <!-- Start 0000198, Miranda, 2015-05-21-->
+      <siteMapNode url="~/ESS_Announcement_List.aspx" title="Announcements" description="Announcements" />
+      <!-- End 0000198, Miranda, 2015-05-21-->
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>

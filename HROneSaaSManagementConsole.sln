@@ -1,0 +1,141 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.DataAccess", "HROne.DataAccess\HROne.DataAccess.csproj", "{C9A5BC17-B651-4610-AF1E-D90B465CC59D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.HSBC", "HROne.HSBC\HROne.HSBC.csproj", "{C00B6964-B252-46F0-93CA-AE8F27F20013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.ProductVersion", "HROne.ProductVersion\HROne.ProductVersion.csproj", "{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.SaaS", "HROne.SaaS\HROne.SaaS.csproj", "{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.CommonLib", "HROne.CommonLib\HROne.CommonLib.csproj", "{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HROne.Lib", "HROne.Lib\HROne.Lib.csproj", "{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\...\HROneSaaSManagementConsole\", "HROneSaaSManagementConsole", "{F17DC294-BAC1-4760-A551-9C4C263FD903}"
+	ProjectSection(WebsiteProperties) = preProject
+		ProjectReferences = "{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}|HROne.CommonLib.dll;{C9A5BC17-B651-4610-AF1E-D90B465CC59D}|HROne.DataAccess.dll;{C00B6964-B252-46F0-93CA-AE8F27F20013}|HROne.HSBC.dll;{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}|HROne.Lib.dll;{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}|HROne.ProductVersion.dll;{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}|HROne.SaaS.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/HROneSaaSManagementConsole"
+		Debug.AspNetCompiler.PhysicalPath = "HROneSaaSManagementConsole\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\HROneSaaSManagementConsole\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HROneSaaSManagementConsole"
+		Release.AspNetCompiler.PhysicalPath = "HROneSaaSManagementConsole\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\HROneSaaSManagementConsole\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58594"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C9A5BC17-B651-4610-AF1E-D90B465CC59D}.Release|x86.ActiveCfg = Release|Any CPU
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|.NET.ActiveCfg = Debug|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|x86.ActiveCfg = Debug|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Debug|x86.Build.0 = Debug|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|.NET.ActiveCfg = Release|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|x86.ActiveCfg = Release|x86
+		{C00B6964-B252-46F0-93CA-AE8F27F20013}.Release|x86.Build.0 = Release|x86
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|.NET.ActiveCfg = Release|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5A1FA065-BD46-4A1C-8384-3357F3C0C00E}.Release|x86.ActiveCfg = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1C2A26C0-7DFB-43BA-BDA0-60E9D61D360D}.Release|x86.ActiveCfg = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|.NET.ActiveCfg = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|.NET.ActiveCfg = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}.Release|x86.ActiveCfg = Release|Any CPU
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|.NET.Build.0 = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Debug|x86.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|.NET.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|.NET.Build.0 = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{F17DC294-BAC1-4760-A551-9C4C263FD903}.Release|x86.ActiveCfg = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TextTemplating) = postSolution
+		TextTemplating = 1
+	EndGlobalSection
+EndGlobal

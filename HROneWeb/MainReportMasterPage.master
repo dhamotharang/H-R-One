@@ -1,0 +1,74 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainReportMasterPage.master.cs" Inherits="MainReportMasterPage" %>
+<%@ Register TagPrefix="pmv" Namespace="HROne.DataAccess" Assembly="HROne.DataAccess" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>HROne</title>
+    <link href="css.css" rel="stylesheet" type="text/css" />
+    <link href="CSS/ModalPopup.css" rel="stylesheet" type="text/css" />
+    
+	<script type="text/javascript" src="javascript/date.js"></script>
+	<script type="text/javascript" src="javascript/common.js"></script>
+    <script type="text/javascript" src="javascript/loadingmessage.js"></script>
+
+</head>
+<body class="mainbody" >
+    <script type="text/javascript" language="javascript" >
+        initLoadMessage();
+    </script>
+    <form id="form1" runat="server" >
+        <asp:ScriptManager ID="ScriptManager1" runat="server"/>
+        <table width="898" border="0" cellpadding="0" cellspacing="0">
+            <col width="100%" />
+            <tr>
+                <td valign="top">
+                    <img src="./images/header/top.jpg" alt="src"/></td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <table width="100%" border="0" cellpadding="0" cellspacing="30" background="./images/header/back01.gif">
+                        <tr>
+                            <td valign="top">
+                                <asp:ContentPlaceHolder ID="mainContentPlaceHolder" runat="server">
+                                </asp:ContentPlaceHolder>
+                                <span class="error" visible="false"  >
+                                    <pmv:PageError ID="pageError" runat="server" Text="Error" ShowFieldErrors="true" IsPopup="false"
+                                    ShowPrompt="false" Visible="false"  />
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script type="text/javascript" language="javascript" >
+        //  For Classic loading
+        if (document.attachEvent)
+        {
+        window.document.forms[0].attachEvent('onsubmit',_pl_submit);
+        }
+        else
+        {
+        window.addEventListener('submit',_pl_submit,false);
+        }
+        
+        //  For AJAX use
+        Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest);
+        Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(pageLoaded);
+
+        function beginRequest(sender, args) {
+            if (args.get_postBackElement().id.toLowerCase().indexOf('timer')<0)
+            {
+                _pl_show();
+                TRIGGER_BY_AJAX=true;
+            }
+        }
+        function pageLoaded(sender, args) {
+            _pl_onload();
+        }
+    </script>
+</body>
+</html>

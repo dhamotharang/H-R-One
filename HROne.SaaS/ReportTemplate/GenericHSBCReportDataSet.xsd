@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="GenericHSBCReportDataSet" targetNamespace="http://tempuri.org/GenericHSBCReportDataSet.xsd" xmlns:mstns="http://tempuri.org/GenericHSBCReportDataSet.xsd" xmlns="http://tempuri.org/GenericHSBCReportDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="GenericHSBCReportDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="GenericHSBCReportDataSet" msprop:Generator_DataSetName="GenericHSBCReportDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Report" msprop:Generator_UserTableName="Report" msprop:Generator_RowDeletedName="ReportRowDeleted" msprop:Generator_RowChangedName="ReportRowChanged" msprop:Generator_RowClassName="ReportRow" msprop:Generator_RowChangingName="ReportRowChanging" msprop:Generator_RowEvArgName="ReportRowChangeEvent" msprop:Generator_RowEvHandlerName="ReportRowChangeEventHandler" msprop:Generator_TableClassName="ReportDataTable" msprop:Generator_TableVarName="tableReport" msprop:Generator_RowDeletingName="ReportRowDeleting" msprop:Generator_TablePropName="Report">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LineNo" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="LineNo" msprop:Generator_ColumnPropNameInRow="LineNo" msprop:Generator_ColumnVarNameInTable="columnLineNo" msprop:Generator_ColumnPropNameInTable="LineNoColumn" type="xs:int" />
+              <xs:element name="PageNo" msprop:Generator_UserColumnName="PageNo" msprop:Generator_ColumnPropNameInRow="PageNo" msprop:Generator_ColumnVarNameInTable="columnPageNo" msprop:Generator_ColumnPropNameInTable="PageNoColumn" type="xs:int" default="0" />
+              <xs:element name="Content" msprop:Generator_UserColumnName="Content" msprop:Generator_ColumnPropNameInRow="Content" msprop:Generator_ColumnVarNameInTable="columnContent" msprop:Generator_ColumnPropNameInTable="ContentColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Report" />
+      <xs:field xpath="mstns:LineNo" />
+      <xs:field xpath="mstns:PageNo" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

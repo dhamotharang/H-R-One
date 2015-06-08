@@ -1,0 +1,1713 @@
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HRPlus.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131008\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.DataAccess.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Debug\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Reports.Taxation.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.DataAccess.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\Interop.VBA.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\Interop.PDFCreator.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\NPOI.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\Ionic.Zip.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Lib.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\bin\Release\HROne.Taxation.pdb
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_ControlList.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56B_CHT.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56E_CHT.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56F_CHT.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56G_CHT.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_IR56M_CHT.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.ReportTemplate.Report_Taxation_PaymentMapping.rpt
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.Reports.Taxation\obj\Release\HROne.Reports.Taxation.pdb

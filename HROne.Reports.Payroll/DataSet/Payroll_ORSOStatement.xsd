@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_ORSOStatement" targetNamespace="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:mstns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="HROneConnectionString" IsAppSettingsProperty="True" Modifier="Assembly" Name="HROneConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.HROneConnectionString.ConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_ORSOStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Payroll_ORSOStatement" msprop:Generator_DataSetName="Payroll_ORSOStatement">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ORSOPlan" msprop:Generator_UserTableName="ORSOPlan" msprop:Generator_RowDeletedName="ORSOPlanRowDeleted" msprop:Generator_TableClassName="ORSOPlanDataTable" msprop:Generator_RowChangedName="ORSOPlanRowChanged" msprop:Generator_RowClassName="ORSOPlanRow" msprop:Generator_RowChangingName="ORSOPlanRowChanging" msprop:Generator_RowEvArgName="ORSOPlanRowChangeEvent" msprop:Generator_RowEvHandlerName="ORSOPlanRowChangeEventHandler" msprop:Generator_TablePropName="ORSOPlan" msprop:Generator_TableVarName="tableORSOPlan" msprop:Generator_RowDeletingName="ORSOPlanRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ORSOPlanID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="ORSOPlanID" msprop:Generator_ColumnPropNameInRow="ORSOPlanID" msprop:Generator_ColumnVarNameInTable="columnORSOPlanID" msprop:Generator_ColumnPropNameInTable="ORSOPlanIDColumn" type="xs:int" />
+              <xs:element name="ORSOPlanCode" msprop:Generator_UserColumnName="ORSOPlanCode" msprop:Generator_ColumnPropNameInRow="ORSOPlanCode" msprop:Generator_ColumnVarNameInTable="columnORSOPlanCode" msprop:Generator_ColumnPropNameInTable="ORSOPlanCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanDesc" msprop:Generator_UserColumnName="ORSOPlanDesc" msprop:Generator_ColumnPropNameInRow="ORSOPlanDesc" msprop:Generator_ColumnVarNameInTable="columnORSOPlanDesc" msprop:Generator_ColumnPropNameInTable="ORSOPlanDescColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanSchemeNo" msprop:Generator_UserColumnName="ORSOPlanSchemeNo" msprop:Generator_ColumnPropNameInRow="ORSOPlanSchemeNo" msprop:Generator_ColumnVarNameInTable="columnORSOPlanSchemeNo" msprop:Generator_ColumnPropNameInTable="ORSOPlanSchemeNoColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanCompanyName" msprop:Generator_UserColumnName="ORSOPlanCompanyName" msprop:Generator_ColumnPropNameInRow="ORSOPlanCompanyName" msprop:Generator_ColumnVarNameInTable="columnORSOPlanCompanyName" msprop:Generator_ColumnPropNameInTable="ORSOPlanCompanyNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanPayCenter" msprop:Generator_UserColumnName="ORSOPlanPayCenter" msprop:Generator_ColumnPropNameInRow="ORSOPlanPayCenter" msprop:Generator_ColumnVarNameInTable="columnORSOPlanPayCenter" msprop:Generator_ColumnPropNameInTable="ORSOPlanPayCenterColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ORSOPlanMaxEmployerVC" msprop:Generator_UserColumnName="ORSOPlanMaxEmployerVC" msprop:Generator_ColumnPropNameInRow="ORSOPlanMaxEmployerVC" msprop:Generator_ColumnVarNameInTable="columnORSOPlanMaxEmployerVC" msprop:Generator_ColumnPropNameInTable="ORSOPlanMaxEmployerVCColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ORSOPlanMaxEmployeeVC" msprop:Generator_UserColumnName="ORSOPlanMaxEmployeeVC" msprop:Generator_ColumnPropNameInRow="ORSOPlanMaxEmployeeVC" msprop:Generator_ColumnVarNameInTable="columnORSOPlanMaxEmployeeVC" msprop:Generator_ColumnPropNameInTable="ORSOPlanMaxEmployeeVCColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ExistingMember" msprop:Generator_UserTableName="ExistingMember" msprop:Generator_RowDeletedName="ExistingMemberRowDeleted" msprop:Generator_TableClassName="ExistingMemberDataTable" msprop:Generator_RowChangedName="ExistingMemberRowChanged" msprop:Generator_RowClassName="ExistingMemberRow" msprop:Generator_RowChangingName="ExistingMemberRowChanging" msprop:Generator_RowEvArgName="ExistingMemberRowChangeEvent" msprop:Generator_RowEvHandlerName="ExistingMemberRowChangeEventHandler" msprop:Generator_TablePropName="ExistingMember" msprop:Generator_TableVarName="tableExistingMember" msprop:Generator_RowDeletingName="ExistingMemberRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ORSOPlanID" msdata:Caption="MPFPlanID" msprop:Generator_UserColumnName="ORSOPlanID" msprop:Generator_ColumnPropNameInRow="ORSOPlanID" msprop:Generator_ColumnVarNameInTable="columnORSOPlanID" msprop:Generator_ColumnPropNameInTable="ORSOPlanIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpNo" msprop:Generator_UserColumnName="EmpNo" msprop:Generator_ColumnPropNameInRow="EmpNo" msprop:Generator_ColumnVarNameInTable="columnEmpNo" msprop:Generator_ColumnPropNameInTable="EmpNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" msprop:Generator_UserColumnName="EmpName" msprop:Generator_ColumnPropNameInRow="EmpName" msprop:Generator_ColumnVarNameInTable="columnEmpName" msprop:Generator_ColumnPropNameInTable="EmpNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="HKID" msprop:Generator_UserColumnName="HKID" msprop:Generator_ColumnPropNameInRow="HKID" msprop:Generator_ColumnVarNameInTable="columnHKID" msprop:Generator_ColumnPropNameInTable="HKIDColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFrom" msprop:Generator_UserColumnName="PeriodFrom" msprop:Generator_ColumnPropNameInRow="PeriodFrom" msprop:Generator_ColumnVarNameInTable="columnPeriodFrom" msprop:Generator_ColumnPropNameInTable="PeriodFromColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" msprop:Generator_UserColumnName="PeriodTo" msprop:Generator_ColumnPropNameInRow="PeriodTo" msprop:Generator_ColumnVarNameInTable="columnPeriodTo" msprop:Generator_ColumnPropNameInTable="PeriodToColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" msprop:Generator_UserColumnName="RelevantIncome" msprop:Generator_ColumnPropNameInRow="RelevantIncome" msprop:Generator_ColumnVarNameInTable="columnRelevantIncome" msprop:Generator_ColumnPropNameInTable="RelevantIncomeColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ER" msdata:Caption="MCER" msprop:Generator_UserColumnName="ER" msprop:Generator_ColumnPropNameInRow="ER" msprop:Generator_ColumnVarNameInTable="columnER" msprop:Generator_ColumnPropNameInTable="ERColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="EE" msdata:Caption="MCEE" msprop:Generator_UserColumnName="EE" msprop:Generator_ColumnPropNameInRow="EE" msprop:Generator_ColumnVarNameInTable="columnEE" msprop:Generator_ColumnPropNameInTable="EEColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="LastEmploymentDate" msprop:Generator_UserColumnName="LastEmploymentDate" msprop:Generator_ColumnPropNameInRow="LastEmploymentDate" msprop:Generator_ColumnVarNameInTable="columnLastEmploymentDate" msprop:Generator_ColumnPropNameInTable="LastEmploymentDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TermCode" msprop:Generator_UserColumnName="TermCode" msprop:Generator_ColumnPropNameInRow="TermCode" msprop:Generator_ColumnVarNameInTable="columnTermCode" msprop:Generator_ColumnPropNameInTable="TermCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IsLSP" msprop:Generator_UserColumnName="IsLSP" msprop:Generator_ColumnPropNameInRow="IsLSP" msprop:Generator_ColumnVarNameInTable="columnIsLSP" msprop:Generator_ColumnPropNameInTable="IsLSPColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsSP" msprop:Generator_UserColumnName="IsSP" msprop:Generator_ColumnPropNameInRow="IsSP" msprop:Generator_ColumnVarNameInTable="columnIsSP" msprop:Generator_ColumnPropNameInTable="IsSPColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="LSPSPAmount" msprop:Generator_UserColumnName="LSPSPAmount" msprop:Generator_ColumnPropNameInRow="LSPSPAmount" msprop:Generator_ColumnVarNameInTable="columnLSPSPAmount" msprop:Generator_ColumnPropNameInTable="LSPSPAmountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="LSPSPAmountPaidByER" msprop:Generator_UserColumnName="LSPSPAmountPaidByER" msprop:Generator_ColumnPropNameInRow="LSPSPAmountPaidByER" msprop:Generator_ColumnVarNameInTable="columnLSPSPAmountPaidByER" msprop:Generator_ColumnPropNameInTable="LSPSPAmountPaidByERColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ORSOPlan" />
+      <xs:field xpath="mstns:ORSOPlanID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="ORSOPlan_ExistingMember" msdata:parent="ORSOPlan" msdata:child="ExistingMember" msdata:parentkey="ORSOPlanID" msdata:childkey="ORSOPlanID" msprop:Generator_UserRelationName="ORSOPlan_ExistingMember" msprop:Generator_RelationVarName="relationORSOPlan_ExistingMember" msprop:Generator_UserChildTable="ExistingMember" msprop:Generator_UserParentTable="ORSOPlan" msprop:Generator_ParentPropName="ORSOPlanRow" msprop:Generator_ChildPropName="GetExistingMemberRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

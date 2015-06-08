@@ -1,0 +1,5 @@
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Debug\Integrated.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\bin\Debug\Integrated.pdb
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\Integrated.exe
+D:\Projects\HROne\source 1.0.13\Core\AttendanceFileConverter\Integrated\obj\Debug\Integrated.pdb

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HeadCountSummarySet" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HeadCountSummarySet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="HeadCountSummarySet" msprop:Generator_DataSetName="HeadCountSummarySet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="HeadCountSummary" msprop:Generator_UserTableName="HeadCountSummary" msprop:Generator_RowDeletedName="HeadCountSummaryRowDeleted" msprop:Generator_RowChangedName="HeadCountSummaryRowChanged" msprop:Generator_RowClassName="HeadCountSummaryRow" msprop:Generator_RowChangingName="HeadCountSummaryRowChanging" msprop:Generator_RowEvArgName="HeadCountSummaryRowChangeEvent" msprop:Generator_RowEvHandlerName="HeadCountSummaryRowChangeEventHandler" msprop:Generator_TableClassName="HeadCountSummaryDataTable" msprop:Generator_TableVarName="tableHeadCountSummary" msprop:Generator_RowDeletingName="HeadCountSummaryRowDeleting" msprop:Generator_TablePropName="HeadCountSummary">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpGender" msprop:Generator_UserColumnName="EmpGender" msprop:Generator_ColumnVarNameInTable="columnEmpGender" msprop:Generator_ColumnPropNameInRow="EmpGender" msprop:Generator_ColumnPropNameInTable="EmpGenderColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpAreaCode" msprop:Generator_UserColumnName="EmpAreaCode" msprop:Generator_ColumnPropNameInRow="EmpAreaCode" msprop:Generator_ColumnVarNameInTable="columnEmpAreaCode" msprop:Generator_ColumnPropNameInTable="EmpAreaCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyID" msprop:Generator_UserColumnName="CompanyID" msprop:Generator_ColumnVarNameInTable="columnCompanyID" msprop:Generator_ColumnPropNameInRow="CompanyID" msprop:Generator_ColumnPropNameInTable="CompanyIDColumn" type="xs:int" />
+              <xs:element name="HElementID" msprop:Generator_UserColumnName="HElementID" msprop:Generator_ColumnVarNameInTable="columnHElementID" msprop:Generator_ColumnPropNameInRow="HElementID" msprop:Generator_ColumnPropNameInTable="HElementIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PayGroupID" msprop:Generator_UserColumnName="PayGroupID" msprop:Generator_ColumnVarNameInTable="columnPayGroupID" msprop:Generator_ColumnPropNameInRow="PayGroupID" msprop:Generator_ColumnPropNameInTable="PayGroupIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CompanyCode" msprop:Generator_UserColumnName="CompanyCode" msprop:Generator_ColumnVarNameInTable="columnCompanyCode" msprop:Generator_ColumnPropNameInRow="CompanyCode" msprop:Generator_ColumnPropNameInTable="CompanyCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyName" msprop:Generator_UserColumnName="CompanyName" msprop:Generator_ColumnVarNameInTable="columnCompanyName" msprop:Generator_ColumnPropNameInRow="CompanyName" msprop:Generator_ColumnPropNameInTable="CompanyNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="HElementCode" msprop:Generator_UserColumnName="HElementCode" msprop:Generator_ColumnVarNameInTable="columnHElementCode" msprop:Generator_ColumnPropNameInRow="HElementCode" msprop:Generator_ColumnPropNameInTable="HElementCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="HElementDesc" msprop:Generator_UserColumnName="HElementDesc" msprop:Generator_ColumnVarNameInTable="columnHElementDesc" msprop:Generator_ColumnPropNameInRow="HElementDesc" msprop:Generator_ColumnPropNameInTable="HElementDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGroupCode" msprop:Generator_UserColumnName="PayGroupCode" msprop:Generator_ColumnVarNameInTable="columnPayGroupCode" msprop:Generator_ColumnPropNameInRow="PayGroupCode" msprop:Generator_ColumnPropNameInTable="PayGroupCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGroupDesc" msprop:Generator_UserColumnName="PayGroupDesc" msprop:Generator_ColumnVarNameInTable="columnPayGroupDesc" msprop:Generator_ColumnPropNameInRow="PayGroupDesc" msprop:Generator_ColumnPropNameInTable="PayGroupDescColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PreviousCount" msprop:Generator_UserColumnName="PreviousCount" msprop:Generator_ColumnPropNameInRow="PreviousCount" msprop:Generator_ColumnVarNameInTable="columnPreviousCount" msprop:Generator_ColumnPropNameInTable="PreviousCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CurrentCount" msprop:Generator_UserColumnName="CurrentCount" msprop:Generator_ColumnPropNameInRow="CurrentCount" msprop:Generator_ColumnVarNameInTable="columnCurrentCount" msprop:Generator_ColumnPropNameInTable="CurrentCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="NewJoinCount" msprop:Generator_UserColumnName="NewJoinCount" msprop:Generator_ColumnVarNameInTable="columnNewJoinCount" msprop:Generator_ColumnPropNameInRow="NewJoinCount" msprop:Generator_ColumnPropNameInTable="NewJoinCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TerminateCount" msprop:Generator_UserColumnName="TerminateCount" msprop:Generator_ColumnVarNameInTable="columnTerminateCount" msprop:Generator_ColumnPropNameInRow="TerminateCount" msprop:Generator_ColumnPropNameInTable="TerminateCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TransferInCount" msprop:Generator_UserColumnName="TransferInCount" msprop:Generator_ColumnVarNameInTable="columnTransferInCount" msprop:Generator_ColumnPropNameInRow="TransferInCount" msprop:Generator_ColumnPropNameInTable="TransferInCountColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TransferOutCount" msprop:Generator_UserColumnName="TransferOutCount" msprop:Generator_ColumnVarNameInTable="columnTransferOutCount" msprop:Generator_ColumnPropNameInRow="TransferOutCount" msprop:Generator_ColumnPropNameInTable="TransferOutCountColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Gender" msprop:Generator_UserTableName="Gender" msprop:Generator_RowDeletedName="GenderRowDeleted" msprop:Generator_RowChangedName="GenderRowChanged" msprop:Generator_RowClassName="GenderRow" msprop:Generator_RowChangingName="GenderRowChanging" msprop:Generator_RowEvArgName="GenderRowChangeEvent" msprop:Generator_RowEvHandlerName="GenderRowChangeEventHandler" msprop:Generator_TableClassName="GenderDataTable" msprop:Generator_TableVarName="tableGender" msprop:Generator_RowDeletingName="GenderRowDeleting" msprop:Generator_TablePropName="Gender">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Gender" msprop:Generator_UserColumnName="Gender" msprop:Generator_ColumnVarNameInTable="columnGender" msprop:Generator_ColumnPropNameInRow="Gender" msprop:Generator_ColumnPropNameInTable="GenderColumn" type="xs:string" />
+              <xs:element name="GenderFullName" msprop:Generator_UserColumnName="GenderFullName" msprop:Generator_ColumnVarNameInTable="columnGenderFullName" msprop:Generator_ColumnPropNameInRow="GenderFullName" msprop:Generator_ColumnPropNameInTable="GenderFullNameColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AreaCode" msprop:Generator_UserTableName="AreaCode" msprop:Generator_RowDeletedName="AreaCodeRowDeleted" msprop:Generator_TableClassName="AreaCodeDataTable" msprop:Generator_RowChangedName="AreaCodeRowChanged" msprop:Generator_RowClassName="AreaCodeRow" msprop:Generator_RowChangingName="AreaCodeRowChanging" msprop:Generator_RowEvArgName="AreaCodeRowChangeEvent" msprop:Generator_RowEvHandlerName="AreaCodeRowChangeEventHandler" msprop:Generator_TablePropName="AreaCode" msprop:Generator_TableVarName="tableAreaCode" msprop:Generator_RowDeletingName="AreaCodeRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AreaCode" msprop:Generator_UserColumnName="AreaCode" msprop:Generator_ColumnPropNameInRow="AreaCode" msprop:Generator_ColumnVarNameInTable="columnAreaCode" msprop:Generator_ColumnPropNameInTable="AreaCodeColumn" type="xs:string" />
+              <xs:element name="Area" msprop:Generator_UserColumnName="Area" msprop:Generator_ColumnPropNameInRow="Area" msprop:Generator_ColumnVarNameInTable="columnArea" msprop:Generator_ColumnPropNameInTable="AreaColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Gender" />
+      <xs:field xpath="mstns:Gender" />
+    </xs:unique>
+    <xs:unique name="AreaCode_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AreaCode" />
+      <xs:field xpath="mstns:AreaCode" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Gender_HeadCountSummary" msdata:parent="Gender" msdata:child="HeadCountSummary" msdata:parentkey="Gender" msdata:childkey="EmpGender" msprop:Generator_UserRelationName="Gender_HeadCountSummary" msprop:Generator_RelationVarName="relationGender_HeadCountSummary" msprop:Generator_UserChildTable="HeadCountSummary" msprop:Generator_UserParentTable="Gender" msprop:Generator_ParentPropName="GenderRow" msprop:Generator_ChildPropName="GetHeadCountSummaryRows" />
+      <msdata:Relationship name="AreaCode_HeadCountSummary" msdata:parent="AreaCode" msdata:child="HeadCountSummary" msdata:parentkey="AreaCode" msdata:childkey="EmpAreaCode" msprop:Generator_UserRelationName="AreaCode_HeadCountSummary" msprop:Generator_RelationVarName="relationAreaCode_HeadCountSummary" msprop:Generator_UserChildTable="HeadCountSummary" msprop:Generator_UserParentTable="AreaCode" msprop:Generator_ParentPropName="AreaCodeRow" msprop:Generator_ChildPropName="GetHeadCountSummaryRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

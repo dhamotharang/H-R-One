@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/HROneWeb/global.asax" hash="ffffffff8f387c32" filehash="2f6b7aa8bbdc" flags="150000" assembly="HROneWeb.deploy" type="ASP.global_asax">
+  <filedeps>
+    <filedep name="/HROneWeb/global.asax" />
+  </filedeps>
+</preserve>

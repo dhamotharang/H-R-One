@@ -1,0 +1,138 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="LeaveRecalculation_List.aspx.cs"    Inherits="LeaveRecalculation_List" MasterPageFile="~/MainMasterPage.master"  %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="mainContentPlaceHolder" runat="server">
+        <input type="hidden" value="<%=info.order%>" name="order" />
+        <input type="hidden" value="<%=info.orderby%>" name="orderby" />
+        <input type="hidden" id="CurPage" runat="server" />
+        <input type="hidden" id="NumPage" runat="server" />
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_page_title">
+            <tr>
+                <td>
+                    <asp:Label runat="server" Text="Leave Recalculation" />
+                </td>
+            </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_section_title">
+            <tr>
+                <td>
+                    <asp:Label runat="server" Text="Employee Search" />
+                </td>
+            </tr>
+        </table>
+        <table width="100%" class="pm_section">
+            <tr>
+                <td class="pm_search_header">
+                    <asp:Label runat="server" Text="Employee No" />:
+                </td>
+                <td class="pm_search">
+                    <asp:TextBox runat="server" ID="EmpNo" /></td>
+                <td class="pm_search_header">
+                    <asp:Label runat="server" Text="Employee Name" />:
+                </td>
+                <td class="pm_search">
+                    <asp:TextBox runat="server" ID="EmpName" /></td>
+            </tr>
+            <tr>
+                <td colspan="4">
+                    <asp:Button ID="Search" runat="server" Text="Search" CssClass="button" OnClick="Search_Click" />
+                    <asp:Button ID="Reset" runat="server" Text="Reset" CssClass="button" OnClick="Reset_Click" />
+                </td>
+            </tr>
+        </table>
+        <br /><br />
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_section_title">
+            <tr>
+                <td>
+                    <asp:Label runat="server" Text="Employee List" />
+                </td>
+            </tr>
+        </table>
+        <table width="100%" cellpadding="0" cellspacing="0" class="pm_button_section">
+            <tr>
+                <td>
+                    <input type="button" name="Submit1" value="Re-calculate" class="button"/></td>
+                <td align="right">
+                    <asp:Button ID="btnHelp" runat="server" CSSClass="button" Text=" Help" Visible="false" UseSubmitBehavior="false" OnClientClick="openAlert(); return false;"/>
+                </td>
+            </tr>
+        </table>
+        <table border="0" width="100%" class="pm_list_section" cellspacing="0" cellpadding="1">
+            <col width="26px" />
+            <col width="150px" />
+            <colgroup width="350px" >
+                <col width="150px" />
+                <col />
+            </colgroup> 
+            <col width="150px" />
+            <col width="100px" />
+            <tr>
+                <td class="pm_list_header" align="center">
+                    <input type="checkbox" onclick="checkAll('<%=Repeater.ClientID %>','ItemSelect',this.checked);" />
+                </td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_EmpEmpNo" OnClick="ChangeOrder_Click" Text="EmpNo" /></td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_EmpEngSurname" OnClick="ChangeOrder_Click" Text="Surname" /></td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_EmpEngOtherName" OnClick="ChangeOrder_Click" Text="Other Name" /></td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_EmpAlias" OnClick="ChangeOrder_Click" Text="Alias" /></td>
+            </tr>
+            <asp:Repeater ID="Repeater" runat="server">
+                <ItemTemplate>
+                    <tr>
+                        <td class="pm_list" align="center">
+                            <asp:CheckBox ID="ItemSelect" runat="server" />
+                        </td>
+                        <td class="pm_list">
+                            <a href="<%#HRPlus.Common.WebUtility.URLwithEncryptQueryString(Session, "Emp_LeaveBalance_View.aspx?EmpID=" + binding.getValue(Container.DataItem,"EmpID"))%>">
+                                <%#binding.getValue(Container.DataItem,"EmpNo")%>
+                            </a>
+                        </td>
+                        <td class="pm_list">
+                            <%#binding.getValue(Container.DataItem,"EmpEngSurname")%>
+                        </td>
+                        <td class="pm_list">
+                            <%#binding.getValue(Container.DataItem,"EmpEngOtherName")%>
+                        </td>
+                        <td class="pm_list">
+                            <%#binding.getValue(Container.DataItem,"EmpAlias")%>
+                        </td>
+                    </tr>
+                </ItemTemplate>
+            </asp:Repeater>
+        </table>
+     <table width="100%" cellspacing="0" cellpadding="0" class="pm_list_pagenav">
+            <tr>
+                <td align="right">
+                    <asp:LinkButton ID="FirstPage" runat="server" OnClick="FirstPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        <img height="11" alt="Start" id="FirstPageImg" runat="server" src="images/start.gif"
+                            width="13" style="text-align:center; border:0;" />&nbsp;<asp:Label Text="Start" runat="server" />&nbsp;&nbsp;
+                    </asp:LinkButton>
+                    <asp:LinkButton ID="PrevPage" runat="server" OnClick="PrevPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        <img height="11" alt="Previous" id="PrevPageImg" runat="server" src="images/previous.gif"
+                            width="8" style="text-align:center; border:0;" />&nbsp;<asp:Label Text="Previous" runat="server" />&nbsp;
+                    </asp:LinkButton>
+                    <span class="inside_text_blackform">(<asp:Label Text="Record" runat="server" />:
+                        <%=info.startRecord %>
+                        -
+                        <%=info.endRecord %>
+                        of
+                        <%=info.numRecord%>
+                        )</span> &nbsp;
+                    <asp:LinkButton ID="NextPage" runat="server" OnClick="NextPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        &nbsp;<asp:Label Text="Next" runat="server" />&nbsp;<img height="11" alt="Next" id="NextPageImg" runat="server" src="images/next.gif"
+                            width="8" style="text-align:center; border:0;"  />
+                    </asp:LinkButton>
+                    <asp:LinkButton ID="LastPage" runat="server" OnClick="LastPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        &nbsp;<asp:Label Text="End" runat="server" />&nbsp;<img height="11" alt="End" id="LastPageImg" runat="server" src="images/end.gif"
+                            width="13" style="text-align:center; border:0;"  />
+                    </asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+</asp:Content> 

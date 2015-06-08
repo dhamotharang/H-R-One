@@ -1,0 +1,102 @@
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\ICBCBankFile.xls
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRExpress.ReportTaskFactory.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRExpress.ReportTaskFactory.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRExpress.DataAccess.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.BankFile.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Payroll.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.MPFFile.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Payroll.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Taxation.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Taxation.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.CommonLib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\Interop.PDFCreator.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Leave.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRlus.Lib.Attendance.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Import.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRExpress.HSBC.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\NPOI.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\Ionic.Zip.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\Interop.VBA.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Taxation.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.BankFile.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Leave.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Payroll.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.MPFFile.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRlus.Lib.Attendance.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Import.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Payroll.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Taxation.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.pdb
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\obj\Release\ResolveAssemblyReference.cache
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\obj\Release\HRExpress.ReportTaskFactory.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.ReportTaskFactory\obj\Release\HRExpress.ReportTaskFactory.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\ICBCBankFile.xls
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.ReportTaskFactory.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.ReportTaskFactory.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.BankFile.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.Payroll.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.MPFFile.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Reports.Payroll.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Reports.Taxation.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Taxation.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.Leave.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRlus.Lib.Attendance.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Import.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.CommonLib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Reports.Taxation.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.BankFile.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.Leave.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.Payroll.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.MPFFile.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRlus.Lib.Attendance.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Import.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Reports.Payroll.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.DataAccess.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRExpress.HSBC.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Taxation.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Debug\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Debug\HRExpress.ReportTaskFactory.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Debug\HRExpress.ReportTaskFactory.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\ICBCBankFile.xls
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRExpress.ReportTaskFactory.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRExpress.ReportTaskFactory.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.BankFile.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Payroll.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.MPFFile.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Payroll.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Taxation.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Taxation.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\Interop.PDFCreator.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Leave.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRlus.Lib.Attendance.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Import.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\NPOI.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\Ionic.Zip.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\Interop.VBA.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Taxation.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.BankFile.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Leave.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.Payroll.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.MPFFile.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRlus.Lib.Attendance.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Import.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Reports.Payroll.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Taxation.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\bin\Release\HRPlus.Lib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Release\HRExpress.ReportTaskFactory.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.ReportTaskFactory\obj\Release\HRExpress.ReportTaskFactory.pdb

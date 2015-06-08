@@ -1,0 +1,235 @@
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HRPlus.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131008\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131008\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131008\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v03\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source_20131016 - beta v04\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source_20131016 - beta v04\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.0beta04\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.1\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.1\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.2 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - trouble shooting JobsDB leave balance recalculation\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.3 - (GAP, JobsDB)\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.4\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.4\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.5 - released\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.6\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.6\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.7\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.7\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.8 - next production release\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.9\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.9\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.10\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.11\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.11\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.12\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.12\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.13\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.14\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.14\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.15\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.16\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.17\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.17\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.18\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.19\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.20\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.21\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.22\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.22\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.23\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.23\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.24\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.25\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.25\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.26\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.27\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.27\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.27\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000166\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000163\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 000168\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core - 0000109\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.28\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.29\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.30\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\bin\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\obj\Debug\HROne.CommonLib.pdb
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.31\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.CommonLib\bin\Release\HROne.CommonLib.dll
+D:\Projects\HROne\source 1.0.32\Core\HROne.CommonLib\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\HROne\source 1.0.32\Core\HROne.CommonLib\obj\Release\HROne.CommonLib.dll

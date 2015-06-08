@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_EEDAWList" targetNamespace="http://tempuri.org/Payroll_EEDAWList.xsd" xmlns:mstns="http://tempuri.org/Payroll_EEDAWList.xsd" xmlns="http://tempuri.org/Payroll_EEDAWList.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_EEDAWList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Payroll_EEDAWList" msprop:Generator_DataSetName="Payroll_EEDAWList">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EmpDAW" msprop:Generator_UserTableName="EmpDAW" msprop:Generator_RowDeletedName="EmpDAWRowDeleted" msprop:Generator_RowChangedName="EmpDAWRowChanged" msprop:Generator_RowClassName="EmpDAWRow" msprop:Generator_RowChangingName="EmpDAWRowChanging" msprop:Generator_RowEvArgName="EmpDAWRowChangeEvent" msprop:Generator_RowEvHandlerName="EmpDAWRowChangeEventHandler" msprop:Generator_TableClassName="EmpDAWDataTable" msprop:Generator_TableVarName="tableEmpDAW" msprop:Generator_RowDeletingName="EmpDAWRowDeleting" msprop:Generator_TablePropName="EmpDAW">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" />
+              <xs:element name="EmpNo" msprop:Generator_UserColumnName="EmpNo" msprop:Generator_ColumnVarNameInTable="columnEmpNo" msprop:Generator_ColumnPropNameInRow="EmpNo" msprop:Generator_ColumnPropNameInTable="EmpNoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" msprop:Generator_UserColumnName="EmpName" msprop:Generator_ColumnVarNameInTable="columnEmpName" msprop:Generator_ColumnPropNameInRow="EmpName" msprop:Generator_ColumnPropNameInTable="EmpNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="JoinDate" msprop:Generator_UserColumnName="JoinDate" msprop:Generator_ColumnVarNameInTable="columnJoinDate" msprop:Generator_ColumnPropNameInRow="JoinDate" msprop:Generator_ColumnPropNameInTable="JoinDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodFrom" msprop:Generator_UserColumnName="PeriodFrom" msprop:Generator_ColumnVarNameInTable="columnPeriodFrom" msprop:Generator_ColumnPropNameInRow="PeriodFrom" msprop:Generator_ColumnPropNameInTable="PeriodFromColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" msprop:Generator_UserColumnName="PeriodTo" msprop:Generator_ColumnVarNameInTable="columnPeriodTo" msprop:Generator_ColumnPropNameInRow="PeriodTo" msprop:Generator_ColumnPropNameInTable="PeriodToColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TotalWages" msprop:Generator_UserColumnName="TotalWages" msprop:Generator_ColumnVarNameInTable="columnTotalWages" msprop:Generator_ColumnPropNameInRow="TotalWages" msprop:Generator_ColumnPropNameInTable="TotalWagesColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ExcludeWages" msprop:Generator_UserColumnName="ExcludeWages" msprop:Generator_ColumnVarNameInTable="columnExcludeWages" msprop:Generator_ColumnPropNameInRow="ExcludeWages" msprop:Generator_ColumnPropNameInTable="ExcludeWagesColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="OTWages" msprop:Generator_UserColumnName="OTWages" msprop:Generator_ColumnVarNameInTable="columnOTWages" msprop:Generator_ColumnPropNameInRow="OTWages" msprop:Generator_ColumnPropNameInTable="OTWagesColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalWorkDays" msprop:Generator_UserColumnName="TotalWorkDays" msprop:Generator_ColumnVarNameInTable="columnTotalWorkDays" msprop:Generator_ColumnPropNameInRow="TotalWorkDays" msprop:Generator_ColumnPropNameInTable="TotalWorkDaysColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ExcludeDays" msprop:Generator_UserColumnName="ExcludeDays" msprop:Generator_ColumnVarNameInTable="columnExcludeDays" msprop:Generator_ColumnPropNameInRow="ExcludeDays" msprop:Generator_ColumnPropNameInTable="ExcludeDaysColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="AverageWages" msprop:Generator_UserColumnName="AverageWages" msprop:Generator_ColumnVarNameInTable="columnAverageWages" msprop:Generator_ColumnPropNameInRow="AverageWages" msprop:Generator_ColumnPropNameInTable="AverageWagesColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:EmpDAW" />
+      <xs:field xpath="mstns:EmpID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

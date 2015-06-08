@@ -1,0 +1,42 @@
+
+<!--
+<Settings Version="2.0">
+  <ShutdownAfterUsed>false</ShutdownAfterUsed>
+  <AllowMultiDB>false</AllowMultiDB>
+  <EncryptedURLQueryString>false</EncryptedURLQueryString>
+  <UsePDFCreator>false</UsePDFCreator>
+  <PDFCreatorPrinterNameOption>
+  </PDFCreatorPrinterNameOption>
+  <DatabaseConfig index="1">
+    <name>
+    </name>
+    <dbtype>MSSQL</dbtype>
+    <ConnectionString>Data Source=localhost\SQLEXPRESS;Initial Catalog=hrone;User ID=hrone;Password="RbmoyE0kTJ1SzmImbL+Wew=="</ConnectionString>
+  </DatabaseConfig>
+</Settings>
+-->
+
+
+<!--
+<Settings Version="2.0">
+  <MasterDatabaseConfig>
+    <name>
+    </name>
+    <dbtype>MSSQL</dbtype>
+    <ConnectionString>Data Source=localhost\sqlexpress;Initial Catalog=imgrMaster;User ID=hrone;Password="RbmoyE0kTJ1SzmImbL+Wew==";Application Name=HROneWebSaaS</ConnectionString>
+  </MasterDatabaseConfig>
+  <DatabaseConfig index="0">
+    <name>
+    </name>
+    <dbtype>MSSQL</dbtype>
+    <ConnectionString>Data Source=localhost\sqlexpress;Initial Catalog=hrone;User ID=hrone;Password="RbmoyE0kTJ1SzmImbL+Wew==";</ConnectionString>
+  </DatabaseConfig>
+  <ShutdownAfterUsed>false</ShutdownAfterUsed>
+  <AllowMultiDB>false</AllowMultiDB>
+  <EncryptedURLQueryString>true</EncryptedURLQueryString>
+  <UsePDFCreator>true</UsePDFCreator>
+  <DatabaseEncryptKey>yQdsxRly9GCC2kmI4pwvtC8aAWdLiSb+ksZN/4P/H5nJNRtF6I3Duafm8jgZFm2yPsVnNoHl5W2x0KouACMwFQFdn3h203H1TZRuxRnkHqBaOwZowGdzw+dgs7STV3GXEJkqaUEn3fLyh7yx4t85dC7Hn5RZ16+yQMpnDs8l/rA=</DatabaseEncryptKey>
+</Settings>
+-->
+
+<!--  <DatabaseEncryptKey>tI2LU+2kgK5+SzSzpu4oOmtuBjZGlj2EwQsaUKnqUS6kJ7aPtR63dHcfYFYhPWFx6xwmsvMFdMvX9bFuo7c0zYkYn+J/Fc/kW4LN2SkcSUdqsHMVCF0yH+HnfsjZ8um207zkbHWOVYnsuPY0anwJKbzmlcc2rEu3k5rrzo8IZjU=</DatabaseEncryptKey> -->

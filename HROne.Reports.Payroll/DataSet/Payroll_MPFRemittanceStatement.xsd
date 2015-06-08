@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_MPFRemittanceStatement" targetNamespace="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:mstns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns="http://tempuri.org/Payroll_MPFRemittanceStatement.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_MPFRemittanceStatement" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ExistingMember">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" minOccurs="0" />
+              <xs:element name="MPFPlanID" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="HKID" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFrom" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="MCER" type="xs:double" minOccurs="0" />
+              <xs:element name="MCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="VCER" type="xs:double" minOccurs="0" />
+              <xs:element name="VCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="LastEmploymentDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TermCode" type="xs:string" minOccurs="0" />
+              <xs:element name="IsLSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="LSPSPAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="LSPSPAmountPaidByER" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="NewJoinMember">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" minOccurs="0" />
+              <xs:element name="MPFPlanID" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpSurname" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpOtherName" msdata:Caption="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="Sex" type="xs:string" minOccurs="0" />
+              <xs:element name="DateOfBirth" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="HKIDType" type="xs:int" minOccurs="0" />
+              <xs:element name="HKID" type="xs:string" minOccurs="0" />
+              <xs:element name="MemberType" type="xs:int" minOccurs="0" />
+              <xs:element name="SchemeJoinDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ClassNo" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFrom" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="MCER" type="xs:double" minOccurs="0" />
+              <xs:element name="MCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="VCER" type="xs:double" minOccurs="0" />
+              <xs:element name="VCEE" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AdditionalMember">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" minOccurs="0" />
+              <xs:element name="MPFPlanID" type="xs:int" minOccurs="0" />
+              <xs:element name="EmpNo" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="HKID" type="xs:string" minOccurs="0" />
+              <xs:element name="PeriodFrom" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="MCER" type="xs:double" minOccurs="0" />
+              <xs:element name="MCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="VCER" type="xs:double" minOccurs="0" />
+              <xs:element name="VCEE" type="xs:double" minOccurs="0" />
+              <xs:element name="LastEmploymentDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="TermCode" type="xs:string" minOccurs="0" />
+              <xs:element name="IsLSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IsSP" type="xs:boolean" minOccurs="0" />
+              <xs:element name="LSPSPAmount" type="xs:double" minOccurs="0" />
+              <xs:element name="LSPSPAmountPaidByER" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MPFPlan">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MPFPlanID" type="xs:int" />
+              <xs:element name="MPFPlanCode" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanTrusteeName" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanSchemeNo" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanCompanyName" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanCompanyAddress" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanContactName" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFPlanContactNo" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFSchemeID" type="xs:int" minOccurs="0" />
+              <xs:element name="MPFPlanParticipationNo" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFHSBCPayCenter" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MPFScheme">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MPFSchemeID" type="xs:int" />
+              <xs:element name="MPFSchemeCode" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFSchemeDesc" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MPFPlan" />
+      <xs:field xpath="mstns:MPFPlanID" />
+    </xs:unique>
+    <xs:unique name="MPFScheme_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MPFScheme" />
+      <xs:field xpath="mstns:MPFSchemeID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="MPFSchemeID_MPFPlan" msdata:parent="MPFScheme" msdata:child="MPFPlan" msdata:parentkey="MPFSchemeID" msdata:childkey="MPFSchemeID" />
+      <msdata:Relationship name="MPFPlan_ExistingMember" msdata:parent="MPFPlan" msdata:child="ExistingMember" msdata:parentkey="MPFPlanID" msdata:childkey="MPFPlanID" />
+      <msdata:Relationship name="MPFPlan_NewJoinMember" msdata:parent="MPFPlan" msdata:child="NewJoinMember" msdata:parentkey="MPFPlanID" msdata:childkey="MPFPlanID" />
+      <msdata:Relationship name="MPFPlan_AdditionalMember" msdata:parent="MPFPlan" msdata:child="AdditionalMember" msdata:parentkey="MPFPlanID" msdata:childkey="MPFPlanID" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

@@ -1,0 +1,244 @@
+body
+{
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.button
+{
+	background-color: #fe6a10;
+	color: #ffffff;
+	border: solid 1px #cccccc;
+	margin-top:2px;
+	margin-bottom:2px;
+}
+
+.header_text_blue
+{
+	font-size: 18px;
+	line-height: normal;
+	font-weight: normal;
+	color: #1D1264;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_black
+{
+	font-size: 14px;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_greyform
+{
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #A7A7A7;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_blackform
+{
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_blueform
+{
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #1D1264;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_blackformdata
+{
+	font-size: 11px;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_whiteform
+{
+	font-size: xx-small;
+	line-height: normal;
+	font-weight: normal;
+	color: #CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.inside_text_white
+{
+	font-size: x-small;
+	line-height: normal;
+	font-weight: normal;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.button_default
+{
+	background-color: #DDE7EF;
+}
+table.table_border
+{
+	border-collapse: collapse;
+	border-style: double;
+	background-color: #FFFFFF;
+	border-color: #99CCCC;
+}
+td.button_border
+{
+	border-style: solid;
+	border-width: 1px;
+}
+
+
+.pm_search_header
+{
+	font-size: 12px;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	border: solid 1px #cccccc;
+	background-color:#eeeeee;
+	text-align: right;
+	padding: 1px 5px 1px 3px;
+}
+.pm_search
+{
+	font-size: 12px;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	border: solid 1px #cccccc;
+	padding: 1px 3px 1px 3px;
+}
+
+.pm_section
+{
+	border-collapse: collapse;
+	border: solid 1px #cccccc;
+	padding: 3px 3px 3px 3px ;
+}
+.pm_section_title
+{
+	font-size: 18px;
+	line-height: normal;
+	font-weight: normal;
+	color: #1D1264;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+
+.pm_list_pagenav
+{
+    background-color:#EAEAEA;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #A7A7A7;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pm_list_section
+{
+	border-collapse: collapse;
+	border: solid 1px #cccccc;
+}
+
+.pm_list_header
+{
+	border: solid 1px #cccccc; 
+	background-color:#9fc6c8;
+	font-size: 12px;
+	color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.pm_list_header a{
+	text-decoration: none;
+	color: #ffffff;
+}
+.pm_list_header a:hover 
+{
+	text-decoration: underline;
+}
+
+.pm_list
+{
+	border: solid 1px #cccccc; 
+	font-size: 11px;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.pm_field_section
+{
+	border-collapse: collapse;
+	border: solid 1px #cccccc;
+}
+
+.pm_field_title
+{
+	padding-right:5px;
+	padding-left:5px;
+	padding-top:1px;
+	padding-bottom:1px;
+	border: solid 1px #aaaaaa;
+	background-color: #aaaaaa;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.pm_field_header
+{
+	padding-right:5px;
+	padding-left:5px;
+	padding-top:1px;
+	padding-bottom:1px;
+	border: solid 1px #cccccc;
+	background-color: #cccccc;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: right;
+}
+
+.pm_field
+{
+	padding-right:5px;
+	padding-left:5px;
+	border: solid 1px #cccccc;
+	background-color: #ffffff;
+	font-size: 12px;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.pm_submenu_section 
+{
+	border-collapse: collapse;
+	border: solid 1px #346667;
+	background-color:#346667;
+	width: 160px;
+	margin: 10px 10px  10px  10px ;
+}
+
+.pm_submenu_item 
+{
+	padding: 2px 5px 2px 5px;
+}
+
+.pm_submenu_item a{
+	font-family: "Arial", "Helvetica", "sans-serif";
+	font-size: 9pt;
+	text-decoration: none;
+	color: #ffffff;
+}

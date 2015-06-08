@@ -1,0 +1,15 @@
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRPlus.DataAccess\bin\Release\HRExpress.DataAccess.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRPlus.DataAccess\bin\Release\HRPlus.CommonLib.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRPlus.DataAccess\obj\Release\ResolveAssemblyReference.cache
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRPlus.DataAccess\obj\Release\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Debug\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Debug\HRExpress.DataAccess.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Debug\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Debug\HRPlus.CommonLib.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\obj\Debug\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\obj\Debug\HRExpress.DataAccess.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Release\HRExpress.DataAccess.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\bin\Release\HRPlus.CommonLib.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRPlus.DataAccess\obj\Release\HRExpress.DataAccess.dll

@@ -1,0 +1,175 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{675BB2FF-F6E2-4622-961A-D4D6DB914A07}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.BankFile</RootNamespace>
+    <AssemblyName>HROne.BankFile</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="NPOI, Version=1.2.3.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutopayListProcess.cs" />
+    <Compile Include="BOAmericaBankFile.cs" />
+    <Compile Include="BOCBankFile.cs" />
+    <Compile Include="CitiBankFile.cs" />
+    <Compile Include="BOCNYBankFile.cs" />
+    <Compile Include="ANZBankFile.cs" />
+    <Compile Include="SCBiPaymentBankFile.cs" />
+    <Compile Include="UOBBankFile.cs" />
+    <Compile Include="SCBBankMPFFile.cs" />
+    <Compile Include="DBSBankFile.cs" />
+    <Compile Include="HSBCBankFileEncryptedCoverProcess.cs" />
+    <Compile Include="DataSet\HSBCCoverDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HSBCBankFileEncrypted.cs" />
+    <Compile Include="ICBCBankFile.cs" />
+    <Compile Include="DataSet\Payroll_AutoPayList.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Payroll_AutoPayList.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GenericBankFile.cs" />
+    <Compile Include="HSBCBankFile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportTemplate\HSBCBankFileEncryptedCover_Cht.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HSBCBankFileEncryptedCover_Cht.RPT</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\HSBCBankFileEncryptedCover.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HSBCBankFileEncryptedCover.RPT</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_AutopayList.cs">
+      <DependentUpon>Report_Payroll_AutopayList.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SCBBankFile.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet\HSBCCoverDataSet.xsc">
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\HSBCCoverDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HSBCCoverDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\HSBCCoverDataSet.xss">
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_AutoPayList.xsc">
+      <DependentUpon>Payroll_AutoPayList.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_AutoPayList.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_AutoPayList.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_AutoPayList.xss">
+      <DependentUpon>Payroll_AutoPayList.xsd</DependentUpon>
+    </None>
+    <None Include="ICBCBankFile.xls">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ReportTemplate\HSBCBankFileEncryptedCover_Cht.RPT">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HSBCBankFileEncryptedCover_Cht.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\HSBCBankFileEncryptedCover.RPT">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>HSBCBankFileEncryptedCover.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_AutopayList.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_AutopayList.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.HSBC\HROne.HSBC.csproj">
+      <Project>{C00B6964-B252-46F0-93CA-AE8F27F20013}</Project>
+      <Name>HROne.HSBC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.MPFFile\HROne.MPFFile.csproj">
+      <Project>{A8B9996A-3678-4CAD-99F4-9219F63BA732}</Project>
+      <Name>HROne.MPFFile</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

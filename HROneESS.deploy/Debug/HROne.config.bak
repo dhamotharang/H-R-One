@@ -1,0 +1,15 @@
+<Settings Version="2.0">
+  <DatabaseConfig index="0">
+    <name>
+    </name>
+    <dbtype>MSSQL</dbtype>
+    <ConnectionString>Data Source=localhost\sqlexpress;Initial Catalog=hrone;User ID=hrone;Password="RbmoyE0kTJ1SzmImbL+Wew=="</ConnectionString>
+  </DatabaseConfig>
+  <ShutdownAfterUsed>false</ShutdownAfterUsed>
+  <AllowMultiDB>false</AllowMultiDB>
+  <EncryptedURLQueryString>false</EncryptedURLQueryString>
+  <SkipEncryptionToDB>false</SkipEncryptionToDB>
+  <UsePDFCreator>false</UsePDFCreator>
+  <PDFCreatorPrinterNameOption>
+  </PDFCreatorPrinterNameOption>
+</Settings>

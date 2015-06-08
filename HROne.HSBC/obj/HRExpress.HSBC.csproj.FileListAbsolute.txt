@@ -1,0 +1,11 @@
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.HSBC\bin\Release\HRExpress.HSBC.dll
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.HSBC\obj\Release\ResolveAssemblyReference.cache
+D:\Project\hrplus\hr-express\Release\Source\20130826_2_3_588\HRExpress.HSBC\obj\Release\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\bin\Debug\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\bin\Debug\HRExpress.HSBC.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\obj\Debug\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\obj\Debug\HRExpress.HSBC.pdb
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\bin\Release\HRExpress.HSBC.dll
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ricky\Documents\Visual Studio 2005\Projects\Project1\source\HRExpress.HSBC\obj\Release\HRExpress.HSBC.dll

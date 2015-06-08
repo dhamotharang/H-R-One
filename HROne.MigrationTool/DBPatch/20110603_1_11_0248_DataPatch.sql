@@ -1,0 +1,3 @@
+	UPDATE PayrollGroup
+	Set PayGroupTerminatedALCompensationByEEPaymentCodeID=PayGroupTerminatedALCompensationPaymentCodeID
+	WHERE PayGroupTerminatedALCompensationByEEPaymentCodeID is NULL

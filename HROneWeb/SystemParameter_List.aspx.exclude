@@ -1,0 +1,150 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="SystemParameter_List.aspx.cs" Inherits="SystemParameter_List" MasterPageFile="~/MainMasterPage.master" %>
+<%@ Register Src="~/controls/DetailToolBar.ascx" TagName="DetailToolBar" TagPrefix="tb" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="mainContentPlaceHolder" runat="server">
+        <input type="hidden" value="<%=info.order%>" name="order" />
+        <input type="hidden" value="<%=info.orderby%>" name="orderby" />
+        <input type="hidden" id="CurPage" runat="server" />
+        <input type="hidden" id="NumPage" runat="server" />
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_page_title">
+            <tr>
+                <td>
+                    <asp:Label Text="System Parameter Setup" runat="server" />
+                </td>
+            </tr>
+        </table>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_section_title">
+            <tr>
+                <td>
+                    <asp:Label Text="System Parameter Search" runat="server" />
+                </td>
+            </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="pm_section">
+            <tr>
+                <td class="pm_search_header">
+                    <asp:Label Text="Parameter Code" runat="server" />:
+                </td>
+                <td class="pm_search">
+                    <asp:TextBox runat="server" ID="ParameterCode" /></td>
+				<td class="pm_search_header">
+                    <asp:Label Text="Parameter Description" runat="server" />:
+                </td>
+                <td class="pm_search">
+                    <asp:TextBox runat="server" ID="ParameterDesc" /></td>
+
+            </tr>
+            <tr>
+                <td class="pm_search_header">
+                    <asp:Label Text="Parameter Value" runat="server" />:
+                </td>
+                <td class="pm_search">
+                    <asp:TextBox runat="server" ID="ParameterValue" /></td>
+            </tr>
+        </table>
+        <table width="100%" cellpadding="0" cellspacing="0" class="pm_button_section">
+            <tr>
+                <td>
+                    <asp:Button ID="Search" runat="server" Text="Search" CssClass="button" OnClick="Search_Click" />
+                    <asp:Button ID="Reset" runat="server" Text="Reset" CssClass="button" OnClick="Reset_Click" />
+                </td>
+            </tr>
+        </table>
+        <br />
+
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" class="pm_section_title">
+            <tr>
+                <td>
+                    <asp:Label Text="System Parameter List" runat="server" />
+                </td>
+            </tr>
+        </table>
+
+        <table width="100%" cellpadding="0" cellspacing="0" class="pm_button_section">
+            <tr>
+                <td>
+                    <tb:DetailToolBar id="toolBar" runat="server"
+                     BackButton_Visible="false"
+                     EditButton_Visible="false" 
+                     SaveButton_Visible="false" 
+                     OnNewButton_Click ="New_Click"
+                     OnDeleteButton_Click="Delete_Click"
+                      />
+                </td>
+                <td align="right">
+                    <asp:Button ID="btnHelp" runat="server" CSSClass="button" Text=" Help" Visible="false" UseSubmitBehavior="false" OnClientClick="openAlert(); return false;"/>
+                </td>
+            </tr>
+        </table>
+        <table border="0" width="100%" cellspacing="0" cellpadding="0" class="pm_list_section">
+            <col width="26px" />
+            <col width="150px" />
+            <tr>
+                <td class="pm_list_header" align="center">
+                    <asp:Panel ID="SelectAllPanel" runat="server">
+                    <input type="checkbox" onclick="checkAll('<%=Repeater.ClientID %>','ItemSelect',this.checked);" />
+                    </asp:Panel>
+                </td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_ParameterCode" OnClick="ChangeOrder_Click" Text="Parameter Code"></asp:LinkButton></td>
+                <td align="left" class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_ParameterDesc" OnClick="ChangeOrder_Click" Text="Parameter Description"></asp:LinkButton></td>
+                <td class="pm_list_header">
+                    <asp:LinkButton runat="server" ID="_ParameterValue" OnClick="ChangeOrder_Click" Text="Parameter Value"></asp:LinkButton></td>
+            </tr>
+            <asp:Repeater ID="Repeater" runat="server" OnItemDataBound="Repeater_ItemDataBound">
+                <ItemTemplate>
+                    <tr>
+                        <td class="pm_list" align="center">
+                            <asp:CheckBox ID="ItemSelect" runat="server" />
+                        </td>
+                        <td class="pm_list">
+                            <a href="<%#HRPlus.Common.WebUtility.URLwithEncryptQueryString(Session, "SystemParameter_View.aspx?ParameterCode=" + binding.getValue(Container.DataItem,"ParameterCode"))%>">
+                                <%#binding.getValue(Container.DataItem, "ParameterCode")%>
+                            </a>
+                        </td>
+                        <td class="pm_list">
+                            <%#binding.getValue(Container.DataItem, "ParameterDesc")%>
+                        </td>
+                        <td class="pm_list">
+                            <%#binding.getValue(Container.DataItem, "ParameterValue")%>
+                        </td>
+                    </tr>
+                </ItemTemplate>
+            </asp:Repeater>
+        </table>
+        <table width="100%" cellspacing="0" cellpadding="0" class="pm_list_pagenav">
+            <tr>
+                <td align="right">
+                    <asp:LinkButton ID="FirstPage" runat="server" OnClick="FirstPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        <img height="11" alt="Start" id="FirstPageImg" runat="server" src="images/start.gif"
+                            width="13" style="text-align:center; border:0;" />&nbsp;<asp:Label Text="Start" runat="server" />&nbsp;&nbsp;
+                    </asp:LinkButton>
+                    <asp:LinkButton ID="PrevPage" runat="server" OnClick="PrevPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        <img height="11" alt="Previous" id="PrevPageImg" runat="server" src="images/previous.gif"
+                            width="8" style="text-align:center; border:0;" />&nbsp;<asp:Label Text="Previous" runat="server" />&nbsp;
+                    </asp:LinkButton>
+                    <span class="inside_text_blackform">(<asp:Label Text="Record" runat="server" />:
+                        <%=info.startRecord %>
+                        -
+                        <%=info.endRecord %>
+                        of
+                        <%=info.numRecord%>
+                        )</span> &nbsp;
+                    <asp:LinkButton ID="NextPage" runat="server" OnClick="NextPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false">
+                        <img height="11" alt="Next" id="NextPageImg" runat="server" src="images/next.gif"
+                            width="8" style="text-align:center; border:0;"  />&nbsp;<asp:Label Text="Next" runat="server" />&nbsp;
+                    </asp:LinkButton>
+                    <asp:LinkButton ID="LastPage" runat="server" OnClick="LastPage_Click" CssClass="pm_link_pagenav"
+                        EnableViewState="false" >
+                        <img height="11" alt="End" id="LastPageImg" runat="server" src="images/end.gif"
+                            width="13" style="text-align:center; border:0;"  />&nbsp;<asp:Label Text="End" runat="server" />&nbsp;
+                    </asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+</asp:Content> 

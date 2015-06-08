@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Payroll_PaySlip" targetNamespace="http://tempuri.org/Payroll_PaySlip.xsd" xmlns:mstns="http://tempuri.org/Payroll_PaySlip.xsd" xmlns="http://tempuri.org/Payroll_PaySlip.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Payroll_PaySlip" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Payroll_PaySlip" msprop:Generator_DataSetName="Payroll_PaySlip">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="PaySlip" msprop:Generator_UserTableName="PaySlip" msprop:Generator_RowDeletedName="PaySlipRowDeleted" msprop:Generator_RowChangedName="PaySlipRowChanged" msprop:Generator_RowClassName="PaySlipRow" msprop:Generator_RowChangingName="PaySlipRowChanging" msprop:Generator_RowEvArgName="PaySlipRowChangeEvent" msprop:Generator_RowEvHandlerName="PaySlipRowChangeEventHandler" msprop:Generator_TableClassName="PaySlipDataTable" msprop:Generator_TableVarName="tablePaySlip" msprop:Generator_RowDeletingName="PaySlipRowDeleting" msprop:Generator_TablePropName="PaySlip">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" />
+              <xs:element name="PaymentCode" msprop:Generator_UserColumnName="PaymentCode" msprop:Generator_ColumnPropNameInRow="PaymentCode" msprop:Generator_ColumnVarNameInTable="columnPaymentCode" msprop:Generator_ColumnPropNameInTable="PaymentCodeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PayMethod" msprop:Generator_UserColumnName="PayMethod" msprop:Generator_ColumnPropNameInRow="PayMethod" msprop:Generator_ColumnVarNameInTable="columnPayMethod" msprop:Generator_ColumnPropNameInTable="PayMethodColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="PayAmount" msprop:Generator_UserColumnName="PayAmount" msprop:Generator_ColumnPropNameInRow="PayAmount" msprop:Generator_ColumnVarNameInTable="columnPayAmount" msprop:Generator_ColumnPropNameInTable="PayAmountColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Remark" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PaySlip_MPF" msprop:Generator_UserTableName="PaySlip_MPF" msprop:Generator_RowDeletedName="PaySlip_MPFRowDeleted" msprop:Generator_RowChangedName="PaySlip_MPFRowChanged" msprop:Generator_RowClassName="PaySlip_MPFRow" msprop:Generator_RowChangingName="PaySlip_MPFRowChanging" msprop:Generator_RowEvArgName="PaySlip_MPFRowChangeEvent" msprop:Generator_RowEvHandlerName="PaySlip_MPFRowChangeEventHandler" msprop:Generator_TableClassName="PaySlip_MPFDataTable" msprop:Generator_TableVarName="tablePaySlip_MPF" msprop:Generator_RowDeletingName="PaySlip_MPFRowDeleting" msprop:Generator_TablePropName="PaySlip_MPF">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" msprop:Generator_UserColumnName="EmpID" msprop:Generator_ColumnPropNameInRow="EmpID" msprop:Generator_ColumnVarNameInTable="columnEmpID" msprop:Generator_ColumnPropNameInTable="EmpIDColumn" type="xs:int" />
+              <xs:element name="PeriodFr" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="MPFER" msprop:Generator_UserColumnName="PFundER" msprop:Generator_ColumnPropNameInRow="PFundER" msprop:Generator_ColumnVarNameInTable="columnPFundER" msprop:Generator_ColumnPropNameInTable="PFundERColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MPFEE" msprop:Generator_UserColumnName="PFundEE" msprop:Generator_ColumnPropNameInRow="PFundEE" msprop:Generator_ColumnVarNameInTable="columnPFundEE" msprop:Generator_ColumnPropNameInTable="PFundEEColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="VCER" type="xs:double" minOccurs="0" />
+              <xs:element name="VCEE" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="LeaveBalance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="LeaveBalanceID" type="xs:int" />
+              <xs:element name="EmpID" type="xs:int" minOccurs="0" />
+              <xs:element name="LeaveBalanceEffectiveDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="LeaveBalanceBF" type="xs:double" minOccurs="0" />
+              <xs:element name="LeaveBalanceEntitled" type="xs:double" minOccurs="0" />
+              <xs:element name="LeaveBalanceForfeiture" type="xs:double" minOccurs="0" />
+              <xs:element name="Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Description" type="xs:string" minOccurs="0" />
+              <xs:element name="Balance" type="xs:double" minOccurs="0" />
+              <xs:element name="Taken" type="xs:double" minOccurs="0" />
+              <xs:element name="Adjust" type="xs:double" minOccurs="0" />
+              <xs:element name="Reserved" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PaySlip_ORSO">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" />
+              <xs:element name="PeriodFr" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="PeriodTo" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RelevantIncome" type="xs:double" minOccurs="0" />
+              <xs:element name="ER" msdata:Caption="VCER" type="xs:double" minOccurs="0" />
+              <xs:element name="EE" msdata:Caption="VCEE" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="EmpInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpID" type="xs:int" />
+              <xs:element name="EmpName" type="xs:string" minOccurs="0" />
+              <xs:element name="EmpChineseName" type="xs:string" minOccurs="0" />
+              <xs:element name="PayGroupDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="CompanyName" type="xs:string" minOccurs="0" />
+              <xs:element name="PositionDesc" type="xs:string" minOccurs="0" />
+              <xs:element name="PayrollPeriod" type="xs:string" minOccurs="0" />
+              <xs:element name="MPFDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="ValueDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BankAccount" type="xs:string" minOccurs="0" />
+              <xs:element name="HasMPF" type="xs:boolean" minOccurs="0" />
+              <xs:element name="HasLeaveBalance" type="xs:boolean" minOccurs="0" />
+              <xs:element name="HasORSO" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:LeaveBalance" />
+      <xs:field xpath="mstns:LeaveBalanceID" />
+    </xs:unique>
+    <xs:unique name="EmpInfo_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:EmpInfo" />
+      <xs:field xpath="mstns:EmpID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="EmpInfo_PaySlip" msdata:parent="EmpInfo" msdata:child="PaySlip" msdata:parentkey="EmpID" msdata:childkey="EmpID" />
+      <msdata:Relationship name="PaySlip_LeaveBalance" msdata:parent="EmpInfo" msdata:child="LeaveBalance" msdata:parentkey="EmpID" msdata:childkey="EmpID" />
+      <msdata:Relationship name="PaySlip_PaySlip_MPF" msdata:parent="EmpInfo" msdata:child="PaySlip_MPF" msdata:parentkey="EmpID" msdata:childkey="EmpID" />
+      <msdata:Relationship name="PaySlip_PaySlip_ORSO" msdata:parent="EmpInfo" msdata:child="PaySlip_ORSO" msdata:parentkey="EmpID" msdata:childkey="EmpID" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

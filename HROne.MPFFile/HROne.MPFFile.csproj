@@ -1,0 +1,252 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8B9996A-3678-4CAD-99F4-9219F63BA732}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HROne.MPFFile</RootNamespace>
+    <AssemblyName>HROne.MPFFile</AssemblyName>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.2.3600.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="NPOI, Version=1.2.5.0, Culture=neutral, PublicKeyToken=0df73ec7942b34e1, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Dlls\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BOCIPMPFFile.cs" />
+    <Compile Include="AIAMPFFile.cs" />
+    <Compile Include="MPFRemittanceStatementProcessFandV.cs" />
+    <Compile Include="DataSet\Payroll_MPFRemittanceStatement.cs">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HSBCOISMPFFile.cs" />
+    <Compile Include="DataSet\Payroll_MPFFirstContributionStatement.Designer.cs">
+      <DependentUpon>Payroll_MPFFirstContributionStatement.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="MPFFirstContributionStatementProcess.cs" />
+    <Compile Include="DataSet\HSBCCoverDataSet.cs">
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet\HSBCCoverDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HSBCMPFGatewayFileEncrypted.cs" />
+    <Compile Include="HSBCMPFGatewayFile.cs" />
+    <Compile Include="DataSet\Payroll_MPFRemittanceStatement.Designer.cs">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="GenericMPFFile.cs" />
+    <Compile Include="HSBCMPFFile.cs" />
+    <Compile Include="HSBCMPFGatewayFileEncryptedCoverProcess.cs" />
+    <Compile Include="ManulifeMPFFile.cs" />
+    <Compile Include="MPFRemittanceStatementProcess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReportTemplate\Report_Payroll_MPFFirstContributionStatement.cs">
+      <DependentUpon>Report_Payroll_MPFFirstContributionStatement.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_BOCI.cs">
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement_BOCI.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_CessationReason.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement_CessationReason.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPF_HSBCCover_Cht.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_MPF_HSBCCover_Cht.RPT</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPF_HSBCCover.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Report_Payroll_MPF_HSBCCover.RPT</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement.cs">
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_AIA.cs">
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement_AIA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_AXA.cs">
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement_AXA.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_HSBC.cs">
+      <DependentUpon>Report_Payroll_MPFRemittanceStatement_HSBC.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet\Payroll_MPFFirstContributionStatement.xsc">
+      <DependentUpon>Payroll_MPFFirstContributionStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFFirstContributionStatement.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_MPFFirstContributionStatement.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_MPFFirstContributionStatement.xss">
+      <DependentUpon>Payroll_MPFFirstContributionStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\HSBCCoverDataSet.xsc">
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\HSBCCoverDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HSBCCoverDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet\HSBCCoverDataSet.xss">
+      <DependentUpon>HSBCCoverDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xsc">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Payroll_MPFRemittanceStatement.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Payroll_MPFRemittanceStatement.xss">
+      <DependentUpon>Payroll_MPFRemittanceStatement.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFFirstContributionStatement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFFirstContributionStatement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_BOCI.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement_BOCI.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_CessationReason.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement_CessationReason.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPF_HSBCCover_Cht.RPT">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPF_HSBCCover_Cht.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPF_HSBCCover.RPT">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPF_HSBCCover.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_AIA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement_AIA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_AXA.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement_AXA.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportTemplate\Report_Payroll_MPFRemittanceStatement_HSBC.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Report_Payroll_MPFRemittanceStatement_HSBC.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{B4F97281-0DBD-4835-9ED8-7DFB966E87FF}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HROne.HSBC\HROne.HSBC.csproj">
+      <Project>{C00B6964-B252-46F0-93CA-AE8F27F20013}</Project>
+      <Name>HROne.HSBC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.CommonLib\HROne.CommonLib.csproj">
+      <Project>{4C3A4B00-F9AB-43E9-9293-6CF80417CE6C}</Project>
+      <Name>HROne.CommonLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.DataAccess\HROne.DataAccess.csproj">
+      <Project>{C9A5BC17-B651-4610-AF1E-D90B465CC59D}</Project>
+      <Name>HROne.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib.Payroll\HROne.Lib.Payroll.csproj">
+      <Project>{FA33A1C3-697E-4F93-96DA-82061FA4EEE8}</Project>
+      <Name>HROne.Lib.Payroll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HROne.Lib\HROne.Lib.csproj">
+      <Project>{B8610D39-1C1E-4883-95C1-70DB6EA7BB24}</Project>
+      <Name>HROne.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
