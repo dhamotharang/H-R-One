@@ -261,12 +261,14 @@ public partial class MainMasterPage : HROneWebMasterPage
                 // if (subMenuItem.Text.Equals("Approval History", StringComparison.CurrentCultureIgnoreCase))
                 if (subMenuItem.NavigateUrl.EndsWith("/ESS_EmpSupervisorApprovalHistory.aspx", StringComparison.CurrentCultureIgnoreCase))
                 // ***** End 2013/11/15, Ricky So, revise the show/hide menu routine
-                {
-                    DBFilter approvalHistoryFilter = new DBFilter();
-                    approvalHistoryFilter.add(new Match("EmpRequestApprovalHistoryActionByEmpID", user.EmpID));
-                    if (EEmpRequestApprovalHistory.db.count(dbConn,approvalHistoryFilter)<=0)
-                        removeSubMenuItemArray.Add(subMenuItem);
-                }
+                // ***** Start 0000208, Miranda, 2015-06-12
+                //{
+                //    DBFilter approvalHistoryFilter = new DBFilter();
+                //    approvalHistoryFilter.add(new Match("EmpRequestApprovalHistoryActionByEmpID", user.EmpID));
+                //    if (EEmpRequestApprovalHistory.db.count(dbConn,approvalHistoryFilter)<=0)
+                //        removeSubMenuItemArray.Add(subMenuItem);
+                //}
+                // ***** End 0000208, Miranda, 2015-06-12
                 // Start 0000060, Miranda, 2014-07-15
                 //if (subMenuItem.NavigateUrl.EndsWith("/ESS_EmpOTClaims.aspx", StringComparison.CurrentCultureIgnoreCase))
                 //    if (!(ESystemParameter.getParameter(dbConn, ESystemParameter.PARAM_CODE_ESS_ENABLE_OTCLAIM).Equals("N", StringComparison.CurrentCultureIgnoreCase) ? false : true))

@@ -117,7 +117,33 @@ public partial class Emp_AuthorizeHistory_List : HROneWebControl
             // End 0000124, Miranda, 2014-11-10
             // End 0000064, Miranda, 2014-09-19
             filter.add(new MatchField("rah.EmpRequestID", "R.EmpRequestID"));
-            filter.add(new Match("rah.EmpRequestApprovalHistoryActionByEmpID", CurID));
+            // Start 0000208, Miranda, 2015-06-12
+            //filter.add(new Match("rah.EmpRequestApprovalHistoryActionByEmpID", CurID));
+            DBFilter m_filter = new DBFilter();
+            m_filter.add(new Match("a.EmpID", CurID));
+            DataTable m_table = AppUtils.runSelectSQL("a.AuthorizationGroupID", "From "+EAuthorizer.db.dbclass.tableName +" a", m_filter, dbConn);
+            DBFilter a_filter = new DBFilter();
+            if(m_table.Rows != null)
+            {
+                ArrayList list = new ArrayList();
+                foreach(DataRow row in m_table.Rows){
+                    list.Add(row[0].ToString());
+                }
+                String[] values = (String[])list.ToArray(typeof(String));
+                a_filter.add(new IN("a.AuthorizationGroupID", values));
+            }
+            DataTable a_table = AppUtils.runSelectSQL("distinct a.EmpID", "From " + EAuthorizer.db.dbclass.tableName + " a", a_filter, dbConn);
+            if (a_table.Rows != null)
+            {
+                ArrayList list = new ArrayList();
+                foreach (DataRow row in a_table.Rows)
+                {
+                   list.Add(row[0].ToString());
+                }
+                String[] values = (String[])list.ToArray(typeof(String));
+                filter.add(new IN("rah.EmpRequestApprovalHistoryActionByEmpID", values));
+            }
+            // End 0000208, Miranda, 2015-06-12
             // Start 0000180, KuangWei, 2015-03-25
             // Start 0000064, Miranda, 2014-09-19
             // Start 0000124, Miranda, 2014-11-10
