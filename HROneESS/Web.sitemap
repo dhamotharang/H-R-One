@@ -16,7 +16,9 @@
     <siteMapNode url="~/ESS_EmpSupervisorApprovalHistory.aspx" title="Approval History" description="Approval History"  ImageUrl="images/dot.jpg"/>
     <siteMapNode url="~/ESS_RosterTable_View.aspx" title="Roster Table" description="Roster Table"  ImageUrl="images/dot.jpg"/>
     <siteMapNode url="~/ESS_TimeCardRecord.aspx" title="Time Card Record" description="Time Card Record"  ImageUrl="images/dot.jpg"/>
-    <siteMapNode url="~/ESS_Attendance_TimeEntry_List.aspx" title="Input In/Out Time" description="Roster Table"  ImageUrl="images/dot.jpg"/>
+    <!-- Start 0000209, Miranda, 2015-06-11 -->
+    <siteMapNode url="~/ESS_Attendance_TimeEntry_List.aspx" title="Input in/out Time" description="Input in/out Time"  ImageUrl="images/dot.jpg"/>
+    <!-- End 0000209, Miranda, 2015-06-11 -->
     <siteMapNode url="~/ESS_AttendanceTimeEntryReport.aspx" title="Attendance Time Entry Report" description="Attendance Time Entry Report"  ImageUrl="images/dot.jpg"/>
     <siteMapNode url="~/ESS_MonthlyAttendanceReport.aspx" title="Monthly Attendance Report" description="Monthly Attendance Report"  ImageUrl="images/dot.jpg"/>    
     <siteMapNode url="~/ESS_EmpLeaveBalanceReport.aspx" title="Leave Balance Report" description="Leave Balance Report"  ImageUrl="images/dot.jpg"/>

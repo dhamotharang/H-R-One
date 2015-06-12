@@ -40,8 +40,10 @@
                 Text="Out Time"></asp:LinkButton>
         </td>
         <td align="left" class="pm_list_header">
+        <!-- Start 0000209, Miranda, 2015-06-11 -->
             <asp:LinkButton runat="server" ID="_AttendanceRecordActualLateMins" OnClick="ChangeOrder_Click"
-                Text="Late (Mins)"></asp:LinkButton>
+                Text="Late (mins)"></asp:LinkButton>
+        <!-- End 0000209, Miranda, 2015-06-11 -->
         </td>
         <td align="left" class="pm_list_header">
             <asp:Label runat="server" ID="_RequestLateWaiveCreateDate" OnClick="ChangeOrder_Click" Text="Action Date"></asp:Label>

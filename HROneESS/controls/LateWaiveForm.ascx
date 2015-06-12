@@ -75,7 +75,9 @@
                 <asp:LinkButton runat="server" ID="_AttendanceRecordWorkEnd" OnClick="ChangeOrder_Click"  Text="Out Time" />
             </td>
             <td class="pm_list_header" align="center">
-                <asp:LinkButton runat="server" ID="_AttendanceRecordAcutalLateMins" OnClick="ChangeOrder_Click"  Text="Late (Mins)" />
+            <!-- Start 0000209, Miranda, 2015-06-11 -->
+                <asp:LinkButton runat="server" ID="_AttendanceRecordAcutalLateMins" OnClick="ChangeOrder_Click"  Text="Late (mins)" />
+            <!-- End 0000209, Miranda, 2015-06-11 -->
             </td>
         </tr>
         <asp:Repeater ID="Repeater" runat="server" OnItemDataBound="Repeater_ItemDataBound">

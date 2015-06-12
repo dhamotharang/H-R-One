@@ -1938,3 +1938,11 @@ CL Requisition History=补假申请纪录
 
 HKID is already input in system, click SAVE button again to bypass this warning and save to database=香港身份证号码已被用于另一位员工使用，如要储存，请按「确定」后再按「储存」键一次
 User Setting=用户设定
+#Start 0000209, Miranda, 2015-06-11
+Time Card Record=拍卡记录
+Time Card Records=拍卡记录
+Date/Time=日期/时间
+Attendance Time Entry Report=考勤记录表
+Late (Mins)=迟到 (分钟)
+As of Date=指定日期
+#End 0000209, Miranda, 2015-06-11

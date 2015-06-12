@@ -35,7 +35,9 @@ public partial class ESS_RosterTable_View : HROneWebPage
         EESSUser user = WebUtils.GetCurUser(Session);
         if (user != null)
             m_ESSUserID = user.EmpID;
-
+        // Start 0000209, Miranda, 2015-06-11
+        HROne.Common.WebUtility.WebControlsLocalization(this, this.Controls);
+        // End 0000209, Miranda, 2015-06-11
         DateTime currentDate= AppUtils.ServerDateTime().Date;
         DBFilter empRosterTableGroupFilter = new DBFilter();
         empRosterTableGroupFilter.add(new Match("ertg.EmpID", m_ESSUserID));

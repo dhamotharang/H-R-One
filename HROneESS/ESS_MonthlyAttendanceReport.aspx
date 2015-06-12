@@ -38,7 +38,9 @@
         </tr>
         <tr>
             <td class="pm_field_header">
-                <asp:Label ID="lblHeader" runat="server" Text="As of Date" />:
+            <!-- Start 0000209, Miranda, 2015-06-11 -->
+                <asp:Label ID="lblHeader" runat="server" Text="As Of Date" />:
+            <!-- End 0000209, Miranda, 2015-06-11 -->
             </td>
             <td class="pm_field">
                 <uc1:WebDatePicker ID="AsOfDate" runat="server" />
