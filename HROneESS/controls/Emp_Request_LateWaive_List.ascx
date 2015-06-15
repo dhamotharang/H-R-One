@@ -42,7 +42,9 @@
                 <asp:LinkButton runat="server" ID="_AttendanceRecordDate" OnClick="ChangeOrder_Click" Text="Date" />
             </td>
             <td class="pm_list_header">
-                <asp:LinkButton runat="server" ID="_AttendanceRecordAcutalLateMins" OnClick="ChangeOrder_Click" Text="Late (Mins)" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_AttendanceRecordActualLateMins" OnClick="ChangeOrder_Click" Text="Late (Mins)" />
+            <!-- End 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header">
                 <asp:Label runat="server" Text="Status" />

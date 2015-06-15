@@ -109,8 +109,10 @@ public partial class LateWaiveForm : HROneWebControl
     protected DataView loadData(ListInfo info, DBManager db, Repeater repeater)
     {
         DBFilter filter = sbinding.createFilter();
-        if (info != null && info.orderby != null && !info.orderby.Equals(""))
-            filter.add(info.orderby, info.order);
+        //Start 0000210, Miranda, 2015-06-14
+        //if (info != null && info.orderby != null && !info.orderby.Equals(""))
+        //    filter.add(info.orderby, info.order);
+        //End 0000210, Miranda, 2015-06-14
 
         DateTime dtPeriodFr, dtPeriodTo;
         if (DateTime.TryParse(RequestLateWaivePeriodFrom.Value, out dtPeriodFr))

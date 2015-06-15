@@ -39,13 +39,19 @@
                 <asp:LinkButton runat="server" ID="_RequestOTClaimCreateDate" OnClick="ChangeOrder_Click" Text="Submit Date" />
             </td>
             <td class="pm_list_header">
-                <asp:LinkButton runat="server" ID="_RequestOTClaimDateFrom" OnClick="ChangeOrder_Click" Text="From" />
+                <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_RequestOTClaimPeriodFrom" OnClick="ChangeOrder_Click" Text="From" />
+                <!-- End 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header">
-                <asp:LinkButton runat="server" ID="_RequestOTClaimDateTo" OnClick="ChangeOrder_Click" Text="To" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_RequestOTClaimPeriodTo" OnClick="ChangeOrder_Click" Text="To" />
+            <!-- End 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header" colspan="2">
-                <asp:LinkButton runat="server" ID="_RequestOTClaimTimeFrom" OnClick="ChangeOrder_Click" Text="Time" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_RequestOTClaimHourFrom" OnClick="ChangeOrder_Click" Text="Time" />
+            <!-- End 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header">
                 <asp:Label runat="server" Text="Status" />

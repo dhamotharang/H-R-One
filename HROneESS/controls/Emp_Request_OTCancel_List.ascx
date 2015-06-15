@@ -36,7 +36,9 @@
         </tr>
         <tr >
             <td class="pm_list_header">
-                <asp:LinkButton runat="server" ID="_RequestOTClaimCancelCreateDate" OnClick="ChangeOrder_Click" Text="Submit Date" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_RequestOTClaimCancelCreateDateTime" OnClick="ChangeOrder_Click" Text="Submit Date" />
+            <!-- End 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header">
                 <asp:LinkButton runat="server" ID="_OTClaimDateFrom" OnClick="ChangeOrder_Click" Text="From" />

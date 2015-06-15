@@ -66,7 +66,9 @@
                 <asp:LinkButton runat="server" ID="_AttendanceRecordDate" OnClick="ChangeOrder_Click"  Text="Date" />
             </td>
             <td class="pm_list_header" align="center">
-                <asp:LinkButton runat="server" ID="_RosterCodeID" OnClick="ChangeOrder_Click"  Text="Roster" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_RosterCodeDesc" OnClick="ChangeOrder_Click"  Text="Roster" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
             </td>
             <td class="pm_list_header" align="center">
                 <asp:LinkButton runat="server" ID="_AttendanceRecordWorkStart" OnClick="ChangeOrder_Click"  Text="In Time" />
@@ -76,7 +78,9 @@
             </td>
             <td class="pm_list_header" align="center">
             <!-- Start 0000209, Miranda, 2015-06-11 -->
-                <asp:LinkButton runat="server" ID="_AttendanceRecordAcutalLateMins" OnClick="ChangeOrder_Click"  Text="Late (mins)" />
+            <!-- Start 0000210, Miranda, 2015-06-14 -->
+                <asp:LinkButton runat="server" ID="_AttendanceRecordActualLateMins" OnClick="ChangeOrder_Click"  Text="Late (mins)" />
+            <!-- End 0000210, Miranda, 2015-06-14 -->
             <!-- End 0000209, Miranda, 2015-06-11 -->
             </td>
         </tr>

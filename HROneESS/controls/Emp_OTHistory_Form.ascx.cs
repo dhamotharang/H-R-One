@@ -75,9 +75,10 @@ public partial class Emp_OTHistory_Form : HROneWebControl
         DBFilter filter = sbinding.createFilter();
         filter.add(new Match("EmpID", this.CurID));
         filter.add(new Match("CompensationLeaveEntitleIsOTClaim", this.isOTClaim));
-
-        if (info != null && info.orderby != null && !info.orderby.Equals(""))
-            filter.add(info.orderby, info.order);
+        //Start 0000210, Miranda, 2015-06-14
+        //if (info != null && info.orderby != null && !info.orderby.Equals(""))
+        //    filter.add(info.orderby, info.order);
+        //End 0000210, Miranda, 2015-06-14
 
         string select = "c.* ";
         string from = "from [" + sdb.dbclass.tableName + "] c";

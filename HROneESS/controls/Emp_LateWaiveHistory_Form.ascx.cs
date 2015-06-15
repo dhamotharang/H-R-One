@@ -80,10 +80,10 @@ public partial class Emp_LateWaiveHistory_Form : HROneWebControl
         filter.add(new Match("c.EmpID", this.CurID));
         filter.add(new IN("e.EmpRequestType", lateWaiveReqType));
         //filter.add(new Match("Year(RequestLateWaiveCreateDate)", "=", Year.Text));
-
-        if (info != null && info.orderby != null && !info.orderby.Equals(""))
-            filter.add(info.orderby, info.order);
-
+        //Start 0000210, Miranda, 2015-06-14
+        //if (info != null && info.orderby != null && !info.orderby.Equals(""))
+        //    filter.add(info.orderby, info.order);
+        //End 0000210, Miranda, 2015-06-14
         string select = "c.*, e.EmpRequestID, a.AttendanceRecordDate, a.AttendanceRecordWorkStart, a.AttendanceRecordWorkEnd, a.AttendanceRecordActualLateMins, r.RosterCodeDesc ";
         string from = "from [" + sdb.dbclass.tableName + "] c" +
             " right join " + EEmpRequest.db.dbclass.tableName + " e on e.EmpRequestRecordID = c.RequestLateWaiveID and e.EmpID = c.EmpID" +
