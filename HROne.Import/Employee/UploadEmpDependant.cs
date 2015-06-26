@@ -256,9 +256,10 @@ namespace HROne.Import
                 {
                     if (m_EffectiveDate.Ticks == 0)
                         errors.addError(ImportErrorMessage.ERROR_INVALID_FIELD_VALUE, new string[] { FIELD_MEDICAL_EFFECTIVE_DATE + "=" + row[FIELD_MEDICAL_EFFECTIVE_DATE].ToString(), EmpNo, rowCount.ToString() });
-
-                    if (m_ExpiryDate.Ticks == 0)
-                        errors.addError(ImportErrorMessage.ERROR_INVALID_FIELD_VALUE, new string[] { FIELD_EXPIRY_DATE + "=" + row[FIELD_EXPIRY_DATE].ToString(), EmpNo, rowCount.ToString() });
+                    // Start 0000190, Miranda, 2015-06-18
+                    //if (m_ExpiryDate.Ticks == 0)
+                    //    errors.addError(ImportErrorMessage.ERROR_INVALID_FIELD_VALUE, new string[] { FIELD_EXPIRY_DATE + "=" + row[FIELD_EXPIRY_DATE].ToString(), EmpNo, rowCount.ToString() });
+                    // End 0000190, Miranda, 2015-06-18
                 }
                 else
                 {
