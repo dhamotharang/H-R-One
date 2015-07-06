@@ -347,7 +347,12 @@ namespace HROne.Lib.Entities
             leaveApp.LeaveCodeID = RequestLeaveCodeID;
             if (leaveApp.IsOverlapLeaveApplication(dbConn, out OverlapOutstandardLeaveApplicationList))
             {
-                OverlapLeaveApplicationList.AddRange(OverlapOutstandardLeaveApplicationList);
+                // Start 0000233, Miranda, 2015-07-05
+                if (RequestLeaveAppUnit.Equals("D"))
+                {
+                    OverlapLeaveApplicationList.AddRange(OverlapOutstandardLeaveApplicationList);
+                }
+                // End 0000233, Miranda, 2015-07-05
             }
 
             if (OverlapLeaveApplicationList.Count > 0)
