@@ -187,15 +187,22 @@ public partial class Emp_Authorize_List : HROneWebControl
             //    + EEmpRequest.STATUS_USRSUBMIT.ToString() + "'))))";
 
             // Start 0000105, KuangWei, 2014-10-21
-            string select = "R.*, E.EmpNo, E.EmpEngSurname, E.EmpEngOtherName, E.EmpAlias, L.LeaveCode, L.LeaveCodeDesc ";
+            // Start 0000232, Miranda, 2015-07-02
+            string select = "R.*, E.EmpNo, E.EmpEngSurname, E.EmpEngOtherName, E.EmpAlias, ISNULL ( L.LeaveCode , L2.LeaveCode ) as LeaveCode, ISNULL ( L.LeaveCodeDesc , L2.LeaveCodeDesc) as LeaveCodeDesc";
+			// End 0000232, Miranda, 2015-07-02
             string from = "from " + db.dbclass.tableName + " R "
                 + " LEFT JOIN " + EEmpPersonalInfo.db.dbclass.tableName + " E on R.EmpID = E.EmpID "
             + " Left Join " + EEmpPositionInfo.db.dbclass.tableName + " EP on EP.EmpID = E.EmpID "
             + " and EP.EmpPosEffFr <= '" + DateTime.Today.ToString("yyyy-MM-dd") + "' AND (EP.EmpPosEffTO >= '" + DateTime.Today.ToString("yyyy-MM-dd") + "' or EP.EmpPosEffTo is Null )"
             // Start 0000112, Miranda, 2015-01-11
-            + " LEFT JOIN " + ERequestLeaveApplication.db.dbclass.tableName + " C on R.EmpRequestRecordID = C.RequestLeaveAppID and R.EmpRequestType in ('" + EEmpRequest.TYPE_EELEAVEAPP + "', '" + EEmpRequest.TYPE_EELEAVECANCEL + "') "
+			// Start 0000232, Miranda, 2015-07-02
+            + " LEFT JOIN " + ERequestLeaveApplication.db.dbclass.tableName + " C on R.EmpRequestRecordID = C.RequestLeaveAppID and R.EmpRequestType = '" + EEmpRequest.TYPE_EELEAVEAPP + "'"
+            +" LEFT JOIN " + ERequestLeaveApplicationCancel.db.dbclass.tableName + " CC on R.EmpRequestRecordID = CC.RequestLeaveAppCancelID and R.EmpRequestType = '" + EEmpRequest.TYPE_EELEAVECANCEL + "'"
+            + " LEFT JOIN " + ELeaveApplication.db.dbclass.tableName + " LA on LA.LeaveAppID = CC.LeaveAppID"
             // End 0000112, Miranda, 2015-01-11
-            + " LEFT JOIN " + ELeaveCode.db.dbclass.tableName + " L on C.RequestLeaveCodeID = L.LeaveCodeID ";
+            + " LEFT JOIN " + ELeaveCode.db.dbclass.tableName + " L on C .RequestLeaveCodeID = L.LeaveCodeID "
+            + " LEFT JOIN " + ELeaveCode.db.dbclass.tableName + " L2 on LA.LeaveCodeID = L2.LeaveCodeID";
+            // End 0000232, Miranda, 2015-07-02
             // End 0000105, KuangWei, 2014-10-21
 
             //DBFilter authorizerFilter = new DBFilter();
